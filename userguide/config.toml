@@ -169,11 +169,6 @@ enable = false
 	url = "https://groups.google.com/forum/#!forum/docsy-users"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
-[[params.links.user]]
-	name ="Twitter"
-	url = "https://twitter.com/docsydocs"
-	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
 # [[params.links.user]]
 	# name = "Stack Overflow"
 	# url = "https://example.org/stack"
