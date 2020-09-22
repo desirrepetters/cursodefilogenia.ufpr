@@ -119,22 +119,15 @@ the Hugo team and have individuals actively maintaining the Docsy theme. You can
 apply Docsy updates to your site, as well as open feature requests to improve the 
 template, or even add new behaviors. [Learn more...](/docs/updating/)
 
-
-### Focus on great content
-
-Because Docsy helps you create and serve a well-organized, navigable technical documentation set, it frees you up to create and maintain great reliable, comprehensive content that your users can enjoy and trust.
-{{% /blocks/section %}}
-{{% blocks/section type="section" color="primary" %}}
-
 ## Quem somos nós?
 
-<table width="653">
+<table>
 <tbody>
 <tr>
-<td rowspan="3" width="110"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke" width="199" height="350" /></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke"/></td>
 </tr>
 <tr>
-<td style="text-align: center" width="354">
+<td style="text-align: center">
 
 &nbsp;
 
@@ -156,28 +149,48 @@ Chirlei Glienke é professora do <a href="http://www.bio.ufpr.br/portal/genetica
 </tbody>
 </table>
 
-Chirlei Glienke é professora do Departamento de Genética da UFPR desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em Genética e Microbiologia, Parasitologia e Patologia da UFPR.
+### Focus on great content
 
-                Atua principalmente nos seguintes tópicos:
+Because Docsy helps you create and serve a well-organized, navigable technical documentation set, it frees you up to create and maintain great reliable, comprehensive content that your users can enjoy and trust.
+{{% /blocks/section %}}
+{{% blocks/section type="section" color="primary" %}}
 
-Filogenia e Taxonomia Molecular
+## Quem somos nós?
 
-Identificação e diagnóstico de microrganismos
+<table>
+<tbody>
+<tr>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke"/></td>
+</tr>
+<tr>
+<td style="text-align: center">
 
-Doenças fúngicas em Citrus
+&nbsp;
 
-Fungos endofíticos
+Chirlei Glienke é professora do <a href="http://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="http://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
+<p style="text-align: left">                Atua principalmente nos seguintes tópicos:</p>
 
-Controle Biológico
+<ul>
+<ul>
+ 	<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+ 	<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
+ 	<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
+ 	<li style="text-align: left">Fungos endofíticos</li>
+ 	<li style="text-align: left">Controle Biológico</li>
+ 	<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
+</ul>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
-Epidemiologia molecular de Phyllosticta citricarpa
 
-Docsy is an open source project and we love getting patches and contributions to make Docsy and its docs even better. We hope to continue to make improvements to the theme along with the Docsy community.
+
+
 
 Visit our [Issues](https://github.com/google/docsy/issues) to see what we're currently working on. If there's something you'd like to see in Docsy, please create an issue yourself - or assign yourself an issue if you'd like to fix or add something! See our [contribution guidelines](/docs/contribution-guidelines/) for more information.
 
-You can find out how to update your site to the latest version of Docsy in [Keeping the theme up to date](/docs/updating/).
-{{% /blocks/section %}}
 
 
 
