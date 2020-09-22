@@ -1,13 +1,13 @@
 ---
-title: About Docsy
-linkTitle: About
+title: Sobre o curso
+linkTitle: Sobre o curso
 menu:
   main:
     weight: 10
 layout: docs
 ---
 
-{{% blocks/cover title="About Docsy" height="auto" %}}
+{{% blocks/cover title="Por que empregar sequências de DNA e análises filogenéticas" height="auto" %}}
 
 Docsy is a pre-configured Hugo theme that provides the core features and behaviors needed to create a technical documentation site. Use Docsy to set up your documentation website, including an optional Blog section, and then spend your time focusing on authoring technical content. Depending on how you choose to configure Docsy and whether you use a hosting service that supports continuous builds, you can even just add your Markdown or HTML content file into a folder on your source repository, and then sit back while it automatically gets added to your site - complete with updated menus.
 
@@ -31,7 +31,7 @@ Once you have your content, you use a technical documentation site to publish yo
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
-## How does Docsy help?
+## Como este curso pode te ajudar?
 
 Particularly when working with open source projects, it can be difficult to figure out how to turn all your product knowledge into a website that helps and engages your users. **Enter Docsy!**
 
@@ -125,7 +125,52 @@ template, or even add new behaviors. [Learn more...](/docs/updating/)
 Because Docsy helps you create and serve a well-organized, navigable technical documentation set, it frees you up to create and maintain great reliable, comprehensive content that your users can enjoy and trust.
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="primary" %}}
-## What's next for Docsy?
+
+## Quem somos nós?
+
+<table width="653">
+<tbody>
+<tr>
+<td rowspan="3" width="110"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke" width="199" height="350" /></td>
+</tr>
+<tr>
+<td style="text-align: center" width="354">
+
+&nbsp;
+
+Chirlei Glienke é professora do <a href="http://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="http://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
+<p style="text-align: left">                Atua principalmente nos seguintes tópicos:</p>
+
+<ul>
+<ul>
+ 	<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+ 	<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
+ 	<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
+ 	<li style="text-align: left">Fungos endofíticos</li>
+ 	<li style="text-align: left">Controle Biológico</li>
+ 	<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
+</ul>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+Chirlei Glienke é professora do Departamento de Genética da UFPR desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em Genética e Microbiologia, Parasitologia e Patologia da UFPR.
+
+                Atua principalmente nos seguintes tópicos:
+
+Filogenia e Taxonomia Molecular
+
+Identificação e diagnóstico de microrganismos
+
+Doenças fúngicas em Citrus
+
+Fungos endofíticos
+
+Controle Biológico
+
+Epidemiologia molecular de Phyllosticta citricarpa
 
 Docsy is an open source project and we love getting patches and contributions to make Docsy and its docs even better. We hope to continue to make improvements to the theme along with the Docsy community.
 
