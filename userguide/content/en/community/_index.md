@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Inscrições
 menu:
   main:
     weight: 40
