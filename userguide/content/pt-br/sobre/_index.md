@@ -135,25 +135,18 @@ Chirlei Glienke é professora do <a href="http://www.bio.ufpr.br/portal/genetica
 </ul>
 
 <strong>Formação</strong>
+<p>
 <ul>
-<ul>
-<ul>
- 	<li>Graduação em Ciências Biológicas - Universidade Federal do Mato Grosso do Sul (UFMS) (1991)</li>
- 	<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (1995)</li>
- 	<li>Doutorado em Agronomia (Genética e Melhoramento de Plantas) - Universidade de São Paulo (ESAQL/USP)(1999)</li>
+<li>Graduação em Ciências Biológicas - Universidade Federal do Mato Grosso do Sul (UFMS) (1991)</li>
+<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (1995)</li>
+<li>Doutorado em Agronomia (Genética e Melhoramento de Plantas) - Universidade de São Paulo (ESAQL/USP)(1999)</li>
 </ul>
-</ul>
-</ul>
-&nbsp;
+<p>
 
 <strong>Pós-doutorado</strong>
 <ul>
-<ul>
-<ul>
- 	<li>Pós-Doutorado no Westerdijk Fungal Biodiversity Institute em Utrecht, Holanda (2009)</li>
- 	<li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2014)</li>
-</ul>
-</ul>
+<li>Pós-Doutorado no Westerdijk Fungal Biodiversity Institute em Utrecht, Holanda (2009)</li>
+<li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2014)</li>
 </ul>
 
 </td>
@@ -187,23 +180,16 @@ Desirrê Petters-Vandresen é aluna de doutorado do Programa de Pós-Graduação
 </ul>
 
 <strong>Formação</strong>
+<p>
 <ul>
-<ul>
-<ul>
- 	<li>Graduação em Ciências Biológicas - Universidade Federal do Paraná (UFPR) (2015)</li>
- 	<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018)</li>
- 	<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Graduação em Ciências Biológicas - Universidade Federal do Paraná (UFPR) (2015)</li>
+<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018)</li>
+<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
 </ul>
-</ul>
-</ul>
-
 </td>
-
 </tr>
 <tr>
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="chirlei_glienke" width="110"/></td>
-
-
 </tr>
 </tbody>
 </table>
@@ -215,10 +201,7 @@ Desirrê Petters-Vandresen é aluna de doutorado do Programa de Pós-Graduação
 
 O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
-Você pode visitar o site do Laboratório BioGeMM para conhecer melhor a nossa equipe, produção acadêmica, e também saber das últimas novidades e publicações mais recentes!
-
-
-Visit our [Issues](https://github.com/google/docsy/issues) 
+Você pode visitar o site do [Laboratório BioGeMM](http://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](http://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](http://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](http://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
 
 
 
