@@ -10,8 +10,8 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/pt-br"
-defaultContentLanguage = "pt-br"
+contentDir = "content/en"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -66,10 +66,10 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
-[languages.pt-br]
+[languages.en]
 title = "Docsy"
 description = "Docsy does docs"
-languageName ="Português"
+languageName ="English"
 # Weight used for sorting.
 weight = 1
 
