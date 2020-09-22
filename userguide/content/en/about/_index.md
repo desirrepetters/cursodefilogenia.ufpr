@@ -214,7 +214,7 @@ Desirrê Petters-Vandresen é aluna de doutorado do Programa de Pós-Graduação
 
 </tr>
 <tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="chirlei_glienke"/></td>
+<td rowspan="3" width="110"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="chirlei_glienke"/></td>
 
 
 </tr>
