@@ -120,7 +120,8 @@ apply Docsy updates to your site, as well as open feature requests to improve th
 template, or even add new behaviors. [Learn more...](/docs/updating/)
 
 ## Quem somos nós?
-
+<p>
+<p>
 <table>
 <tbody>
 <tr>
@@ -132,7 +133,8 @@ template, or even add new behaviors. [Learn more...](/docs/updating/)
 &nbsp;
 
 Chirlei Glienke é professora do <a href="http://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="http://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
-<p style="text-align: left">                Atua principalmente nos seguintes tópicos:</p>
+<p><p>
+<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
 <ul>
@@ -144,7 +146,77 @@ Chirlei Glienke é professora do <a href="http://www.bio.ufpr.br/portal/genetica
  	<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
 </ul>
 </ul>
+
+<strong>Formação</strong>
+<ul>
+<ul>
+<ul>
+ 	<li>Graduação em Ciências Biológicas - Universidade Federal do Mato Grosso do Sul (UFMS) (1991)</li>
+ 	<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (1995)</li>
+ 	<li>Doutorado em Agronomia (Genética e Melhoramento de Plantas) - Universidade de São Paulo (ESAQL/USP)(1999)</li>
+</ul>
+</ul>
+</ul>
+&nbsp;
+
+<strong>Pós-doutorado</strong>
+<ul>
+<ul>
+<ul>
+ 	<li>Pós-Doutorado no Westerdijk Fungal Biodiversity Institute em Utrecht, Holanda (2009)</li>
+ 	<li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2014)</li>
+</ul>
+</ul>
+</ul>
+
 </td>
+</tr>
+</tbody>
+</table>
+<p>
+<p>
+<p>
+
+<table>
+<tbody>
+<tr>
+
+<td style="text-align: center">
+
+&nbsp;
+
+Desirrê Petters-Vandresen é aluna de doutorado do Programa de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<p><p>
+<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+
+<ul>
+<ul>
+ 	<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+ 	<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
+ 	<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
+ 	<li style="text-align: left">Fungos endofíticos</li>
+ 	<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
+</ul>
+</ul>
+
+<strong>Formação</strong>
+<ul>
+<ul>
+<ul>
+ 	<li>Graduação em Ciências Biológicas - Universidade Federal do Paraná (UFPR) (2015)</li>
+ 	<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018)</li>
+ 	<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+</ul>
+</ul>
+</ul>
+
+</td>
+
+</tr>
+<tr>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="chirlei_glienke"/></td>
+
+
 </tr>
 </tbody>
 </table>
