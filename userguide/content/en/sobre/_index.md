@@ -23,11 +23,11 @@ A technical documentation site is a website that your users can visit to find th
 
 *   **Reliable**: Is it true?
 *   **Comprehensive**: Does it have all the information your target users might need?
-*   **Well-organized and navigable**: Can the user find the information they need? Are similar types of information (all the information about a feature, all your reference information) grouped together?
+*   **Well-organized and navigable**: Can the user find the information they need? Are similar types of information (all the information a feature, all your reference information) grouped together?
 
 If you have users around the world, you might also want to provide your content in multiple languages, and if you have an open source project, you’ll probably want your users to be able to contribute to the docs.
 
-Once you have your content, you use a technical documentation site to publish your technical documentation set online for your users. In addition to your documentation, your site might also contain material like contact information, a blog, or information about how to contribute to the project.
+Once you have your content, you use a technical documentation site to publish your technical documentation set online for your users. In addition to your documentation, your site might also contain material like contact information, a blog, or information how to contribute to the project.
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
