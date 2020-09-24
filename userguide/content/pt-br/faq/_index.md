@@ -1,17 +1,16 @@
 ---
-title: FAQ - Perguntas Mais Frequentes
-linkTitle: FAQ - Perguntas Mais Frequentes
+title: Dúvidas Frequentes
+linkTitle: Dúvidas Frequentes
 menu:
   main:
     weight: 40
 layout: docs
 ---
 
-{{% blocks/cover title="FAQ - Perguntas Mais Frequentes" height="auto" color="black" %}}
+{{% blocks/cover title="Dúvidas Frequentes" height="auto" color="black" %}}
 
 Nessa seção buscamos responder às dúvidas mais frequentes em relação à vários aspectos do curso. Essa página será constantemente atualizada sempre que surgirem novas dúvidas, mas caso não encontre a resposta para sua pergunta, sinta-se à vontade para entrar em contato conosco pelo e-mail <b>cursodefilogeniaufpr@gmail.com</b>! Estaremos sempre à disposição para esclarecer qualquer dúvida ou fornecer mais informações!
 
-Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="primary" %}}
