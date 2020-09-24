@@ -67,7 +67,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.pt-br]
-title = "Curso"
+title = "Curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética"
 description = "Curso de Sequências"
 languageName ="Português"
 # Weight used for sorting.
@@ -152,8 +152,8 @@ navbar_logo = true
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 # Update with your own repository and response text.
-yes = 'Glad to hear it! Please <a href="https://github.com/google/docsy/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/google/docsy/issues/new">tell us how we can improve</a>.'
+yes = 'Ficamos felizes em saber que este conteúdo foi útil! Caso tenha mais sugestões, sinta-se à vontade para <a href="mailto:cursodefilogeniaufpr@gmail.com">dividi-las conosco!</a>.'
+no = 'Pedimos desculpas pelo problema! Por favor,  <a href="mailto:cursodefilogeniaufpr@gmail.com">diga-nos como podemos resolver o problema e ajudar você</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -165,7 +165,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
  [[params.links.user]]
 	name = "Envie um e-mail pra gente!"
-	url = "cursodefilogenia@gmail.com"
+	url = "mailto:cursodefilogenia@gmail.com"
 	icon = "fa fa-envelope"
         desc = "E-mail de contato para dúvidas e muito mais!"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
