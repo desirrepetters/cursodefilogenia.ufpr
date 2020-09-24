@@ -99,7 +99,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <table>
 <tbody>
 <tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke" width="410"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="Chirlei Glienke profile picture" align="middle"/></td>
 <td>
 
 &nbsp;
@@ -165,7 +165,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
 </ul>
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirre_Petters_Vandresen" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirrê Petters-Vandresen profile picture" width="310"/></td>
 </tr>
 </tbody>
 </table>
