@@ -99,7 +99,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <table>
 <tbody>
 <tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke" width="410"/></td>
 <td>
 
 &nbsp;
@@ -109,14 +109,12 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <p style="text-align: right">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
-<ul>
- 	<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
- 	<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
- 	<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
- 	<li style="text-align: left">Fungos endofíticos</li>
- 	<li style="text-align: left">Controle Biológico</li>
- 	<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
-</ul>
+<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
+<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
+<li style="text-align: left">Fungos endofíticos</li>
+<li style="text-align: left">Controle Biológico</li>
+<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
 </ul>
 
 <strong>Formação</strong>
@@ -155,11 +153,8 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
-<ul>
- 	<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
- 	<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
-
-</ul>
+<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
 </ul>
 
 <strong>Formação</strong>
@@ -170,7 +165,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
 </ul>
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirre_Petters_Vandresen" width="210"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirre_Petters_Vandresen" width="310"/></td>
 </tr>
 </tbody>
 </table>
