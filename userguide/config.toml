@@ -165,7 +165,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
  [[params.links.user]]
 	name = "Envie um e-mail pra gente!"
-	url = "@gmail.com"
+	email = "cursodefilogenia@gmail.com"
 	icon = "fa fa-envelope"
         desc = "E-mail de contato para dúvidas e muito mais!"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
