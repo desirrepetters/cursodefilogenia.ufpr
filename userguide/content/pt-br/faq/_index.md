@@ -9,7 +9,7 @@ layout: docs
 
 {{% blocks/cover title="Dúvidas Frequentes" height="auto" color="black" %}}
 
-Nessa seção buscamos responder às dúvidas mais frequentes em relação à vários aspectos do curso. Essa página será constantemente atualizada sempre que surgirem novas dúvidas, mas caso não encontre a resposta para sua pergunta, sinta-se à vontade para entrar em contato conosco pelo e-mail <b>cursodefilogeniaufpr@gmail.com</b>! Estaremos sempre à disposição para esclarecer qualquer dúvida ou fornecer mais informações!
+Nessa seção buscamos responder às dúvidas mais frequentes em relação à vários aspectos do curso. Essa página será constantemente atualizada sempre que surgirem novas dúvidas, mas caso não encontre a resposta para sua pergunta, sinta-se à vontade para entrar em contato conosco pelo e-mail <b>cursodefilogenia.ufpr@gmail.com</b>! Estaremos sempre à disposição para esclarecer qualquer dúvida ou fornecer mais informações!
 
 {{% /blocks/cover %}}
 
@@ -95,79 +95,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 ## Quem somos nós?
 <p>
 <p>
-<table>
-<tbody>
-<tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="Chirlei Glienke profile picture" align="middle"/></td>
-<td>
 
-&nbsp;
-
-<b>Chirlei Glienke</b> é professora do <a href="http://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="http://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
-<p><p>
-<p style="text-align: right">Atua principalmente nos seguintes tópicos:</p>
-
-<ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
-<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
-<li style="text-align: left">Fungos endofíticos</li>
-<li style="text-align: left">Controle Biológico</li>
-<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
-</ul>
-
-<strong>Formação</strong>
-<p>
-<ul>
-<li>Graduação em Ciências Biológicas - Universidade Federal do Mato Grosso do Sul (UFMS) (1991)</li>
-<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (1995)</li>
-<li>Doutorado em Agronomia (Genética e Melhoramento de Plantas) - Universidade de São Paulo (ESAQL/USP)(1999)</li>
-</ul>
-<p>
-
-<strong>Pós-doutorado</strong>
-<ul>
-<li>Pós-Doutorado no Westerdijk Fungal Biodiversity Institute em Utrecht, Holanda (2009)</li>
-<li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2014)</li>
-</ul>
-
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<p>
-<p>
-
-<table>
-<tbody>
-<tr>
-
-<td>
-
-&nbsp;
-
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
-<p><p>
-<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
-
-<ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
-</ul>
-
-<strong>Formação</strong>
-<p>
-<ul>
-<li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
-<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
-</ul>
-</td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirrê Petters-Vandresen profile picture" width="310"/></td>
-</tr>
-</tbody>
-</table>
 
 
 

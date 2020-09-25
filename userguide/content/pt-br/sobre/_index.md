@@ -25,17 +25,11 @@ A technical documentation site is a website that your users can visit to find th
 *   **Comprehensive**: Does it have all the information your target users might need?
 *   **Well-organized and navigable**: Can the user find the information they need? Are similar types of information (all the information a feature, all your reference information) grouped together?
 
-If you have users around the world, you might also want to provide your content in multiple languages, and if you have an open source project, you’ll probably want your users to be able to contribute to the docs.
 
-Once you have your content, you use a technical documentation site to publish your technical documentation set online for your users. In addition to your documentation, your site might also contain material like contact information, a blog, or information how to contribute to the project.
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
 ## Como 
-
-Particularly when working with open source projects, it can be difficult to figure out how to turn all your product knowledge into a website that helps and engages your users. **Enter Docsy!**
-
-Docsy gives you a theme for the [Hugo](https://gohugo.io/) static site generator, an established open source tool that builds ready-to-serve websites from a set of theme and content files. The Docsy theme provides you with useful stuff for a technical documentation site that *isn’t* your own content:
 
 <table>
   <tr>
@@ -76,35 +70,18 @@ Docsy gives you a theme for the [Hugo](https://gohugo.io/) static site generator
   </tr>
 </table>
 
-### Built-in integration with common tools
-
-The Docsy template currently includes built-in integration with the following tools:
-
-* [**GitHub**](https://github.com): Get in-page links directly to your GitHub repo and provide your users with a
-   convenient pathway to providing feedback, opening issues, and even suggesting changes through Pull Requests.
-* [**Google Analytics**](https://analytics.google.com/analytics/web/): Easily connect your Google Analytics account to your 
-   site.
-* [**Google Custom Search**](https://cse.google.com/cse/): Use Google Custom Search for in-site search queries, or 
-  configure your site to search the web.
-* [**Algolia DocSearch**](https://community.algolia.com/docsearch/): Let your users search your site with Algolia DocSearch.
-* [**Lunr**](https://lunrjs.com/): Local indexing and search for your site without the need for external search services.
-
-### Make it your own
-
-You can configure the Docsy theme as much or as little as you like, anything from changing the colours and images to adding your own type of page layout. [Learn more...](docs/adding-content/lookandfeel/)
-
 ## Quem somos nós?
 <p>
 <p>
 <table>
 <tbody>
 <tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke" width="410"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="https://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke"/></td>
 <td>
 
 &nbsp;
 
-<b>Chirlei Glienke</b> é professora do <a href="http://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="http://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
+<b>Chirlei Glienke</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="https://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
 <p><p>
 <p style="text-align: right">Atua principalmente nos seguintes tópicos:</p>
 
@@ -143,12 +120,11 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <table>
 <tbody>
 <tr>
-
 <td>
 
-&nbsp;
+<p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="http://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
@@ -165,7 +141,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
 </ul>
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="http://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirre_Petters_Vandresen" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="https://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/05/desirre.jpg" alt="Desirre_Petters_Vandresen" width="310"/></td>
 </tr>
 </tbody>
 </table>
@@ -177,7 +153,7 @@ You can configure the Docsy theme as much or as little as you like, anything fro
 <p><p>
 O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
-Você pode visitar o site do [Laboratório BioGeMM](http://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](http://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](http://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](http://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
+Você pode visitar o site do [Laboratório BioGeMM](https://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
 
 
 
