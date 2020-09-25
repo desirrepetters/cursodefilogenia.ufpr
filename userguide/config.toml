@@ -52,7 +52,6 @@ quality = 75
 anchor = "smart"
 
 # Additional menu items
-[menu]
 [[menu.main]]
 	identifier = "Parceiros"
     name = "Parceiros"
