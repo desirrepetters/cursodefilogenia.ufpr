@@ -76,7 +76,7 @@ A technical documentation site is a website that your users can visit to find th
 <table>
 <tbody>
 <tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="https://www.bio.ufpr.br/portal/biogemm/wp-content/uploads/sites/55/2019/06/chirlei_glienke-199x300.jpg" alt="chirlei_glienke"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/chirlei_glienke.jpg" alt="chirlei_glienke"/></td>
 <td>
 
 &nbsp;
