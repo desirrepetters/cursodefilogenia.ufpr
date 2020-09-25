@@ -20,7 +20,7 @@ other = "em"
 
 # Footer text
 [footer_all_rights_reserved]
-other = "Todos os direitos reservados"
+other = "Todos os direitos reservados."
 
 [footer_privacy_policy]
 other = "Política de Privacidade"
