@@ -58,7 +58,7 @@ anchor = "smart"
     url = "https://www.bio.ufpr.br/portal/biogemm/"
 	
 [[menu.main]]
-    name = "(PPG - Genética"
+    name = "PPG - Genética"
     weight = 60
     url = "https://www.bio.ufpr.br/portal/ppggenetica/"
 	
@@ -130,7 +130,7 @@ time_format_default = "January 2, 2006"
 rss_sections = ["blog"]
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011217106833237091527:la2vtv2emlw"
+# gcs_engine_id = "011217106833237091527:la2vtv2emlw"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
