@@ -23,7 +23,7 @@ Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e
 
 {{% blocks/section type="section" color="white" %}}
 
-## Como o curso está estruturado? 
+<h2>Como o curso está estruturado?</h2> 
 <p><p>
 O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
 <p><p>
@@ -32,8 +32,8 @@ O curso conta com aulas teóricas e práticas, as quais serão realizadas por v�
 <p><p>
 O curso ocorrerá entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020. As aulas acontecerão às segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
 <p><p>
-## Quais conteúdos serão abordados?
 
+<h2>Quais conteúdos serão abordados?</h2>
 <p>
 <p>
 
@@ -79,10 +79,9 @@ O curso ocorrerá entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020. 
 </ul>
    </td>
   </tr>
-
 </table>
-
-## Quem somos nós?
+<p><p>
+<h2>Quem somos nós?</h2>
 <p>
 <p>
 <table>
