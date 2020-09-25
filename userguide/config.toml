@@ -52,19 +52,21 @@ quality = 75
 anchor = "smart"
 
 # Additional menu items
-
+[menu]
 [[menu.main]]
+	identifier = "Parceiros"
     name = "Parceiros"
     weight = 50
-    
-
-[[menu.main]]
+	url ="/sobre"
+  [[menu.main]]
+	identifier = "biogemm"
     name = "Laboratório BioGeMM"
     weight = 1
     url = "https://www.bio.ufpr.br/portal/biogemm/"
 	parent = "Parceiros"
 	
 [[menu.main]]
+	identifier = "ppggen"
     name = "Programa de Pós-Graduação em Genética (PPG-Gen - UFPR)"
     weight = 2
     url = "https://www.bio.ufpr.br/portal/ppggenetica/"
