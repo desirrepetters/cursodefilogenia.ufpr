@@ -9,17 +9,21 @@ layout: docs
 
 {{% blocks/cover title="Como o curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética pode te ajudar?" height="auto" color="black" %}}
 
+
+
+{{% /blocks/cover %}}
+
+{{% blocks/section type="section" color="primary" %}}
+
+## Quais conteúdos serão abordados?
+
 Independentemente do contexto, a qualidade da comunicação científica e de troca de informações é extremamente dependente da existência de um sistema robusto de nomenclatura e identificação de espécies. Seja para entender melhor a biodiversidade existente, ou para lidar com desafios gerados por patógenos de plantas, animais ou humanos, identificar uma espécie corretamente garante que a comunidade científica possa trocar conhecimento com maior confiabilidade e solucionar problemas com mais facilidade. 
 
 Nesse sentido, o uso de sequências de DNA e análises filogenéticas permite que nossa compreensão da biodiversidade e a capacidade de descobrir novas espécies cresçam continuamente e exponencialmente, gerando ganhos em diversas áreas. Entretanto, estas ferramentas também trazem diversos desafios: sem o preparo e conhecimento adequado, possíveis erros de identificação podem acontecer e gerar sérios problemas e prejuízos. 
 
 Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e Análise Filogenética" é proporcionar o treinamento adequado com as melhores práticas em todas as etapas do processo, desde a obtenção das sequências até à precisa identificação da espécie. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para empregar sequências de DNA e análises filogenéticas em seus projetos!
 
-{{% /blocks/cover %}}
-
-{{% blocks/section type="section" color="primary" %}}
-
-## Como este curso pode te ajudar? 
+<p><p>
 
 A technical documentation site is a website that your users can visit to find the documentation for your technical project.  Your documentation set contains all the information you think your users might need to engage with your project, from overviews that help them understand what the project is for, to instructions for specific tasks. Depending on the size of the project, a documentation set can be a page or two or an entire “book” with different types of information.
 
