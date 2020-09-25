@@ -19,70 +19,66 @@ Nesse sentido, o uso de sequências de DNA e análises filogenéticas permite qu
 
 Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e Análise Filogenética" é proporcionar o treinamento adequado com as melhores práticas em todas as etapas do processo, desde a obtenção das sequências até à precisa identificação da espécie. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para empregar sequências de DNA e análises filogenéticas em seus projetos!
 
-<p><p>
-
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
 
-## Como o curso está estruturado? Quais conteúdos serão abordados?
+## Como o curso está estruturado? 
+<p><p>
+O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
+<p><p>
+## Quais são as datas?
+<p><p>
+O curso ocorrerá entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020. As aulas acontecerão às segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
+<p><p>
+## Quais conteúdos serão abordados?
 
-O curso conta com aulas teóricas e práticas 
-
-<b>Tópicos Teóricos</b>
-
-
-Identificação de espécies em microrganismos – problemas e soluções.
-Obtenção, alinhamento e análise de seqüências; Bancos de dados.
-
-Métodos de reconstrução filogenética e modelos evolutivos.
-
-Princípios para escolha de sequências para compor a árvore filogenética. Como usar os Bancos de dados. 
-
-Construção e interpretação de árvores filogenéticas. 
-
-Depósito de sequencias no GenBank
-Depósito de alinhamentos no TreeBase
-
+<p>
+<p>
 
 <table>
   <tr>
-   <td><strong>19/10/2020 (segunda-feira, 09:00-13:00)</strong>
+   <td><strong>Tópicos Teóricos</strong>
    </td>
-   <td>Introdução ao curso
-   </td>
-  </tr>
-  <tr>
-   <td><strong>22/10/2020 (quinta-feira, 13:30-17:30)
-   </strong>
-   </td>
-   <td>Conteúdos básicos em taxonomia, sistemática e filogenia molecular
-   </td>
-  </tr>
-  <tr>
-   <td><strong>26/10/2020 (segunda-feira, 09:00-13:00)</strong>
-   </td>
-   <td>Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados.
+   <td>
+   <ul>
+<li style="text-align: left">Introdução ao curso</li>
+<li style="text-align: left">Conteúdos básicos em taxonomia, sistemática e filogenia molecular</li>
+<li style="text-align: left">Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados</li>
+<li style="text-align: left">Identificação de espécies em microrganismos – problemas e soluções.</li>
+<li style="text-align: left">Obtenção, alinhamento e análise de seqüências; Bancos de dados.</li>
+<li style="text-align: left">Métodos de reconstrução filogenética e modelos evolutivos.</li>
+<li style="text-align: left">Princípios para escolha de sequências para compor a árvore filogenética. Como usar os Bancos de dados. </li>
+<li style="text-align: left">Construção e interpretação de árvores filogenéticas. </li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td><strong>29/10/2020 (quinta-feira, 13:30-17:30) </strong>
+   <td><strong>Tópicos Práticos</strong>
    </td>
-   <td>Let your users file issues and edit docs with a single click, or follow contact links to join you on Slack, Twitter, or mailing lists.
+   <td>
+   <ul>
+<li style="text-align: left">Obtenção de sequências consenso, análise de cromatogramas</li>
+<li style="text-align: left">Busca de sequências em bancos de dados, alinhamento e edição de alinhamentos</li>
+<li style="text-align: left">Testes de modelo evolutivo</li>
+<li style="text-align: left">Construção de árvores filogenéticas em diferentes softwares</li>
+<li style="text-align: left">Alinhamento multigênico</li>
+<li style="text-align: left">Construção e interpretação de árvores filogenéticas</li>
+<li style="text-align: left">Edição e preparação das árvores filogenéticas para publicações científicas</li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td><strong>Custom shortcodes</strong>
+   <td><strong>CONTEÚDO EXTRA!</strong>
    </td>
-   <td>Reusable snippets of HTML you can use to create alerts, image boxes, landing page blocks, and more.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Easy customization</strong>
-   </td>
-   <td>Use the theme as-is for a basic, clean design, or update a file or two to get your own look.
+   <td>
+   <ul>
+<li style="text-align: left">Depósito de sequências no GenBank</li>
+<li style="text-align: left">Depósito de alinhamentos no TreeBase</li>
+</ul>
    </td>
   </tr>
+
 </table>
 
 ## Quem somos nós?
