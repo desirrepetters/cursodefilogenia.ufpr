@@ -1,7 +1,7 @@
 
 ---
-title: "Welcome to Docsy"
-linkTitle: "Documentation"
+title: "Material Didático"
+linkTitle: "Material Didático"
 
 ---
 
@@ -36,7 +36,7 @@ If you have a very large documentation project, our example site structure may n
 
 If you'd like to use Docsy's layouts but prefer to use Jekyll, [vsoch](https://github.com/vsoch) has created a [Docsy Jekyll port](https://github.com/vsoch/docsy-jekyll) that includes many of Docsy's features (though as this is a separate project it won't be automatically updated along with Docsy).
 
-## Ready to get started?
+## Pronto para começar?
 
 Find out how to build and serve your first site in [Getting Started](./getting-started/). Or visit the [example site](https://example.docsy.dev) and [its repo](https://github.com/google/docsy-example) and start exploring!
 
