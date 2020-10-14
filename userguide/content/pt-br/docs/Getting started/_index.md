@@ -11,6 +11,10 @@ description: >
 
 ## Primeiros passos
 
+Ao trabalhar com sequências de DNA e realizar análises filogenéticas, diferentes softwares e métodos são necessários para cada uma das etapas. Existem inúmeros softwares disponíveis na literatura capazes de atender às principais necessidades, seja de forma gratuita ou paga. No contexto do curso usaremos alguns softwares específicos como exemplo durante as atividades práticas, e que se instalados em seu computador, permitirão um melhor aproveitamento das aulas práticas.
+<p>
+Nesta seção da apostila, listaremos os softwares que serão utilizados durante o curso, com instruções para sua obtenção e instalação. Optamos por trabalhar apenas com softwares disponíveis gratuitamente, confiáveis, seguros, e amplamente empregados em publicações científicas. Junto às instruções de instalação de cada software, também disponibilizamos as devidas publicações e referências (quando existentes), para que você possa citá-las durante a preparação de suas publicações futuras!
+
 ### Install Hugo 
 
 You need a [recent **extended** version](https://github.com/gohugoio/hugo/releases) (we recommend version 0.53 or later) of [Hugo](https://gohugo.io/) to do local builds and previews of sites (like this one) that use Docsy. If you install from the release page, make sure to get the `extended` Hugo version, which supports [SCSS](https://sass-lang.com/documentation/file.SCSS_FOR_SASS_USERS.html); you may need to scroll down the list of releases to see it. 
