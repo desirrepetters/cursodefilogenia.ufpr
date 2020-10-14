@@ -125,7 +125,7 @@ github_project_repo = "https://github.com/desirrepetters/cursodefilogenia.ufpr"
 github_subdir = "userguide"
 
 time_format_blog = "Monday, January 02, 2006"
-time_format_default = "January 2, 2006"
+time_format_default = "2 de Janeiro de 2006"
 # Sections to publish in the main RSS feed.
 rss_sections = ["blog"]
 
