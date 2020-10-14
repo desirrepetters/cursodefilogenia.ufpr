@@ -1,11 +1,11 @@
 
 ---
-title: "Material Didático"
-linkTitle: "Material Didático"
+title: "Welcome to Docsy"
+linkTitle: "Documentation"
 
 ---
 
-Bem-vindo à seção de material didático do nosso Curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética! Nesta seção, você terá acesso às gravações e slides das aulas, material didático complementar às aulas teóricas e práticas, bem como vídeos extras de tutoriais das atividades práticas. 
+Welcome to the Docsy theme user guide! This guide shows you how to get started creating technical documentation sites using Docsy, including site customization and how to use Docsy's blocks and templates.
 
 ## What is Docsy?
 
@@ -36,7 +36,7 @@ If you have a very large documentation project, our example site structure may n
 
 If you'd like to use Docsy's layouts but prefer to use Jekyll, [vsoch](https://github.com/vsoch) has created a [Docsy Jekyll port](https://github.com/vsoch/docsy-jekyll) that includes many of Docsy's features (though as this is a separate project it won't be automatically updated along with Docsy).
 
-## Pronto para começar?
+## Ready to get started?
 
 Find out how to build and serve your first site in [Getting Started](./getting-started/). Or visit the [example site](https://example.docsy.dev) and [its repo](https://github.com/google/docsy-example) and start exploring!
 
