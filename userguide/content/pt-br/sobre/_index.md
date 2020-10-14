@@ -30,7 +30,9 @@ O curso conta com aulas teóricas e práticas, as quais serão realizadas por v�
 
 <h2>Quais são as datas?</h2>
 <p><p>
-O curso ocorrerá entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020. As aulas acontecerão às segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
+Para a turma 01, com as inscrições fechadas e que já está em andamento, as aulas ocorrerão entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020. As aulas acontecerão às segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30)
+<p>
+Para a turma 02, <b>cujas inscrições estão ABERTAS</b>, o curso ocorrerá entre os dias 30 de Novembro de 2020 e 18 de Dezembro de 2020. As aulas acontcerão às segundas e quartas à tarde (13:30 até 17:30) e sextas pela manhã (08:30-12:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
