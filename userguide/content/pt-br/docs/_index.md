@@ -23,21 +23,12 @@ Docsy itself does **not** provide:
 
 Docsy also doesn't actually generate your site's HTML files: that's Hugo's job! Hugo takes your Markdown or HTML doc source files and Docsy's theme files and builds them into a static site for deployment. You can find out more about Hugo and how it works in the [Hugo documentation](https://gohugo.io/documentation/).
 
-## Is Docsy for me?
+## Posso compartilhar este material?
 
-Docsy is particularly useful for medium to large technical documentation sets with 20+ pages of docs and/or multiple types of docs and pages: tutorials, reference documentation, blog posts, community pages, and so on.
-
-If you have a smaller project with only a couple of pages of documentation and hence simpler navigation needs, Docsy may be too heavyweight a solution for you. Instead, consider:
-
-* A simpler Hugo or Jekyll theme: find out what's available in Github Pages' [built-in Jekyll options](https://pages.github.com/themes/) and the [Hugo theme gallery](https://themes.gohugo.io/).
-* A good README file that tells users what your project does and links to some examples.
-
-If you have a very large documentation project, our example site structure may not be sufficient either, though you can still use our theme, possibly with heavier customization.
-
-If you'd like to use Docsy's layouts but prefer to use Jekyll, [vsoch](https://github.com/vsoch) has created a [Docsy Jekyll port](https://github.com/vsoch/docsy-jekyll) that includes many of Docsy's features (though as this is a separate project it won't be automatically updated along with Docsy).
+Este material faz parte do “Curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética”. É um material exclusivo destinado apenas aos participantes do curso como informação complementar às aulas teóricas e práticas e não deve ser disponibilizado fora do contexto do curso.
 
 ## Pronto para começar?
 
-Find out how to build and serve your first site in [Getting Started](./getting-started/). Or visit the [example site](https://example.docsy.dev) and [its repo](https://github.com/google/docsy-example) and start exploring!
+Que tal começar pelo [download e instalação](./getting-started/) dos softwares que são utilizados nas aulas práticas. Ou que tal começar a estudar o [conteúdo teórico?](https://example.docsy.dev)
 
 
