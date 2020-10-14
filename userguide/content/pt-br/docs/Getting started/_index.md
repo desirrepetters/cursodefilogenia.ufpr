@@ -1,15 +1,15 @@
 
 ---
-title: "Getting Started"
-linkTitle: "Getting Started"
+title: "Download e Instalação dos Softwares"
+linkTitle: "Download e Instalação dos Softwares"
 weight: 2
-date: 2018-07-30
+date: 2020-10-14
 description: >
-  This page tells you how to get started with the Docsy theme, including installation and basic configuration.
+  Nesta página descreveremos como realizar o download e instalação dos softwares que serão utilizados durante as atividades práticas.
 ---
 
 
-## Prerequisites and installation
+## Primeiros passos
 
 ### Install Hugo 
 
