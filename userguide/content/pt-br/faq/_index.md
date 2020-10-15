@@ -27,20 +27,34 @@ Recomendamos que a conexão à Internet comporte a realização de vídeoconfer�
 <b>Quando terei acesso à apostila/site com os conteúdos teóricos e práticos?</b><p>
 O acesso ao site e à apostila, bem como detalhes e instruções de uso, serão disponibilizados no dia da primeira aula (19 de Outubro de 2020).
 <p><p>
+
+<b>Se eu não puder participar de alguma das aulas, perderei o conteúdo?</b><p>
+As aulas serão gravadas e disponibilizadas posteriormente, então poderão ser reassistidas, e em caso de faltas, o conteúdo não será perdido.
+<p><p>
+
+<b>Receberei certificado ao final do curso?</b><p>
+Se você participar de 75% ou mais das atividades, receberá um certificado de conclusão ao final do curso, com a carga horária e conteúdo programático.
+<p><p>
+
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
 ## Inscrições
 <p><p>
 <b>Até quando as inscrições estão abertas?</b><p>
-Até o dia 13 de Outubro de 2020 (terça-feira)
+As incrições da Turma 02 estão abertas até o dia 23 de Novembro de 2020 (segunda-feira).
 <p><p>
 
-<b>Como posso realizar o pagamento da inscrição?</b>
+<b>Há previsões de turmas futuras após a turma 02?</b><p>
+A Turma 02 será a última turma de 2020, pois as aulas terminam no dia 18 de Dezembro de 2020. Para 2021 ainda não há previsões de datas para as novas turmas, mas caso tenha interesse em saber quando novas turmas forem abertas, basta sinalizar seu interesse em nossa <a href="https://forms.gle/ddmNQn6eBntGuUYg9">lista de espera</a>.
+<p><p>
+
+<b>Como posso realizar o pagamento da inscrição?</b><p>
 Apenas por meio de GRU, seguindo as instruções da página de Inscrições.
 <p><p>
 
-
+<b>Em que bancos posso realizar o pagamento da GRU?</b><p>
+Apenas no Banco do Brasil.<p><p>
 
 
 
