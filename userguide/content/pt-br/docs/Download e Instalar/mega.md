@@ -1,15 +1,18 @@
 ---
-title: "Edição de Texto: Notepad ++"
-linkTitle: "Edição de Texto: Notepad ++"
-weight: 1
+title: "Visualização e Edição de Alinhamentos: MEGA7 ou MEGA X"
+linkTitle: "Visualização e Edição de Alinhamentos: MEGA7 ou MEGA X"
+weight: 2
 description: >
-  Como instalar o principal editor de texto que iremos utilizar.
+  Como instalar o software para edição de sequências de DNA e alinhamentos
 ---
-
-O Notepad ++ é um software edição de texto e de código fonte disponibilizado de forma livre e código aberto, e oferece suporte à diversas linguagens de programação (e. g. C, C++, Java, HTML, Perl, Python). Destinado principalmente à sistemas Windows, pode ser adaptado para execução em Linux e macOS.
-
-	O Notepad ++ apresenta diversas vantagens em relação ao Bloco de Notas tradicional do Windows, especialmente para o processamento de sequências de DNA e revisão de scripts de análise filogenética. Existem várias possibilidades de realce de texto com cores, que auxiliam a revisão de arquivos, bem como numeração de linhas ao lado do arquivo. O recurso de numeração é bastante útil para encontrar erros em scripts, visto que muitos softwares apenas sinalizam em que linha do arquivo está o erro, mas não informam qual é o erro efetivamente.
-
+<div align="justify">
+MEGA (<i>Molecular Evolutionary Genetics Analysis</i>) é um software gratuito para uso em ensino e pesquisa, que tem como objetivo fornecer ferramentas para explorar, visualizar a analisar sequências de DNA e proteínas sob uma perspectiva evolutiva, com uma interface gráfica intuitiva. O MEGA apresenta diversas funcionalidades, desde edição de sequências, visualização e produção de alinhamentos, até testes de modelos evolutivos e produção de árvores filogenéticas. No contexto do nosso curso, utilizaremos o MEGA apenas para análise de sequências de DNA, visualização e edição de alinhamentos, pela existência de softwares melhores para as etapas de análise filogenética. 
+<br><br>
+Ao utilizar a versão MEGA X em suas publicações, inclua a seguinte citação:
+</div>
+´´´
+Kumar S, Stecher G, Li M, Knyaz C, Tamura K, 2018. MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. <b>Molecular Biology and Evolution</b> 35,1547-1549.
+´´´
 
 ## Download
 
