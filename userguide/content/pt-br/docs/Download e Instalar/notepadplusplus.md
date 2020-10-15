@@ -25,7 +25,7 @@ Clique <a href="https://notepad-plus-plus.org/downloads/v7.9/">aqui</a> para ace
 Após realizar o download do arquivo “Installer”, inicie a instalação do Notepad++ com um clique duplo sobre o arquivo. O primeiro passo da instalação será a escolha do seu idioma de preferência:
 <br><br>
 <center>
-<img src="notepad_1.png" alt="Janela de Seleção do Idioma de Instalação do Notepad ++" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/notepad_1.png" alt="Janela de Seleção do Idioma de Instalação do Notepad ++" align="center">
 </center>
 <br><br>
 Em seguida, siga as instruções do Instalador, que envolvem fechar outros softwares que estejam abertos no momento de instalação, ler com atenção a Licença de Uso do Notepad ++ e aceitar os termos clicando em “Eu Concordo”, escolher o local de preferência para a instalação (por padrão, o Notepad ++ sugere a instalação dentro da pasta “C:\Arquivos de Programas”, mas outra pasta pode ser escolhida sem problemas). 
