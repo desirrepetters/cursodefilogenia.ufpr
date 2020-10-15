@@ -9,8 +9,9 @@ description: >
 MEGA (<i>Molecular Evolutionary Genetics Analysis</i>) é um software gratuito para uso em ensino e pesquisa, que tem como objetivo fornecer ferramentas para explorar, visualizar a analisar sequências de DNA e proteínas sob uma perspectiva evolutiva, com uma interface gráfica intuitiva. O MEGA apresenta diversas funcionalidades, desde edição de sequências, visualização e produção de alinhamentos, até testes de modelos evolutivos e produção de árvores filogenéticas. No contexto do nosso curso, utilizaremos o MEGA apenas para análise de sequências de DNA, visualização e edição de alinhamentos, pela existência de softwares melhores para as etapas de análise filogenética. 
 <br><br>
 Ao utilizar a versão MEGA X em suas publicações, inclua a seguinte citação:
-</div>
 <br><br>
+</div>
+
 ```
 Kumar S, Stecher G, Li M, Knyaz C, Tamura K, 2018. 
 MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. 
