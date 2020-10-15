@@ -10,7 +10,7 @@ MEGA (<i>Molecular Evolutionary Genetics Analysis</i>) é um software gratuito p
 <br><br>
 Ao utilizar a versão MEGA X em suas publicações, inclua a seguinte citação:
 </div>
-
+<br><br>
 ```
 Kumar S, Stecher G, Li M, Knyaz C, Tamura K, 2018. 
 MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. 
@@ -34,11 +34,35 @@ Neste material forneceremos as instruções de instalação para as versões MEG
 Após realizar o download do arquivo de instalação, inicie a instalação do MEGA7 com um clique duplo sobre o arquivo. O primeiro passo da instalação será a escolha do seu idioma de preferência:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/mega7_2.png" alt="Janela de Seleção do Idioma de Instalação do Notepad ++" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/mega7_2.png" alt="Janela de Seleção do Idioma de Instalação do MEGA7" align="center">
 </center>
 <br><br>
+Em seguida, siga as instruções do Instalador, que envolvem fechar outros softwares que estejam abertos no momento de instalação, escolher o local de preferência para a instalação (por padrão, o MEGA7 sugere a instalação dentro da pasta “C:\Arquivos de Programas”, mas outra pasta pode ser escolhida sem problemas), para criação de um atalho no Menu Iniciar, e se será criado um atalho na Área de Trabalho e Barra de Inicialização Rápida.
+<br><br>
+Na próxima etapa, deve-se escolher se o MEGA7 se tornará o software padrão associado a arquivos com diferentes extensões, tais como “.meg” e “.fasta”. Recomendamos selecionar esta opção. As opções seguintes envolvem retornar o MEGA7 às suas configurações iniciais (caso ele já esteja instalado e esteja apresentando problemas) e se dados sobre o uso podem ser coletados anonimamente. Ambas são opcionais e ficam à critério de cada usuário:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/mega7_3.png" alt="Configurações adicionais da Instalação do MEGA7" align="center">
+</center>
+<br><br>
+Em seguida, basta prosseguir e esperar que a instalação seja concluída. Se a instalação foi realizada corretamente, o MEGA7 já pode ser utilizado, seja clicando em seu ícone na Área de Trabalho ou Barra de Ferramentas.
 </div>
 
 ## Instalação - MEGA X
 <div align="justify">
+Após realizar o download do arquivo de instalação, inicie a instalação do MEGA X com um clique duplo sobre o arquivo. O primeiro passo da instalação será a escolha do seu idioma de preferência:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/megaX_1.png" alt="Janela de Seleção de Idioma da Instalação do MEGA X" align="center">
+</center>
+<br><br>
+Em seguida, siga as instruções do Instalador, que envolvem fechar outros softwares que estejam abertos no momento de instalação, ler com atenção os termos de uso e selecionar a opção “Eu aceito o acordo”. Ao prosseguir, deve-se escolher o local de preferência para a instalação (por padrão, o MEGA X sugere a instalação dentro da pasta “C:\Arquivos de Programas”, mas outra pasta pode ser escolhida sem problemas), para a criação de um atalho no Menu Iniciar, e se será criado um atalho na Área de Trabalho e Barra de Inicialização Rápida.
+<br><br>
+Na próxima etapa, deve-se escolher se o MEGA X se tornará o software padrão associado a arquivos com diferentes extensões, tais como “.meg” e “.fasta”. Recomendamos selecionar esta opção. A opção seguinte pergunta se dados sobre o uso podem ser coletados anonimamente. Ela é opcional e fica à critério de cada usuário:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/megaX_2.png" alt="Configurações Adicionais de Instalação do MEGA X" align="center">
+</center>
+<br><br>
+Em seguida, basta prosseguir e esperar que a instalação seja concluída. Se a instalação foi realizada corretamente, o MEGA X já pode ser utilizado, seja clicando em seu ícone na Área de Trabalho ou Barra de Ferramentas.
 </div>
