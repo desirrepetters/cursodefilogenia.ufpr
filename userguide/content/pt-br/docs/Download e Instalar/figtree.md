@@ -1,9 +1,9 @@
 ---
-title: "Edição e preparação de árvores filogenéticas para publicação: Inkscape"
-linkTitle: "Edição e preparação de árvores filogenéticas para publicação: Inkscape"
-weight: 5
+title: "Visualização e pré-edição de árvores filogenéticas: FigTree"
+linkTitle: "Visualização e pré-edição de árvores filogenéticas: FigTree"
+weight: 4
 description: >
-  Como instalar o software para transformar árvores simples em excelentes imagens para publicação
+  Como instalar o software para a edição inicial das árvores filogenéticas
 ---
 
 O Notepad ++ é um software edição de texto e de código fonte disponibilizado de forma livre e código aberto, e oferece suporte à diversas linguagens de programação (e. g. C, C++, Java, HTML, Perl, Python). Destinado principalmente à sistemas Windows, pode ser adaptado para execução em Linux e macOS.

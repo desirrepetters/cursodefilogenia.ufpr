@@ -1,9 +1,9 @@
 ---
-title: "Edição de Texto: Notepad ++"
-linkTitle: "Edição de Texto: Notepad ++"
-weight: 1
+title: "Produção de Alinhamentos, Teste de Modelos Evolutivos, Concatenação de Sequências, Análises Filogenéticas de Máxima Verossimilhança e Inferência Bayesiana: PhyloSuite"
+linkTitle: "Produção de Alinhamentos, Teste de Modelos Evolutivos, Concatenação de Sequências, Análises Filogenéticas de Máxima Verossimilhança e Inferência Bayesiana: PhyloSuite"
+weight: 3
 description: >
-  Como instalar o principal editor de texto que iremos utilizar.
+  Como instalar o software multi-uso para boa parte das análises
 ---
 
 O Notepad ++ é um software edição de texto e de código fonte disponibilizado de forma livre e código aberto, e oferece suporte à diversas linguagens de programação (e. g. C, C++, Java, HTML, Perl, Python). Destinado principalmente à sistemas Windows, pode ser adaptado para execução em Linux e macOS.
