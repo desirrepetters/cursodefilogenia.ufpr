@@ -13,7 +13,7 @@ Ao utilizar a versão MEGA X em suas publicações, inclua a seguinte citação:
 ```
 Kumar S, Stecher G, Li M, Knyaz C, Tamura K, 2018. 
 MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. 
-<b>Molecular Biology and Evolution</b> 35,1547-1549.
+**Molecular Biology and Evolution** 35,1547-1549.
 ```
 
 ## Download
