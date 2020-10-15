@@ -7,7 +7,7 @@ date: 2020-10-14
 description: >
   Nesta página descreveremos como realizar o download e instalação dos softwares que serão utilizados durante as atividades práticas.
 ---
-
+<p align=”Justify”>
 
 ## Primeiros passos
 
@@ -25,6 +25,6 @@ Apesar de a notificação causar surpresa em alguns momentos, não há motivos p
 
 Dito isso, seguiremos então para as descrições de cada software.
 
-
+</p>
 
 	
