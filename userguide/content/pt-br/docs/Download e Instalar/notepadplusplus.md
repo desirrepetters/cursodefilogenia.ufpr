@@ -15,7 +15,6 @@ O Notepad ++ apresenta diversas vantagens em relação ao Bloco de Notas tradici
 
 <div align="justify">
 Clique <a href="https://notepad-plus-plus.org/downloads/v7.9/">aqui</a> para acessar a versão mais recente do Notepad ++, e escolha o arquivo mais adequado ao seu sistema operacional. Sugerimos o download do instalador (“Installer”), mas caso você prefira utilizar o Notepad++ localmente ou em algum drive externo como um pen-drive, versões portáteis também estão disponíveis.
-<br><br>
 </div>
 
 ## Instalação
@@ -34,6 +33,7 @@ Na próxima etapa, deve ser escolhido o tipo de instalação: Minimalista ou Per
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/notepad_2.png" alt="Janela do Tipo Instalação do Notepad ++" align="center">
 </center>
+<br><br>
 Caso deseje criar um atalho para o Notepad++ na Área de Trabalho, é necessário deixar marcada a primeira opção. No caso de instalação da versão portátil, será necessário marcar também a segunda opção:
 <br><br>
 <center>
