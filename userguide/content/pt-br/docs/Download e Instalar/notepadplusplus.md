@@ -14,29 +14,20 @@ O Notepad ++ apresenta diversas vantagens em relação ao Bloco de Notas tradici
 ## Download
 
 <div align="justify">
-You add content for your site under the **content root directory** of your Hugo site project - either `content/` or a [language-specific](/docs/language/) root like `content/en/`. The main exception here is static files that you don't want built into your site: you can find out more about where you add these below in [Adding static content](#adding-static-content). The files in your content root directory are typically grouped in subdirectories corresponding to your site's sections and templates, which we'll look at in [Content sections and templates](#content-sections-and-templates).
-
-You can find out more about Hugo directory structure in [Directory Structure Explained](https://gohugo.io/getting-started/directory-structure/#directory-structure-explained).
+Clique <a href="https://notepad-plus-plus.org/downloads/v7.9/">aqui</a> para acessar a versão mais recente do Notepad ++, e escolha o arquivo mais adequado ao seu sistema operacional. Sugerimos o download do instalador (“Installer”), mas caso você prefira utilizar o Notepad++ localmente ou em algum drive externo como um pen-drive, versões portáteis também estão disponíveis.
+<br><br>
 
 </div>
 
 ## Instalação
 
 <div align="justify">
-
+Após realizar o download do arquivo “Installer”, inicie a instalação do Notepad++ com um clique duplo sobre o arquivo. O primeiro passo da instalação será a escolha do seu idioma de preferência:
+<br><br>
+<center>
+<img src="notepad_1.png" alt="Janela de Seleção do Idioma de Instalação do Notepad ++" align="center">
+</center>
 </div>
-
-### Working with links
-
-Hugo lets you specify links using normal Markdown syntax, though remember that you need to specify links relative to your site's root URL, and that relative URLs are left unchanged by Hugo in your site's generated HTML.
-
-Alternatively you can use Hugo's helper [`ref` and `relref` shortcodes](https://gohugo.io/content-management/cross-references/) for creating internal links that resolve to the correct URL. However, be aware this means your links will not appear as links at all if a user views your page outside your generated site, for example using the rendered Markdown feature in GitHub's web UI.
-
-You can find (or add!) tips and gotchas for working with Hugo links in [Hugo Tips](/docs/best-practices/site-guidance).
-
-### Content style
-
-We don't mandate any particular style for your page contents. However, if you'd like some guidance on how to write and format clear, concise technical documentation, we recommend the [Google Developer Documentation Style Guide](https://developers.google.com/style/), particularly the [Style Guide Highlights](https://developers.google.com/style/highlights).
 
 
 
