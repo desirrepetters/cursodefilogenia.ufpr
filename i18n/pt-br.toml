@@ -32,7 +32,7 @@ other = "Por"
 [post_created]
 other = "Criado"
 [post_last_mod]
-other = "Última modificação"
+other = "Última modificação feita em"
 [post_edit_this]
 other = "Editar essa página"
 [post_create_issue]
