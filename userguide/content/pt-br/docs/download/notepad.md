@@ -23,7 +23,7 @@ Clique <a href="https://notepad-plus-plus.org/downloads/v7.9/">aqui</a> para ace
 Após realizar o download do arquivo “Installer”, inicie a instalação do Notepad++ com um clique duplo sobre o arquivo. O primeiro passo da instalação será a escolha do seu idioma de preferência:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/notepad_1.png" alt="Janela de Seleção do Idioma de Instalação do Notepad ++" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/notepad/notepad_1.png" alt="Janela de Seleção do Idioma de Instalação do Notepad ++" align="center">
 </center>
 <br><br>
 Em seguida, siga as instruções do Instalador, que envolvem fechar outros softwares que estejam abertos no momento de instalação, ler com atenção a Licença de Uso do Notepad ++ e aceitar os termos clicando em “Eu Concordo”, escolher o local de preferência para a instalação (por padrão, o Notepad ++ sugere a instalação dentro da pasta “C:\Arquivos de Programas”, mas outra pasta pode ser escolhida sem problemas). 
@@ -31,19 +31,19 @@ Em seguida, siga as instruções do Instalador, que envolvem fechar outros softw
 Na próxima etapa, deve ser escolhido o tipo de instalação: Minimalista ou Personalizada. Recomendamos a instalação “Personalizada” com os componentes opcionais demonstrados abaixo. Caso deseje instalar algum idioma adicional além do escolhido no início da instalação, ele pode ser escolhido sob a opção “Localization”:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/notepad_2.png" alt="Janela do Tipo Instalação do Notepad ++" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/notepad/notepad_2.png" alt="Janela do Tipo Instalação do Notepad ++" align="center">
 </center>
 <br><br>
 Caso deseje criar um atalho para o Notepad++ na Área de Trabalho, é necessário deixar marcada a primeira opção. No caso de instalação da versão portátil, será necessário marcar também a segunda opção:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/notepad_3.png" alt="Criação de atalho do Notepad ++ na Área de Trabalho" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/notepad/notepad_3.png" alt="Criação de atalho do Notepad ++ na Área de Trabalho" align="center">
 </center>
 <br><br>
 Agora basta esperar que a instalação seja concluída. Se a instalação foi realizada corretamente, o Notepad++ já pode ser utilizado, seja clicando em seu ícone na Área de Trabalho ou Barra de Ferramentas, ou clicando com o botão direito do mouse sobre algum arquivo e selecionando a opção “Edit with Notepad ++”, como no exemplo abaixo:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/Download%20e%20Instalar/notepad_4.png" alt="Execução do Notepad++ com botão direito do mouse" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/notepad/notepad_4.png" alt="Execução do Notepad++ com botão direito do mouse" align="center">
 </center>
 </div>
 
