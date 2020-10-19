@@ -2,7 +2,7 @@
 ---
 title: "Download e Instalação dos Softwares"
 linkTitle: "Download e Instalação dos Softwares"
-weight: 2
+weight: 4
 date: 2020-10-14
 description: >
   Nesta página descreveremos como realizar o download e instalação dos softwares que serão utilizados durante as atividades práticas.
