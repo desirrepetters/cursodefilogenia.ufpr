@@ -9,17 +9,20 @@ description: >
 O PhyloSuite é uma plataforma multifunctional destinada ao processamento de sequências de DNA e proteínas, e preparação para diferentes análises evolutivas e filogenéticas. Seu principal objetivo é fornecer uma interface gráfica intuitiva que permite a centralização de diversos softwares, facilitando a automação e gerenciamento de diferentes tipos de análises.
 <br><br>
 Ao utilizar o PhyloSuite em suas publicações, inclua a seguinte citação:
+<br>
 </div>
 
 ```
 Zhang, D, Gao F, Jakovlić I, Zou H, Zhang J, Li WX, and Wang GT, 2020. 
-PhyloSuite: An integrated and scalable desktop platform for streamlined molecular sequence data management and evolutionary phylogenetics studies. 
+PhyloSuite: An integrated and scalable desktop platform for streamlined molecular 
+sequence data management and evolutionary phylogenetics studies. 
 Molecular Ecology Resources 20, 348–355. 
 DOI: 10.1111/1755-0998.13096.
 ```
 
 <div align="justify">
 Como o PhyloSuite centraliza diversos softwares e projetos produzidos por terceiros, além de citar o PhyloSuite, é necessário citar os responsáveis pelas ferramentas individuais, de acordo com as ferramentas que você utilizar em suas publicações:
+<br><br>
 </div>
 
 <table>
@@ -64,7 +67,7 @@ Clique <a href="https://github.com/dongzhang0725/PhyloSuite/releases/tag/1.2.2">
 ## Instalação
 
 <div align="justify">
-Após realizar o download do arquivo de instalação, inicie a instalação do PhyloSuite com um clique duplo sobre o arquivo. Em seguida, siga as instruções do Instalador, que envolvem fechar outros softwares que estejam abertos no momento de instalação, ler com atenção a Licença de Uso do PhyloSuite e aceitar os termos clicando em “I accept the agreement”, escolher a local de preferência para a instalação (por padrão, o PhyloSuite sugere a instalação dentro da pasta “C:\Users\seu_user\AppData\Roaming ”, mas outra pasta pode ser escolhida sem problemas). O instalador também perguntará se é necessário criar um atalho na Área de Trabalho.
+Após realizar o download do arquivo de instalação, inicie a instalação do PhyloSuite com um clique duplo sobre o arquivo. Em seguida, siga as instruções do Instalador, que envolvem fechar outros softwares que estejam abertos no momento de instalação, ler com atenção a Licença de Uso do PhyloSuite e aceitar os termos clicando em “<i>I accept the agreement</i>”, escolher a local de preferência para a instalação (por padrão, o PhyloSuite sugere a instalação dentro da pasta “C:\Users\seu_user\AppData\Roaming ”, mas outra pasta pode ser escolhida sem problemas). O instalador também perguntará se é necessário criar um atalho na Área de Trabalho.
 <br><br>
 Em seguida, basta prosseguir e esperar que a instalação seja concluída. Se a instalação foi realizada corretamente, o PhyloSuite já pode ser utilizado, seja clicando em seu ícone na Área de Trabalho ou Barra de Ferramentas. Apenas realizaremos mais algumas configurações pós-instalação.
 <br><br>
@@ -101,5 +104,61 @@ Se você não utiliza o software R, mas tem perspectivas de utilizar no futuro, 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_5.png" alt="Configurações de Instalação do plugin do RScript dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Para a instalação do PartitionFinder, que permite realizar os testes de modelo evolutivo, há duas opções. Uma delas envolve instalar o Python 2.7, que será utilizado para rodar o PartitionFinder. Já a outra possibilidade consiste em baixar o PartitionFinder2, que já é previamente compilado e não depende do Python 2.7. Assim como os desenvolvedores do software, nós recomendamos que você opte pela segunda opção, justamente por não depender da instalação do Python 2.7, e especialmente se você já é usuário de versões mais recentes do Python 3.
+<br><br>
+Sendo assim, se você já possuir o PartitionFinder2 instalado, basta informar ao PhyloSuite o local de instalação. Do contrário, faça o download a partir do Github e selecione apenas a primeira caixa de seleção: “Install compiled PartitionFinder2 (recommended)” e deixe a caixa “Install python 2.7 and PartitionFinder2” em branco.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_6.png" alt="Configurações de Instalação do plugin do PartitionFinder2 dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Se esta etapa foi realizada adequadamente, a lista de plugins mostrará que o PartitionFinder2 está instalado, e que o Python 2.7 não é necessário (“Not needed”):
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_7.png" alt="Configurações do PartitionFinder2 e Python dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Agora instalaremos o plugin do Gblocks, que é um software para localização de regiões conservadas de alinhamentos e remoção de regiões mal-alinhadas. Se você já possuir o Gblocks instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o Gblocks está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_8.png" alt="Configurações de Instalação do plugin do Gblocks dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Em seguida, instalaremos o plugin do IQ-TREE, que é um software para realização de análise filogenética por máxima verossimilhança. Se você já possuir o IQ-TREE instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o IQ-TREE está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_9.png" alt="Configurações de Instalação do plugin do IQ-Tree dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Outro método de análise filogenética é a Inferência Bayesiana, que pode ser realizada pelo MrBayes, e que instalaremos agora.  Se você já possuir o MrBayes instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o MrBayes está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_10.png" alt="Configurações de Instalação do plugin do MrBayes dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Agora instalaremos o plugin do Tbl2asn, que automatize a criação de arquivos para submissão de sequências ao GenBank. Se você já possuir o Tbl2asn instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o Tbl2asn está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_11.png" alt="Configurações de Instalação do plugin do Tbl2asn dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Estamos quase terminando de instalar os plugins! Agora, instalaremos o plugin do MACSE. Este software é importante para o alinhamento de sequências codificantes, especialmente por levar em consideração possíveis mudanças de fase de leitura e códons de parada. Se você já possuir o MACSE instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o MACSE está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_12.png" alt="Configurações de Instalação do plugin do MACSE dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Por fim, o último plugin! O trimAL funciona de forma semelhante ao Gblocks, na correção automatizada de alinhamentos e remoção de regiões mal-alinhadas. Se você já possuir o Gblocks instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o Gblocks está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_13.png" alt="Configurações de Instalação do plugin do trimAL dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Se todos os plug-ins foram instalados corretamente, a tela de Settings deve estar conforme abaixo, e pronto para uso!
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_13.png" alt="Lista de plugins do PhyloSuite em que todos os plugins estão instalados" align="center">
 </center>
 <br><br>
