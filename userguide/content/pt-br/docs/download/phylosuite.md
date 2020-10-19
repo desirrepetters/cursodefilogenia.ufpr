@@ -12,7 +12,10 @@ Ao utilizar o PhyloSuite em suas publicações, inclua a seguinte citação:
 </div>
 
 ```
-Zhang, D, Gao F, Jakovlić I, Zou H, Zhang J, Li WX, and Wang GT, 2020. PhyloSuite: An integrated and scalable desktop platform for streamlined molecular sequence data management and evolutionary phylogenetics studies. Molecular Ecology Resources 20, 348–355. DOI: 10.1111/1755-0998.13096.
+Zhang, D, Gao F, Jakovlić I, Zou H, Zhang J, Li WX, and Wang GT, 2020. 
+PhyloSuite: An integrated and scalable desktop platform for streamlined molecular sequence data management and evolutionary phylogenetics studies. 
+Molecular Ecology Resources 20, 348–355. 
+DOI: 10.1111/1755-0998.13096.
 ```
 
 <div align="justify">
@@ -69,5 +72,34 @@ Ao abrir o PhyloSuite, a seguinte notificação aparecerá, perguntando sobre a 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_1.png" alt="Janela de Seleção da Pasta de Ambiente de Trabalho do PhyloSuite" align="center">
+</center>
+<br><br>
+Ao inicializar o software pela primeira vez, precisaremos instalar alguns plug-ins que permitirão adicionar novas funcionalidades. Para adicioná-los, devemos utilizar a sub-opção “Settings” dentro do item “Settings” do menu, conforme abaixo:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_2.png" alt="Sub-opção Settings do menu superior do PhyloSuite" align="center">
+</center>
+<br><br>
+Ao abrir o menu Settings pela primeira vez, veremos que boa parte dos plug-ins ainda não estão instalados, conforme observa-se na caixa “Install”. Vamos instalar um por um.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_3.png" alt="Lista de plugins dentro do menun Settings do PhyloSuite" align="center">
+</center>
+<br><br>
+Primeiro, instalaremos o plugin do MAFFT, que é um software para produção de alinhamentos. Se você já possuir o MAFFT instalado em seu computador, basta apenas informar ao PhyloSuite em que pasta o MAFFT está instalado. Do contrário, será necessário realizar o Download, que pode ser feito a partir do Github, conforme abaixo.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_4.png" alt="Configurações de Instalação do plugin do MAFFT dentro PhyloSuite" align="center">
+</center>
+<br><br>
+Para instalar o Rscript, existem duas possibilidades. Se você já possui alguma versão do software R instalada, basta informar ao PhyloSuite em que pasta Rscript está localizado. Em geral, o caminho de pasta é “C:\Arquivos de Programas\R\sua_versão_do_R\bin”. Já se você não possui o software R, basta realizar o download a partir do Github, conforme a imagem. Nesse caso, temos duas recomendações diferentes de acordo com seu perfil de usuário:
+<br><br>
+Se você não utiliza no momento, e não pretende e não tem perspectivas de utilizar o R em nenhum momento do futuro, recomendamos realizar o download a partir do Github, pois provavelmente você só utilizará o R no contexto do PhyloSuite.
+<br><br>
+Se você não utiliza o software R, mas tem perspectivas de utilizar no futuro, recomendamos que já faça a instalação da versão mais atualizada do R (pode ser encontrado aqui), e informe ao PhyloSuite a localização do Rscript. Recomendamos esta abordagem porque a versão atual do R no momento é 4.0.3 (Outubro-2020), e o PhyloSuite realizará a instalação do R na versão 3.4.4, que é bem mais antiga (Março-2018). Nesse sentido, se você pretende utilizar o R futuramente, provavelmente terá que no mínimo instalar a versão 4.0.3. Se instalar o Rscript para o PhyloSuite via download interno, acabará com duas instalações distintas do R em seu computador: uma para o uso mais atualizado e geral que fizer do R, e outra apenas para o PhyloSuite.
+<br><br>
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_5.png" alt="Configurações de Instalação do plugin do RScript dentro PhyloSuite" align="center">
 </center>
 <br><br>
