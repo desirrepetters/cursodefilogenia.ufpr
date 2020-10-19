@@ -1,7 +1,7 @@
 ---
 title: "Edição e Análise Inicial de Sequências de DNA"
 linkTitle: "Edição e Análise Inicial de Sequências de DNA"
-weight: 4
+weight: 1
 description: >
   Software utilizado: MEGA7 ou MEGA X.
 ---
