@@ -12,17 +12,17 @@ Para este tutorial, iremos utilizar o software MEGA, seja na versão MEGA 7 ou M
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li>Link para pasta com todos os arquivos (formato zip)</li>
-<br><br>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/aula_01.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
+<br>
 Para baixar os arquivos individualmente:
 <br><br>
 <ul>
-<li>Aula_01_Exemplo_01F.abi</li>
-<li>Aula_01_Exemplo_01R.abi</li>
-<li>Aula_01_Exemplo_02.abi</li>
-<li>Aula_01_Exemplo_03.abi</li>
-<li>Aula_01_Exemplo_04.abi</li>
-<li>Aula_01_Exemplo_01.fasta</li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01F.ab1">Aula_01_Exemplo_01F.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01R.ab1">Aula_01_Exemplo_01R.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_02.ab1">Aula_01_Exemplo_02.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_03.ab1">Aula_01_Exemplo_03.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_04.ab1">Aula_01_Exemplo_04.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01.fasta">Aula_01_Exemplo_01.fasta</a></li>
 </ul>
 </div>
 
@@ -32,7 +32,7 @@ Para baixar os arquivos individualmente:
 Quando recebemos os resultados de um produto de reação de sequenciamento, em geral temos dois arquivos: um arquivo .FASTA e um arquivo de eletroferograma, em geral no formato .ABI, mas podendo variar dependendo do equipamento. O arquivo .FASTA contém a sequência do material enviado para sequenciamento, mas como é obtido de forma automatizada pelo equipamento, pode conter erros de leitura e não levar em consideração a baixa qualidade de algumas bases, de modo que não é recomendado trabalhar com este arquivo. Nesse sentido, a principal recomendação é analisar os eletroferogramas base à base, para garantir a confiabilidade da sequência.
 </div>
 
-## O que é, e como analisar um eletroferograma?
+## O que é e como analisar um eletroferograma?
 
 <div align="justify">
 Um eletroferograma é um gráfico representativo do material que foi sequenciado, contendo não apenas as bases de DNA que foram sequenciadas, mas também informações sobre a qualidade do sequenciamento e da amostra. Se bem interpretado, pode fornecer informações muito valiosas sobre seu material e facilitar a resolução de problemas, bem como garantir uma maior confiabilidade às suas futuras análises.
@@ -113,12 +113,13 @@ Procure em seu computador o Arquivo “<b>Aula_01_Exemplo_02.abi</b>”, e cliqu
 </center>
 <br><br>
 Este tipo de fenômeno pode ser oriundo de contaminação ao longo do processo, em diversas etapas, tais como:
+<br>
 <ul>
 <li>Contaminação da amostra ou dos reagentes de extração de DNA</li>
 <li>Contaminação do produto ou dos reagentes de PCR</li>
 <li>Contaminação do produto ou dos materiais utilizados para a corrida de sequenciamento</li>
 </ul>
-<br><br>
+<br>
 Neste tipo de situação não é possível distinguir quais bases correspondem à sequência da sua amostra, e quais bases são oriundas de contaminação. Sendo assim, é necessário encontrar a fonte de contaminação, e realizar um novo sequenciamento.
 <br><br>
 Para o próximo exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exemplo_03.abi</b>”, e clique em Abrir. Neste caso, ocorreu uma queda brusca e permanente no sinal do eletroferograma. Isso pode ocorrer tanto em fragmentos curtos, indicando que a reação atingiu o fragmento, ou em casos em que a quantidade de reagentes para a reação de sequenciamento foi insuficiente. Nesses casos, é importante avaliar se uma sequência mais longa seria ou não necessária, para determinar se será necessário repetir o sequenciamento. Na situação do exemplo, em que foram sequenciados 70 pares de base, seria necessário repetir o sequenciamento, principalmente considerando que o fragmento esperado tinha em torno de ~600 pares de bases.
@@ -127,7 +128,7 @@ Para o próximo exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exemp
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_10.png" alt="Eletroferograma com Queda Repentina do Sinal" align="center">
 </center>
 <br><br>
-Para o último exemplo, procure em seu computador o Arquivo “Aula_01_Exemplo_04.abi”, e clique em Abrir. Este é um dos piores resultados que podem ser encontrados, e em que obrigatoriamente deve-se repetir a reação de sequenciamento. A ausência de sinal num eletroferograma pode ter diversos motivos, desde falhas no equipamento e na corrida, bem como perda da amostra durante os procedimentos de purificação. Nesses casos, costuma-se observar alguns poucos picos altos no início do eletroferograma, que correspondem aos dideoxinucleotídeos que não foram incorporados durante a reação.
+Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exemplo_04.abi</b>”, e clique em Abrir. Este é um dos piores resultados que podem ser encontrados, e em que obrigatoriamente deve-se repetir a reação de sequenciamento. A ausência de sinal num eletroferograma pode ter diversos motivos, desde falhas no equipamento e na corrida, bem como perda da amostra durante os procedimentos de purificação. Nesses casos, costuma-se observar alguns poucos picos altos no início do eletroferograma, que correspondem aos dideoxinucleotídeos que não foram incorporados durante a reação.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_11.png" alt="Eletroferograma sem nenhum pico" align="center">
