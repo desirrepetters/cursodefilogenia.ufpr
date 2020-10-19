@@ -5,7 +5,7 @@ linkTitle: "Conteúdo Prático"
 weight: 3
 date: 2020-10-14
 description: >
-  Confira aqui os links para cada uma das páginas e tutoriais práticos!
+  Confira aqui os slides, gravações e material de apoio das atividades práticas!
 ---
 
 
