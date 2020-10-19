@@ -12,7 +12,7 @@ O FigTree é um software para visualização de árvores filogenéticas, que per
 ## Download e Instalação
 
 <div align="justify">
-O FigTree não necessita de um instalador, pois funciona localmente e é baseado em Java. Seu único pré-requisito de funcionamento é uma instalação funcional do Java em seu computador. Caso ainda não tenha o Java instalado, clique aqui e siga as instruções de instalação.
+O FigTree não necessita de um instalador, pois funciona localmente e é baseado em Java. Seu único pré-requisito de funcionamento é uma instalação funcional do Java em seu computador. Caso ainda não tenha o Java instalado, clique <a href="https://www.java.com/pt-BR/download/">aqui</a> e siga as instruções de instalação.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/figtree/figtree_1.png" alt="Ícone do FigTree" align="center">
