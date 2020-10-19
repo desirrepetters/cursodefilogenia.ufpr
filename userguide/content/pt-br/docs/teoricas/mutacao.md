@@ -10,7 +10,7 @@ description: >
 
 <div align="justify">
 <br><br>
-<iframe width="420" height="315"
+<iframe width="640" height="505"
 src="https://www.youtube.com/embed/60Ka0Aqb7No">
 </iframe>
 <br><br>
