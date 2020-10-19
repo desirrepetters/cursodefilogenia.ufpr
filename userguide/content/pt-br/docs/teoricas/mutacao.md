@@ -10,9 +10,7 @@ description: >
 
 <div align="justify">
 <br><br>
-<iframe width="640" height="505"
-src="https://www.youtube.com/embed/60Ka0Aqb7No">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/60Ka0Aqb7No" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 </div>
 
