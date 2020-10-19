@@ -9,7 +9,7 @@ description: >
 O PhyloSuite é uma plataforma multifunctional destinada ao processamento de sequências de DNA e proteínas, e preparação para diferentes análises evolutivas e filogenéticas. Seu principal objetivo é fornecer uma interface gráfica intuitiva que permite a centralização de diversos softwares, facilitando a automação e gerenciamento de diferentes tipos de análises.
 <br><br>
 Ao utilizar o PhyloSuite em suas publicações, inclua a seguinte citação:
-<br>
+<br><br>
 </div>
 
 ```
@@ -101,7 +101,6 @@ Se você não utiliza no momento, e não pretende e não tem perspectivas de uti
 <br><br>
 Se você não utiliza o software R, mas tem perspectivas de utilizar no futuro, recomendamos que já faça a instalação da versão mais atualizada do R (pode ser encontrado aqui), e informe ao PhyloSuite a localização do Rscript. Recomendamos esta abordagem porque a versão atual do R no momento é 4.0.3 (Outubro-2020), e o PhyloSuite realizará a instalação do R na versão 3.4.4, que é bem mais antiga (Março-2018). Nesse sentido, se você pretende utilizar o R futuramente, provavelmente terá que no mínimo instalar a versão 4.0.3. Se instalar o Rscript para o PhyloSuite via download interno, acabará com duas instalações distintas do R em seu computador: uma para o uso mais atualizado e geral que fizer do R, e outra apenas para o PhyloSuite.
 <br><br>
-<br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_5.png" alt="Configurações de Instalação do plugin do RScript dentro PhyloSuite" align="center">
 </center>
@@ -162,3 +161,4 @@ Se todos os plug-ins foram instalados corretamente, a tela de Settings deve esta
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_13.png" alt="Lista de plugins do PhyloSuite em que todos os plugins estão instalados" align="center">
 </center>
 <br><br>
+</div>
