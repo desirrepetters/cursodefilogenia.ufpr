@@ -5,20 +5,14 @@ weight: 4
 description: >
   Aula Assíncrona sobre Mutação e Reparo
 ---
-
-## Parte 01
-
-<div align="justify">
-<br><br>
+<div align="center">
+<h2>Parte 01</h2>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/60Ka0Aqb7No" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-</div>
 
-## Parte 02
-
-<div align="justify">
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/_k6G37SCMX8">
-</iframe>
+<h2>Parte 02</h2>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_k6G37SCMX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
