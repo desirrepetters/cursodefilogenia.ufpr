@@ -13,7 +13,8 @@ Genera of Phytopathogenic Fungi (GOPHY) ("Gêneros de Fungos Fitopatogênicos") 
 <br><br>
 Os gêneros disponíveis podem ser consultados no <a href="http://www.plantpathogen.org/">site oficial do GOPHY</a>, e nas publicações abaixo:
 <br><br>
-
+</div>
+<div align="center">
 <table>
   <tr>
     <th><strong>GOPHY e Gêneros abordados</strong></th>
@@ -31,10 +32,27 @@ Coniella, Curvularia, Monilinia, Neofabraea, Neofusicoccum, Pilidium, Pleiochaet
     <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 3. <b>Studies in Micology</b> 94, 1-124. DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a></td>
   </tr>
 </table> 
-
-
-
-
-
 </div>
+
+## Amsterdam Declaration on Fungal Nomenclature
+
+<div align="justify">
+A Declaração de Amsterdam foi formulada em um simpósio realizado em Amsterdam em 2011, com o propósito de estabelecer um consenso entre micologistas em relação às questões de nomenclaura fúngica. Até o momento do simpósio, era comum que espécies de fungos apresentassem dois nomes científicos, um para a fase sexuada e outro para a fase assexuada. A Declaração demonstrou a necessidade de realizar uma transição para um novo sistema de nomenclatura baseada em nome único, propondo também mecanismos para proteger nomes importantes de relevância econômica, médica, agronômica e outras. Confira o artigo completo <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317370/pdf/ima-2-105.pdf">aqui</a>.
+</div>
+
+## MycoBank
+
+<div align="justify">
+O <a href="http://www.mycobank.org/">MycoBank</a> é uma banco de dados online da International Mycological Association, e que auxilia a comunidade micológica e científica ao documentar e organizar informações relacionadas à taxonomia e nomenclatura fúngicas, e seus dados associados (descrição de exemplares, sequências de DNA, referências de publicações e ilustrações). No banco de dados é possível registrar uma nova espécie fúngica, obter acesso às espécies mais recentemente descritas, determinar a validade de um nome científico e obter informações sobre mudanças de nomenclatura. Para alguns gêneros fúngicos, o banco de dados também oferece um serviço de identificação polifásica, baseado em diferentes sequências de DNA.”
+<br><br>
+Citação e <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905949/pdf/ima-4-2-371.pdf">[PDF]</a>:
+<br><br>
+</div>
+
+```
+Robert et al. 2013. MycoBank gearing up for new horizons. 
+IMA Fungus 374, 371-379. DOI: 10.5598/imafungus.2013.04.02.16
+```
+
+
 
