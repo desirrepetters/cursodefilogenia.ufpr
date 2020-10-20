@@ -21,15 +21,15 @@ Os gêneros disponíveis podem ser consultados no <a href="http://www.plantpatho
 	<th><strong>Referência</strong></th>
   <tr>
     <td>GOPHY 1 (<i>Bipolaris, Boeremia, Calonectria, Ceratocystis,<br> Cladosporium, Colletotrichum,
-Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleiochaeta,<br> Plenodomus, Protostegia, Pseudopyricularia, Puccinia, Saccharata, Thyrostroma, Venturia, Wilsonomyces</i>)</td>
-    <td>Marin-Felix et al. 2017. Genera of phytopathogenic fungi: GOPHY 1. <b>Studies in Micology</b> 86, 99-216. DOI: <a href="https://doi.org/10.1016/j.simyco.2017.04.002">10.1016/j.simyco.2017.04.002</a>. <a href="https://www.studiesinmycology.org/sim/Sim86/Genera-of-phytopathogenic-fungi--GOPHY-1_2017_Studies-in-Mycology.pdf"><b>[PDF]</b></a></td>
+Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleiochaeta,<br> Plenodomus, Protostegia, Pseudopyricularia, Puccinia, Saccharata, Thyrostroma, Venturia, Wilsonomyces</i>)<br></td>
+    <td>Marin-Felix et al. 2017. Genera of phytopathogenic fungi: GOPHY 1. <b>Studies in Micology</b> 86, 99-216. <br>DOI: <a href="https://doi.org/10.1016/j.simyco.2017.04.002">10.1016/j.simyco.2017.04.002</a>. <a href="https://www.studiesinmycology.org/sim/Sim86/Genera-of-phytopathogenic-fungi--GOPHY-1_2017_Studies-in-Mycology.pdf"><b>[PDF]</b></a></td>
   </tr> 
   <tr>
-    <td>GOPHY 2 (<i>Allantophomopsiella, Apoharknessia, Cylindrocladiella,<br> Diaporthe, Dichotomophthora, Gaeumannomyces, Harknessia, Huntiella, Macgarvieomyces, Metulocladosporiella, Microdochium, Oculimacula, Paraphoma, Phaeoacremonium, Phyllosticta, Proxypiricularia, Pyricularia, Stenocarpella, Utrechtiana, Wojnowiciella</i>)</td>
-    <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 2. <b>Studies in Micology</b> 92, 47-133. DOI: <a href="https://doi.org/10.1016/j.simyco.2018.04.002">10.1016/j.simyco.2018.04.002</a>. <a href="https://www.studiesinmycology.org/sim/Sim92/Genera_of_phytopathogenic_fungi_GOPHY_2.pdf"><b>[PDF]</b></a></td>
+    <td>GOPHY 2 (<i>Allantophomopsiella, Apoharknessia, Cylindrocladiella,<br> Diaporthe, Dichotomophthora, Gaeumannomyces, Harknessia, Huntiella, Macgarvieomyces, Metulocladosporiella, Microdochium, Oculimacula, Paraphoma, Phaeoacremonium, Phyllosticta, Proxypiricularia, Pyricularia, Stenocarpella, Utrechtiana, Wojnowiciella</i>)<br></td>
+    <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 2. <b>Studies in Micology</b> 92, 47-133. <br>DOI: <a href="https://doi.org/10.1016/j.simyco.2018.04.002">10.1016/j.simyco.2018.04.002</a>. <a href="https://www.studiesinmycology.org/sim/Sim92/Genera_of_phytopathogenic_fungi_GOPHY_2.pdf"><b>[PDF]</b></a></td>
   <tr>
-    <td>GOPHY 3 (<i>Allophoma, Alternaria, Brunneosphaerella, Elsinoe,<br> Exserohilum, Neosetophoma, Neostagonospora, Nothophoma, Parastagonospora, Phaeosphaeriopsis, Pleiocarpon, Pyrenophora, Ramichloridium, Seifertia, Seiridium, Septoriella, Setophoma, Stagonosporopsis, Stemphylium, Tubakia, Zasmidium</i>)</td>
-    <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 3. <b>Studies in Micology</b> 94, 1-124. DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6797016/pdf/main.pdf"><b>[PDF]</b></a></td>
+    <td>GOPHY 3 (<i>Allophoma, Alternaria, Brunneosphaerella, Elsinoe,<br> Exserohilum, Neosetophoma, Neostagonospora, Nothophoma, Parastagonospora, Phaeosphaeriopsis, Pleiocarpon, Pyrenophora, Ramichloridium, Seifertia, Seiridium, Septoriella, Setophoma, Stagonosporopsis, Stemphylium, Tubakia, Zasmidium<br></i>)</td>
+    <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 3. <b>Studies in Micology</b> 94, 1-124. <br>DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6797016/pdf/main.pdf"><b>[PDF]</b></a></td>
   </tr>
 </table> 
 </div>
@@ -43,7 +43,7 @@ A Declaração de Amsterdam foi formulada em um simpósio realizado em Amsterdam
 ## MycoBank
 
 <div align="justify">
-O <a href="http://www.mycobank.org/">MycoBank</a> é uma banco de dados online da International Mycological Association, e que auxilia a comunidade micológica e científica ao documentar e organizar informações relacionadas à taxonomia e nomenclatura fúngicas, e seus dados associados (descrição de exemplares, sequências de DNA, referências de publicações e ilustrações). No banco de dados é possível registrar uma nova espécie fúngica, obter acesso às espécies mais recentemente descritas, determinar a validade de um nome científico e obter informações sobre mudanças de nomenclatura. Para alguns gêneros fúngicos, o banco de dados também oferece um serviço de identificação polifásica, baseado em diferentes sequências de DNA.”
+O <a href="http://www.mycobank.org/">MycoBank</a> é uma banco de dados online da International Mycological Association, e que auxilia a comunidade micológica e científica ao documentar e organizar informações relacionadas à taxonomia e nomenclatura fúngicas, e seus dados associados (descrição de exemplares, sequências de DNA, referências de publicações e ilustrações). No banco de dados é possível registrar uma nova espécie fúngica, obter acesso às espécies mais recentemente descritas, determinar a validade de um nome científico e obter informações sobre mudanças de nomenclatura. Para alguns gêneros fúngicos, o banco de dados também oferece um serviço de identificação polifásica, baseado em diferentes sequências de DNA.
 <br><br>
 Citação e <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905949/pdf/ima-4-2-371.pdf">[PDF]</a>:
 <br><br>
