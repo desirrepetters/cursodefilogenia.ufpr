@@ -37,8 +37,16 @@ Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleioc
 ## Amsterdam Declaration on Fungal Nomenclature
 
 <div align="justify">
-A Declaração de Amsterdam foi formulada em um simpósio realizado em Amsterdam em 2011, com o propósito de estabelecer um consenso entre micologistas em relação às questões de nomenclaura fúngica. Até o momento do simpósio, era comum que espécies de fungos apresentassem dois nomes científicos, um para a fase sexuada e outro para a fase assexuada. A Declaração demonstrou a necessidade de realizar uma transição para um novo sistema de nomenclatura baseada em nome único, propondo também mecanismos para proteger nomes importantes de relevância econômica, médica, agronômica e outras. Confira o artigo completo <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317370/pdf/ima-2-105.pdf">aqui</a>.
+A Declaração de Amsterdam foi formulada em um simpósio realizado em Amsterdam em 2011, com o propósito de estabelecer um consenso entre micologistas em relação às questões de nomenclaura fúngica. Até o momento do simpósio, era comum que espécies de fungos apresentassem dois nomes científicos, um para a fase sexuada e outro para a fase assexuada. A Declaração demonstrou a necessidade de realizar uma transição para um novo sistema de nomenclatura baseada em nome único, propondo também mecanismos para proteger nomes importantes de relevância econômica, médica, agronômica e outras.
+<br><br>
+Citação e <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317370/pdf/ima-2-105.pdf">[PDF]</a>:
+<br><br>
 </div>
+
+```
+Hawkswort et al. 2011. The Amsterdam Declaration on Fungal Nomenclature.
+IMA Fungus 2, 105-112. DOI: 10.5598/imafungus.2011.02.01.14
+```
 
 ## MycoBank
 
