@@ -62,5 +62,12 @@ Robert et al. 2013. MycoBank gearing up for new horizons.
 IMA Fungus 374, 371-379. DOI: 10.5598/imafungus.2013.04.02.16
 ```
 
+## DNA Barcoding
+
+<div align="justify">
+Algumas referências úteis:
+<br><br>
+Schoch et al. 2012. Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for Fungi. Proceedings of the National Academy of Sciences of the United States of America 109, 6241-6246. DOI: <a href"https://doi.org/10.1073/pnas.1117018109">10.1073/pnas.1117018109</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341068/pdf/pnas.201117018.pdf">[PDF]</a></b>
+</div> 
 
 
