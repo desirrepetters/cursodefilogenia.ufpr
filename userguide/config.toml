@@ -55,17 +55,17 @@ anchor = "smart"
   [[menu.main]]
     name = "Laboratório BioGeMM"
     weight = 50
-    url = "https://www.bio.ufpr.br/portal/biogemm/"
+    url = "http://www.bio.ufpr.br/portal/biogemm/"
 	
 [[menu.main]]
     name = "PPG - Genética"
     weight = 60
-    url = "https://www.bio.ufpr.br/portal/ppggenetica/"
+    url = "http://www.bio.ufpr.br/portal/ppggenetica/"
 	
 [[menu.main]]
     name = "UFPR"
     weight = 60
-    url = "https://www.ufpr.br"
+    url = "http://www.ufpr.br"
 
 
 [services]
