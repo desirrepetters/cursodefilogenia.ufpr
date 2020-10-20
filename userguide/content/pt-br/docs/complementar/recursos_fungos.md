@@ -20,8 +20,8 @@ Os gêneros disponíveis podem ser consultados no <a href="http://www.plantpatho
     <th><strong>GOPHY e Gêneros abordados</strong></th>
 	<th><strong>Referência</strong></th>
   <tr>
-    <td>GOPHY 1 (<i>Bipolaris, Boeremia, Calonectria, Ceratocystis, Cladosporium, Colletotrichum,
-Coniella, Curvularia, Monilinia, Neofabraea, Neofusicoccum, Pilidium, Pleiochaeta, Plenodomus, Protostegia, Pseudopyricularia, Puccinia, Saccharata, Thyrostroma, Venturia, Wilsonomyces</i>)</td>
+    <td>GOPHY 1 (<i>Bipolaris, Boeremia, Calonectria, Ceratocystis, Cladosporium,<br> Colletotrichum,
+Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleiochaeta, Plenodomus, Protostegia, Pseudopyricularia, Puccinia, Saccharata, Thyrostroma, Venturia, Wilsonomyces</i>)</td>
     <td>Marin-Felix et al. 2017. Genera of phytopathogenic fungi: GOPHY 1. <b>Studies in Micology</b> 86, 99-216. DOI: <a href="https://doi.org/10.1016/j.simyco.2017.04.002">10.1016/j.simyco.2017.04.002</a>. <a href="https://www.studiesinmycology.org/sim/Sim86/Genera-of-phytopathogenic-fungi--GOPHY-1_2017_Studies-in-Mycology.pdf"><b>[PDF]</b></a></td>
   </tr> 
   <tr>
@@ -29,7 +29,7 @@ Coniella, Curvularia, Monilinia, Neofabraea, Neofusicoccum, Pilidium, Pleiochaet
     <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 2. <b>Studies in Micology</b> 92, 47-133. DOI: <a href="https://doi.org/10.1016/j.simyco.2018.04.002">10.1016/j.simyco.2018.04.002</a>. <a href="https://www.studiesinmycology.org/sim/Sim92/Genera_of_phytopathogenic_fungi_GOPHY_2.pdf"><b>[PDF]</b></a></td>
   <tr>
     <td>GOPHY 3 (<i>Allophoma, Alternaria, Brunneosphaerella, Elsinoe, Exserohilum, Neosetophoma, Neostagonospora, Nothophoma, Parastagonospora, Phaeosphaeriopsis, Pleiocarpon, Pyrenophora, Ramichloridium, Seifertia, Seiridium, Septoriella, Setophoma, Stagonosporopsis, Stemphylium, Tubakia, Zasmidium</i>)</td>
-    <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 3. <b>Studies in Micology</b> 94, 1-124. DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a></td>
+    <td>Marin-Felix et al. 2019. Genera of phytopathogenic fungi: GOPHY 3. <b>Studies in Micology</b> 94, 1-124. DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6797016/pdf/main.pdf"><b>[PDF]</b></a></td>
   </tr>
 </table> 
 </div>
