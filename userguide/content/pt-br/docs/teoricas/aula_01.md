@@ -18,8 +18,8 @@ description: >
 <h2>Parte 02</h2>
 <br>
 <i>Conceitos introdutórios em filogenia e identificação de espécies</i>
-<br><br>
-Em breve!
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E2Qr38SUfpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
