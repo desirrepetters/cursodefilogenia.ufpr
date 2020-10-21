@@ -11,7 +11,7 @@ description: >
 <div align="justify">
 Genera of Phytopathogenic Fungi (GOPHY) ("Gêneros de Fungos Fitopatogênicos") consiste em uma série de publicações na revista "Studies in Micology" que tem como objetivo criar uma plataforma estável para a taxonomia de fungos fitopatogênicos. Em cada publicação, alguns gêneros são revisados, fornecendo uma descrição morfológica, informação sobre patogenicidade, distribuição geográfica, hospedeiros e sintomas, bem como listas com as espécies que são reconhecidas e aceitas e acesso às sequências de DNA que podem ser utilizadas para sua identificação.
 <br><br>
-Os gêneros disponíveis podem ser consultados no <a href="http://www.plantpathogen.org/">site oficial do GOPHY</a>, e nas publicações abaixo:
+Os gêneros disponíveis podem ser consultados no <a href="https://www.plantpathogen.org/">site oficial do GOPHY</a>, e nas publicações abaixo:
 <br><br>
 </div>
 <div align="center">
@@ -51,7 +51,7 @@ IMA Fungus 2, 105-112. DOI: 10.5598/imafungus.2011.02.01.14
 ## MycoBank
 
 <div align="justify">
-O <a href="http://www.mycobank.org/">MycoBank</a> é uma banco de dados online da International Mycological Association, e que auxilia a comunidade micológica e científica ao documentar e organizar informações relacionadas à taxonomia e nomenclatura fúngicas, e seus dados associados (descrição de exemplares, sequências de DNA, referências de publicações e ilustrações). No banco de dados é possível registrar uma nova espécie fúngica, obter acesso às espécies mais recentemente descritas, determinar a validade de um nome científico e obter informações sobre mudanças de nomenclatura. Para alguns gêneros fúngicos, o banco de dados também oferece um serviço de identificação polifásica, baseado em diferentes sequências de DNA.
+O <a href="https://www.mycobank.org/">MycoBank</a> é uma banco de dados online da International Mycological Association, e que auxilia a comunidade micológica e científica ao documentar e organizar informações relacionadas à taxonomia e nomenclatura fúngicas, e seus dados associados (descrição de exemplares, sequências de DNA, referências de publicações e ilustrações). No banco de dados é possível registrar uma nova espécie fúngica, obter acesso às espécies mais recentemente descritas, determinar a validade de um nome científico e obter informações sobre mudanças de nomenclatura. Para alguns gêneros fúngicos, o banco de dados também oferece um serviço de identificação polifásica, baseado em diferentes sequências de DNA.
 <br><br>
 Citação e <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905949/pdf/ima-4-2-371.pdf">[PDF]</a>:
 <br><br>
