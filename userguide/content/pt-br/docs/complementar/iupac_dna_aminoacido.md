@@ -74,6 +74,39 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<td>✓</td>
 	<td> </td>
   </tr>
+    <tr>
+    <td>A<i>m</i>ino</td>
+    <td>M</td>
+	<td>✓</td>
+	<td>✓</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+    <tr>
+    <td><i>K</i>eto</td>
+    <td>K</td>
+	<td> </td>
+	<td> </td>
+	<td>✓</td>
+	<td>✓</td>
+  </tr>
+    <tr>
+    <td>Pu<i>r</i>ina</td>
+    <td>R</td>
+	<td>✓</td>
+	<td> </td>
+	<td>✓</td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td>P<i>y</i>rimidina</td>
+    <td>Y</td>
+	<td>✓</td>
+	<td> </td>
+	<td> </td>
+	<td>✓</td>
+  </tr>
+  
 </table> 
 <div>
 </div>
