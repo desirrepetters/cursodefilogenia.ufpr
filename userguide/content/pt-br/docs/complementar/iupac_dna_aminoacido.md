@@ -49,6 +49,14 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<td>✓</td>
 	<td> </td>
   </tr>
+  <tr>
+    <td>Timina</td>
+    <td>T</td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td>✓</td>
+  </tr>
     <tr>
     <td>Uracila</td>
     <td>U</td>
