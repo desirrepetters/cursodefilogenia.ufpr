@@ -12,8 +12,7 @@ description: >
 A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do alfabeto romano para representar os quatro nucleotídeos comumente encontrados no ácido desoxirribonucleico (DNA). Além das quatro bases usuais, outras letras do alfabeto foram designadas para indicar bases ambíguas em sequências, para posições em que a base é indeterminada em função de erros de sequenciamento, ou para situações em que mais de uma base é possível (por exemplo, em diferentes alelos de um mesmo gene):
 <br><br>
 </div>
-<div align="center">
-</div>
+
 <table style="text-align:center;">
   <tr>
     <th rowspan="2" style="vertical-align:middle;"><strong>Nucleotídeo</strong></th>
