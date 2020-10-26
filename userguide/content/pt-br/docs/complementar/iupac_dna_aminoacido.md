@@ -16,9 +16,9 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 </div>
 <table>
   <tr>
-    <th rowspan="2" align="center"><strong>Nucleotídeo</strong></th>
-	<th rowspan="2"><strong>Símbolo</strong></th>
-	<th colspan="5" align="center"><strong>Bases representadas</th></strong></th>
+    <th rowspan="2" style="text-align:center;"><strong>Nucleotídeo</strong></th>
+	<th rowspan="2" style="text-align:center;"><strong>Símbolo</strong></th>
+	<th colspan="5" style="text-align:center;"><strong>Bases representadas</th></strong></th>
   <tr>
 	<th>Número <br>de bases</th>
 	<th>A</th>
