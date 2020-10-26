@@ -16,8 +16,8 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 </div>
 <table>
   <tr>
-    <th rowspan="2" style="text-align:center;"><strong>Nucleotídeo</strong></th>
-	<th rowspan="2" style="text-align:center;"><strong>Símbolo</strong></th>
+    <th rowspan="2" style="text-align:center; vertical-align:middle;"><strong>Nucleotídeo</strong></th>
+	<th rowspan="2" style="text-align:center; vertical-align:middle;"><strong>Símbolo</strong></th>
 	<th colspan="5" style="text-align:center;"><strong>Bases representadas</th></strong></th>
   <tr>
 	<th>Número <br>de bases</th>
@@ -26,53 +26,53 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<th>G</th>
 	<th>T</th>
   <tr>
-    <td><br>Adenina</td>
+    <td>Adenina</td>
     <td>A</td>
 	<td rowspan="5">1</td>
 	<td>✓</td>
-	<td></td>
-	<td></td>
-	<td></td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
   </tr> 
   <tr>
-    <td><br>Citosina</td>
+    <td>Citosina</td>
     <td>C</td>
-	<td></td>
+	<td> </td>
 	<td>✓</td>
-	<td></td>
-	<td></td>
+	<td> </td>
+	<td> </td>
   <tr>
-    <td><br>Guanina</td>
+    <td>Guanina</td>
     <td>G</td>
-	<td></td>
-	<td></td>
+	<td> </td>
+	<td> </td>
 	<td>✓</td>
-	<td></td>
+	<td> </td>
   </tr>
     <tr>
-    <td><br>Uracila</td>
+    <td>Uracila</td>
     <td>U</td>
-	<td></td>
-	<td></td>
-	<td></td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
 	<td>✓</td>
   </tr>
   <tr>
-    <td><br>Weak (Fraco)</td>
+    <td>Weak (Fraco)</td>
     <td>W</td>
 	<td rowspan="6">2</td>
 	<td>✓</td>
-	<td></td>
-	<td></td>
+	<td> </td>
+	<td> </td>
 	<td>✓</td>
   </tr> 
     <tr>
-    <td><br>Strong (Forte)</td>
+    <td>Strong (Forte)</td>
     <td>S</td>
-	<td></td>
+	<td> </td>
 	<td>✓</td>
 	<td>✓</td>
-	<td></td>
+	<td> </td>
   </tr>
 </table> 
 <div>
