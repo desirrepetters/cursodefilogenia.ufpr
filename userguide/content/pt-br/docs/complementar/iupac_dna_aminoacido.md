@@ -19,7 +19,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<th rowspan="2"><strong>Símbolo</strong></th>
 	<th colspan="5"><strong>Bases representadas</th></strong></th>
   <tr>
-	<th>Número de bases</th>
+	<th>Número <br>de bases</th>
 	<th>A</th>
 	<th>C</th>
 	<th>G</th>
@@ -39,14 +39,39 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<td></td>
 	<td>✓</td>
 	<td></td>
-	<td></td></td>
+	<td></td>
   <tr>
     <td><br>Guanina</td>
     <td>G</td>
 	<td></td>
 	<td></td>
 	<td>✓</td>
-	<td></td></td>
+	<td></td>
+  </tr>
+    <tr>
+    <td><br>Uracila</td>
+    <td>U</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td>✓</td>
+  </tr>
+  <tr>
+    <td><br>Weak (Fraco)</td>
+    <td>W</td>
+	<td rowspan="6">2</td>
+	<td>✓</td>
+	<td></td>
+	<td></td>
+	<td>✓</td>
+  </tr> 
+    <tr>
+    <td><br>Strong (Forte)</td>
+    <td>S</td>
+	<td></td>
+	<td>✓</td>
+	<td>✓</td>
+	<td></td>
   </tr>
 </table> 
 </div>
