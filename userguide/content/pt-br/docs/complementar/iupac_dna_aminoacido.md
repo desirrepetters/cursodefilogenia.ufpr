@@ -3,7 +3,7 @@ title: "Notação IUPAC para Ácidos Nucleicos e Aminoácidos"
 linkTitle: "Notação IUPAC para Ácidos Nucleicos e Aminoácidos"
 weight: 4
 description: >
-  Alguns recursos úteis para identificação de espécies em fungos e melhor entendimento de questões de nomenclatura
+  Notação usualmente utilizada em alinhamentos e em sequências depositadas nos banco de dados
 ---
 
 ## Ácidos Nucleicos
