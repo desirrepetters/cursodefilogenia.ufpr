@@ -3,7 +3,7 @@ title: "Aula 02 - Introdução ao Curso"
 linkTitle: "Aula 02 - Conceitos Básicos em Filogenia e Interpretação de Árvores"
 weight: 4
 description: >
-  Encontro do dia 22 de Outubro com conceitos básicos em filogenia e interpretação de árvores
+  Encontro do dia 22 de Outubro com conceitos básicos em filogenia e interpretação de árvores, DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger
 ---
 
 <br>
