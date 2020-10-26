@@ -9,7 +9,7 @@ description: >
 ## Ácidos Nucleicos
 
 <div align="justify">
-A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do alfabeto romano para representar os quatro nucleotídeos comumente encontrados no ácido desoxirribonucleico (DNA). Além das quatro bases usuais, outras letras do alfabeto foram designadas para indicar bases ambíguas em sequências, para posições em que a base é indeterminada em função de erros de sequenciamento, ou para situações em que mais de uma base é possível (por exemplo, em diferentes alelos de um mesmo gene). 
+A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do alfabeto romano para representar os quatro nucleotídeos comumente encontrados no ácido desoxirribonucleico (DNA). Além das quatro bases usuais, outras letras do alfabeto foram designadas para indicar bases ambíguas em sequências, para posições em que a base é indeterminada em função de erros de sequenciamento, ou para situações em que mais de uma base é possível (por exemplo, em diferentes alelos de um mesmo gene):
 <br><br>
 </div>
 <div align="center">
@@ -166,17 +166,115 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<td> </td>
   </tr>
 </table> 
-<div>
-</div>
 
 ## Aminoácidos
 
 <div align="justify">
-A Declaração de Amsterdam foi formulada em um simpósio realizado em Amsterdam em 2011, com o propósito de estabelecer um consenso entre micologistas em relação às questões de nomenclaura fúngica. Até o momento do simpósio, era comum que espécies de fungos apresentassem dois nomes científicos, um para a fase sexuada e outro para a fase assexuada. A Declaração demonstrou a necessidade de realizar uma transição para um novo sistema de nomenclatura baseada em nome único, propondo também mecanismos para proteger nomes importantes de relevância econômica, médica, agronômica e outras.
-<br><br>
-Citação e <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317370/pdf/ima-2-105.pdf">[PDF]</a>:
+Para aminoácidos, há códigos baseados tanto em uma quanto três letras:
 <br><br>
 </div>
 
-
+<table style="text-align:center;">
+  <tr>
+    <th rowspan="2" style="vertical-align:middle;"><strong>Aminoácido</strong></th>
+	<th colspan="2" style="vertical-align:middle;"><strong>Código de letras</strong></th>
+	<tr>
+	<th>3 letras</th>
+	<th>1 letra</th>
+  <tr>
+    <td>Ácido aspártico</td>
+    <td>Asp</td>
+	<td>D</td>
+  </tr> 
+  <tr>
+    <td>Alanina</td>
+    <td>Ala</td>
+	<td>A</td>
+  </tr> 
+  <tr>
+    <td>Arginina</td>
+    <td>Arg</td>
+	<td>R</td>
+  </tr> 
+  <tr>
+    <td>Asparagina</td>
+    <td>Asn</td>
+	<td>N</td>
+  </tr> 
+  <tr>
+    <td>Cisteína</td>
+    <td>Cys</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td>Fenialanina</td>
+    <td>Phe</td>
+	<td>F</td>
+  </tr> 
+    <tr>
+    <td>Glicina</td>
+    <td>Gly</td>
+	<td>G</td>
+  </tr>
+  <tr>
+    <td>Glutamina</td>
+    <td>Gln</td>
+	<td>Q</td>
+  </tr>
+  <tr>
+    <td>Histidina</td>
+    <td>Hys</td>
+	<td>H</td>
+  </tr>
+  <tr>
+    <td>Isoleucina</td>
+    <td>Ile</td>
+	<td>I</td>
+  </tr>
+  <tr>
+    <td>Leucina</td>
+    <td>Leu</td>
+	<td>L</td>
+  </tr>
+  <tr>
+    <td>Lisina</td>
+    <td>Lys</td>
+	<td>K</td>
+  </tr>
+  <tr>
+    <td>Metionina</td>
+    <td>Met</td>
+	<td>M</td>
+  </tr>
+  <tr>
+    <td>Prolina</td>
+    <td>Pro</td>
+	<td>P</td>
+  </tr>  
+  <tr>
+    <td>Serina</td>
+    <td>Ser</td>
+	<td>S</td>
+  </tr>
+  <tr>
+    <td>Tirosina</td>
+    <td>Tyr</td>
+	<td>Y</td>
+  </tr> 
+  <tr>
+    <td>Treonina</td>
+    <td>Thr</td>
+	<td>T</td>
+  </tr>
+    <tr>
+    <td>Triptofano</td>
+    <td>Trp</td>
+	<td>W</td>
+  </tr>
+  <tr>
+    <td>Valina</td>
+    <td>Val</td>
+	<td>v</td>
+  </tr>   
+</table> 
 
