@@ -13,8 +13,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 <br><br>
 </div>
 
-<div align="center">
-<table style="text-align:center;">
+<table class="center" style="text-align:center;">
   <tr>
     <th rowspan="2" style="vertical-align:middle;"><strong>Nucleotídeo</strong></th>
 	<th rowspan="2" style="vertical-align:middle;"><strong>Símbolo</strong></th>
@@ -165,8 +164,8 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<td> </td>
 	<td> </td>
   </tr>
-</table> 
-</div>
+</table>
+
 
 ## Aminoácidos
 
@@ -175,7 +174,7 @@ Para aminoácidos, há códigos baseados tanto em uma quanto três letras:
 <br><br>
 </div>
 
-<table style="text-align:center;">
+<table class="center" style="text-align:center;">
   <tr>
     <th rowspan="2" style="vertical-align:middle;"><strong>Aminoácido</strong></th>
 	<th colspan="2" style="vertical-align:middle;"><strong>Código de letras</strong></th>
