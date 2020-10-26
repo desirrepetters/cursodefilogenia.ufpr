@@ -27,7 +27,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   <tr>
     <td><br>Adenina</td>
     <td>A</td>
-	<td>1</td>
+	<td rowspan="5">1</td>
 	<td>✓</td>
 	<td></td>
 	<td></td>
@@ -36,7 +36,6 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   <tr>
     <td><br>Citosina</td>
     <td>C</td>
-	<td>1</td>
 	<td></td>
 	<td>✓</td>
 	<td></td>
@@ -44,7 +43,6 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   <tr>
     <td><br>Guanina</td>
     <td>G</td>
-	<td>1</td>
 	<td></td>
 	<td></td>
 	<td>✓</td>
