@@ -14,7 +14,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 </div>
 <div align="center">
 </div>
-<table>
+<table style="text-align:center;">
   <tr>
     <th rowspan="2" style="text-align:center; vertical-align:middle;"><strong>Nucleotídeo</strong></th>
 	<th rowspan="2" style="text-align:center; vertical-align:middle;"><strong>Símbolo</strong></th>
@@ -27,8 +27,8 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
 	<th>T</th>
   <tr>
     <td>Adenina</td>
-    <td>A</td>
-	<td rowspan="5">1</td>
+    <td style="text-align:center;">A</td>
+	<td rowspan="5" style="text-align:center; vertical-align:middle;">1</td>
 	<td>✓</td>
 	<td> </td>
 	<td> </td>
@@ -36,14 +36,14 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   </tr> 
   <tr>
     <td>Citosina</td>
-    <td>C</td>
+    <td style="text-align:center;">C</td>
 	<td> </td>
 	<td>✓</td>
 	<td> </td>
 	<td> </td>
   <tr>
     <td>Guanina</td>
-    <td>G</td>
+    <td style="text-align:center;">G</td>
 	<td> </td>
 	<td> </td>
 	<td>✓</td>
@@ -51,7 +51,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   </tr>
   <tr>
     <td>Timina</td>
-    <td>T</td>
+    <td style="text-align:center;">T</td>
 	<td> </td>
 	<td> </td>
 	<td> </td>
@@ -59,7 +59,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   </tr>
     <tr>
     <td>Uracila</td>
-    <td>U</td>
+    <td style="text-align:center;">U</td>
 	<td> </td>
 	<td> </td>
 	<td> </td>
@@ -67,8 +67,8 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   </tr>
   <tr>
     <td>Weak (Fraco)</td>
-    <td>W</td>
-	<td rowspan="6">2</td>
+    <td style="text-align:center;">W</td>
+	<td rowspan="6" style="text-align:center; vertical-align:middle;">2</td>
 	<td>✓</td>
 	<td> </td>
 	<td> </td>
@@ -76,7 +76,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   </tr> 
     <tr>
     <td>Strong (Forte)</td>
-    <td>S</td>
+    <td style="text-align:center;">S</td>
 	<td> </td>
 	<td>✓</td>
 	<td>✓</td>
