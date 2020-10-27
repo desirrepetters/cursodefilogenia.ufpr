@@ -12,10 +12,6 @@ description: >
 table, th, td {
   border: 1px solid black;
 }
-table.center {
-  margin-left: auto;
-  margin-right: auto;
-}
 </style>
 </head>
 <body>
