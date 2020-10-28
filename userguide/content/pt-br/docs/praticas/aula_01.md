@@ -1,6 +1,6 @@
 ---
-title: "Edição e Análise Inicial de Sequências de DNA"
-linkTitle: "Edição e Análise Inicial de Sequências de DNA"
+title: "Aula 01 - Edição e Análise Inicial de Sequências de DNA"
+linkTitle: "Aula 01 - Edição e Análise Inicial de Sequências de DNA"
 weight: 1
 description: >
   Software utilizado: MEGA7 ou MEGA X.
@@ -135,4 +135,27 @@ Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exempl
 </center>
 <br><br>
 
+</div>
+
+## Aula gravada (26/10/2020)
+
+<br>
+<div align="center">
+<h2>Parte 01</h2>
+<br>
+<i>Visão geral do MEGA e primeiros passos da análise de um cromatograma</i>
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdGElQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<h2>Parte 02</h2>
+<br>
+<i>Produção de sequência consenso e alguns eletroferogramas problemáticos</i>
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxBOlA5PZU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<h2>Slides</h2>
+<br>
+Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/slides/aula_01.pdf">aqui</a>!
 </div>
