@@ -145,7 +145,7 @@ Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exempl
 <br>
 <i>Visão geral do MEGA e primeiros passos da análise de um cromatograma</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdGElQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdGEIQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
