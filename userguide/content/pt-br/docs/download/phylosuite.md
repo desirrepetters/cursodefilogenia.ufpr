@@ -158,7 +158,7 @@ Por fim, o último plugin! O trimAL funciona de forma semelhante ao Gblocks, na 
 Se todos os plug-ins foram instalados corretamente, a tela de Settings deve estar conforme abaixo, e pronto para uso!
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_13.png" alt="Lista de plugins do PhyloSuite em que todos os plugins estão instalados" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_14.png" alt="Lista de plugins do PhyloSuite em que todos os plugins estão instalados" align="center">
 </center>
 <br><br>
 </div>
