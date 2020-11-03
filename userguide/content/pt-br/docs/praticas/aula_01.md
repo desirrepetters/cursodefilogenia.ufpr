@@ -12,17 +12,17 @@ Para este tutorial, iremos utilizar o software MEGA, seja na versão MEGA 7 ou M
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/aula_01.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/aula_01.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
 <ul>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01F.ab1">Aula_01_Exemplo_01F.abi</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01R.ab1">Aula_01_Exemplo_01R.abi</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_02.ab1">Aula_01_Exemplo_02.abi</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_03.ab1">Aula_01_Exemplo_03.abi</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_04.ab1">Aula_01_Exemplo_04.abi</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01.fasta">Aula_01_Exemplo_01.fasta</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01F.ab1">Aula_01_Exemplo_01F.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01R.ab1">Aula_01_Exemplo_01R.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_02.ab1">Aula_01_Exemplo_02.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_03.ab1">Aula_01_Exemplo_03.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_04.ab1">Aula_01_Exemplo_04.abi</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/Aula_01_Exemplo_01.fasta">Aula_01_Exemplo_01.fasta</a></li>
 </ul>
 </div>
 
@@ -89,11 +89,11 @@ Por que isto aconteceu, considerando que se tratam de duas sequências do mesmo 
 <br><br>
 Para produzir a sequência consenso final, podemos adotar um critério mais conservador e utilizar apenas as regiões que apresentam sobreposição, deletando as pontas. Para excluir estas bases das pontas, basta selecioná-las e deletar. Entretanto, dependendo da qualidade do sequenciamento, podemos optar por não excluir estas bases e utilizá-las mesmo assim, quando o eletroferograma apresentava uma boa qualidade. 
 <br><br>
+Para isso, teremos que copiar a informação extra de uma das fitas para a outra. Sugerimos selecionar e copiar a sequência da fita direta para a fita reversa, selecionando a região que está presente apenas na fita direta, e colar na fita reversa. Em seguida, delete a sequência da fita direta, clicando sobre ela e selecionando “Delete”.
+<br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_7.png" alt="Instruções para deletar sequência extra durante a criação da consenso" align="center">
 </center>
-<br><br>
-Para isso, teremos que copiar a informação extra de uma das fitas para a outra. Sugerimos selecionar e copiar a sequência da fita direta para a fita reversa, selecionando a região que está presente apenas na fita direta, e colar na fita reversa. Em seguida, delete a sequência da fita direta, clicando sobre ela e selecionando “Delete”.
 <br><br>
 Agora é hora de exportar a sequência consenso final para um arquivo .FASTA que será utilizado em análises futuras. Para isso, renomeie a sequência para “Exemplo_01” e dentro do menu superior “Data”, selecione a opção “FASTA format” dentro de “Export alignment”. Escolha a pasta do computador e o nome de sua preferência para salvar o arquivo. 
 <br><br>
@@ -113,7 +113,7 @@ Procure em seu computador o Arquivo “<b>Aula_01_Exemplo_02.abi</b>”, e cliqu
 </center>
 <br><br>
 Este tipo de fenômeno pode ser oriundo de contaminação ao longo do processo, em diversas etapas, tais como:
-<br>
+<br><br>
 <ul>
 <li>Contaminação da amostra ou dos reagentes de extração de DNA</li>
 <li>Contaminação do produto ou dos reagentes de PCR</li>
