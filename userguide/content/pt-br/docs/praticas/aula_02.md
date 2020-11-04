@@ -12,7 +12,7 @@ Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/genbank/
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_01/aula_02.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/aula_02.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
@@ -113,13 +113,13 @@ Apesar da grande variedade de dados disponíveis no GenBank, no contexto do curs
 No topo página inicial do GenBank existe uma ferramenta de busca para encontrarmos os dados de interesse. Ao clicar na caixa de seleção suspensa, são listadas várias opções. Para sequências de DNA, escolheremos “Nucleotide”. Em seguida, digitamos os termos de interesse no campo em branco e clicamos em Search para pesquisar. Podemos procurar pelo nome dos organismos de interesse, por nomes de genes, ou também realizar combinações de palavras como nome do organismo e interesse e nomes de genes: 
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_7.png" alt="Campo superior de buscas no NCBI GenBank com a opção ~Nucleotide~ selecionada e ~fusarium tef1~ como termo de busca" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_7.png" alt="Campo superior de buscas no NCBI GenBank com a opção ~Nucleotide~ selecionada e ~fusarium tef1~ como termo de busca" align="center">
 </center>
 <br><br>
 Na próxima página podemos ver o número de resultados da nossa busca (neste caso, 7070), navegar por diferentes páginas de resultados (neste caso, 354 páginas) ou abrir resultados específicos. Vamos abrir o primeiro resultado para avaliar algumas das informações principais e descobrir como obter sua sequência FASTA:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_8.png" alt="Resultado da busca pelo termo ~fusarium tef1~no NCBI GenBank, com 7070 resultados no total e 354 páginas de resultados." align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_8.png" alt="Resultado da busca pelo termo ~fusarium tef1~no NCBI GenBank, com 7070 resultados no total e 354 páginas de resultados." align="center">
 </center>
 <br><br>
 Ao abrir o primeiro resultado, é possível descobrir qual é o código de acesso com o qual a sequência foi registrada (neste caso, MG183712.1), avaliar seu tamanho (714 bp), data em que foi depositada (15 de abril de 2018), qual a identificação segundo o depositante, quem são os autores e se a sequência faz parte de algum trabalho publicado ou não. Neste caso, a sequência consta como “Não publicada”.
@@ -128,13 +128,13 @@ Para baixar a sequência há duas possibilidades. A primeira consiste em clicar 
 <br><br>
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_9.png" alt="Página da sequência de código MG183712.1 de Fusarium solani" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_9.png" alt="Página da sequência de código MG183712.1 de Fusarium solani" align="center">
 </center>
 <br><br>
 A segunda possibilidade é clicar em FASTA logo abaixo do código GenBank da sequência e abrir uma nova janela em que a sequência no formato FASTA poderá ser copiada:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_10.png" alt="Página da sequência de código MG183712.1 de Fusarium solani, em formato FASTA" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_10.png" alt="Página da sequência de código MG183712.1 de Fusarium solani, em formato FASTA" align="center">
 </center>
 <br><br>
 Para organizar as sequências, seja baixando os arquivos ou copiando cada uma, nossa sugestão é criar um documento no Notepad ++, e editar os cabeçalhos para remover informações extras, caracteres especiais e espaços. Uma boa abordagem é manter os cabeçalhos das sequências sempre como “>[Gênero]_[epíteto específico]_[código do isolado]”, para facilitar a compatibilidade entre diferentes softwares. No caso do exemplo, editaríamos a sequência de “>MG183712.1 Fusarium solani strain FJAT-31354 TEF1 (TEF1) gene, partial cds” para “>Fusarium_solani_FJAT_31354”. É importante sempre usar underlines ao invés de espaços. 
@@ -146,7 +146,7 @@ Em geral, uma abordagem mais acertada é buscar por artigos ou outros bancos de 
 No caso da sequência consenso, pertencente ao gênero <i>Fusarium</i>, a informação está dispersa em diversos materiais na literatura, e no contexto do curso não seria produtivo que todos gastássemos tempo reunindo essas informações. Além disso, como o gênero <i>Fusarium</i> apresenta muitas espécies descritas, muitas vezes se torna mais fácil realizar análises separando o gênero em diversos complexos de espécies. Como as espécies listadas nos primeiros alinhamentos no nosso resultado de BLASTn pertencem ao mesmo complexo, focaremos a análise no complexo “<i>Fusarium fujikuroi</i>”. Vamos trabalhar com um conjunto de sequências de referência do complexo <i>Fusarium fujikuroi</i> que já foi reunido e curado manualmente, cujos códigos e informações sobre os isolados (origem geográfica, substrato de isolamento, coleção em que foram depositados e referências dos estudos que descreveram cada espécie) estão nesta tabela. 
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_11.png" alt="Cabeçalho da Tabela das Sequências de Referência" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_11.png" alt="Cabeçalho da Tabela das Sequências de Referência" align="center">
 </center>
 <br><br>
 Este tipo de tabela é extremamente útil não só para a nossa própria organização em relação ao nosso material de estudo, mas também para auxiliar outros pesquisadores a terem um acesso mais fácil a estas informações. Nesse sentido, aconselhamos que no momento de pesquisa na literatura, procurem por este tipo de tabela (que facilitará imensamente seu trabalho futuro). Caso este tipo de tabela não exista e as informações estejam muito dispersas em vários bancos de dados e artigos, talvez você inicialmente passe por um processo trabalhoso de reunião e curadoria de informação. Nesse caso, que tal contribuir com outros pesquisadores e facilitar o acesso deles à esta informação ao incluir a tabela em seu trabalho? Com certeza você auxiliará diversas pessoas e esse esforço será reconhecido com diversas citações à sua tabela!
@@ -175,7 +175,7 @@ Para produzir o alinhamento múltiplo, utilizaremos o software MAFFT. Podemos ut
 Usando o <a href="https://mafft.cbrc.jp/alignment/server/">MAFFT online</a>, no primeiro campo podemos colar diretamente as sequências de DNA a serem alinhadas ou selecionar o arquivo FASTA que acabamos de criar:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_12.png" alt="Campo para inserir ou escolher o arquivo de sequências no MAFFT online" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_12.png" alt="Campo para inserir ou escolher o arquivo de sequências no MAFFT online" align="center">
 </center>
 <br><br>
 Em seguida, podemos configurar algumas opções referente ao arquivo de saída. Para evitar problemas de sequências em orientações opostas no meio do alinhamento, podemos selecionar a opção “<i>Adjust direction according to the first sequence</i>”, em que a orientação das sequências será ajustada para seguir a mesma orientação da primeira sequência do alinhamento. Também é possível pedir que o MAFFT ordene as sequências no arquivo de saída de acordo com a sua similaridade com a opção “<i>Aligned</i>” dentro de “<i>Output order</i>”. Ao selecionar essa opção, as sequências mais similares estarão mais próximas no arquivo final, o que é bastante conveniente para a inspeção visual do alinhamento.
@@ -183,7 +183,7 @@ Em seguida, podemos configurar algumas opções referente ao arquivo de saída. 
 Também é possível dar um nome à tarefa em “Job name” e inserir seu e-mail para ser notificado quando o alinhamento ficar pronto, visto que o procedimento pode ser demorado para arquivos muito grandes com muitas sequências longas.
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_13.png" alt="Opções para o alinhamento com o MAFFT online" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_13.png" alt="Opções para o alinhamento com o MAFFT online" align="center">
 </center>
 <br><br>
 O MAFFT também fornece algumas opções avançadas para otimização dos alinhamentos em caso de muitas sequências ou regiões problemáticas, e também a possibilidade de utilizar diferentes matrizes de substituição e alterar a penalidade de gaps. Para este exemplo, utilizaremos as opções já definidas por padrão e clicaremos em “Submit”.
@@ -191,7 +191,7 @@ O MAFFT também fornece algumas opções avançadas para otimização dos alinha
 Ao finalizar o alinhamento, o MAFFT redireciona para uma página de resultados. É possível avaliar se havia sequências em orientação reversa no arquivo original na opção “<i>Open all plots</i>”. Se houverem somente linhas vermelhas nos gráficos, todas as sequências estavam em orientação direta (quando comparadas à primeira sequência do alinhamento). Se houver alguma linha azul, esta sequência estava em orientação reversa quando comparada à primeira sequência do alinhamento. Para baixar o alinhamento em formato FASTA, basta clicar em “<i>Fasta format</i>” no menu superior. Neste caso, salvaremos o alinhamento como “<b>Aula_02_Alinhamento_MAFFT.fasta</b>”.
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_14.png" alt="Instruções para download do alinhamento produzido pelo MAFFT online" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_14.png" alt="Instruções para download do alinhamento produzido pelo MAFFT online" align="center">
 </center>
 <br><br>
 </div>
@@ -202,25 +202,25 @@ Ao finalizar o alinhamento, o MAFFT redireciona para uma página de resultados. 
 Também é possível produzir o alinhamento pelo plugin do MAFFT no PhyloSuite. Caso ainda não tenha o PhyloSuite instalado e o plugin do MAFFT configurado, siga estas instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/phylosuite">aqui</a>. Após a instalação e configuração, para fazer os alinhamentos primeiramente iremos definir uma pasta de trabalho ao abrir o programa. Clicando no ícone amarelo, escolha a pasta que contiver o arquivo com as sequências. Lembre-se de <b>NÃO</b> selecionar a opção “<i>Use this as the default and do not ask again</i>” para que você sempre seja capaz de escolher qualquer pasta de seu interesse e não ficar restrito à uma única pasta:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_15.png" alt="Janela de seleção do workplace no PhyloSuite" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_15.png" alt="Janela de seleção do workplace no PhyloSuite" align="center">
 </center>
 <br><br>
 Em seguida, clique na opção “MAFFT” dentro do menu “Alignment:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_16.png" alt="Opção MAFFT dentro do menu Alignment do PhyloSuite" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_16.png" alt="Opção MAFFT dentro do menu Alignment do PhyloSuite" align="center">
 </center>
 <br><br>
 Na janela de opções, escolha o arquivo com todas as sequências, modo de alinhamento “Normal”, estratégia “1. –auto” e Export Format “3. FASTA Format / Sorted” para exportar o arquivo final para o formato FASTA com as sequências ordenadas por similaridade. Em “<i>Additional parameters</i>” geralmente a opção “--adjustdirection” para ajustar a orientação das sequências para a mesma da primeira sequência já está selecionada, mas se não estiver, deve ser selecionada. As outras opções não precisam ser selecionadas. Em seguida, aperte em “Start” e acompanhe o processo por meio da barra de progresso:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_17.png" alt="Janela de configurações do MAFFT dentro do PhyloSuite" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_17.png" alt="Janela de configurações do MAFFT dentro do PhyloSuite" align="center">
 </center>
 <br><br>
 Em alguns casos o programa pode retornar uma janela de erro, mas apesar disso, o alinhamento foi concluído. Para encontrar o arquivo de saída, basta acessar a pasta “GenBank file”, em seguida “files”, “mafft_results” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta estará o arquivo FASTA alinhado pelo MAFFT e um arquivo log da tarefa.
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_18.png" alt="Possível bug inofensivo ao utilizar o MAFFT no PhyloSuite" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_18.png" alt="Possível bug inofensivo ao utilizar o MAFFT no PhyloSuite" align="center">
 </center>
 <br><br>
 </div>
@@ -231,13 +231,13 @@ Em alguns casos o programa pode retornar uma janela de erro, mas apesar disso, o
 Para inspeção visual e edição, abriremos o alinhamento no software MEGA 7 ou MEGA X. Para abrir o alinhamento seleciona a opção “Edit/Build Aligment” dentro do menu “Align”. Escolha a opção “<i>Retrieve sequences from a file</i>", clique em OK e escolha o arquivo do alinhamento no seu computador (seja o produzido pelo MAFFT online ou pelo plugin do MAFFT no PhyloSuite) para abrir:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_19.png" alt="Instruções para abrir um arquivo de alinhamento no MEGA" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_19.png" alt="Instruções para abrir um arquivo de alinhamento no MEGA" align="center">
 </center>
 <br><br>
-Ao abrir o alinhamento na aba do Explorador de Alinhamentos, vemos que nem todas as sequências tem o mesmo comprimento: algumas são mais longas que outras, de modo que as mais curtas acabam possuindo vários “gaps” no começo e no final. Nesse sentido, é importante cortar um pouco do início e do final do alinhamento para que o alinhamento consista de regiões representadas pela maioria das sequências. Podemos selecionar e deletar estas bases do começo e do final da mesma forma que fizemos ao produzir a sequência consenso na <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas/aula_01/#o-que-%C3%A9-e-como-analisar-um-eletroferograma">Aula 01</a>.
+Ao abrir o alinhamento na aba do Explorador de Alinhamentos, vemos que nem todas as sequências tem o mesmo comprimento: algumas são mais longas que outras, de modo que as mais curtas acabam possuindo vários “gaps” no começo e no final. Nesse sentido, é importante cortar um pouco do início e do final do alinhamento para que o alinhamento consista de regiões representadas pela maioria das sequências. Podemos selecionar e deletar estas bases do começo e do final da mesma forma que fizemos ao produzir a sequência consenso na <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas/aula_02/#o-que-%C3%A9-e-como-analisar-um-eletroferograma">Aula 01</a>.
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_20.png" alt="Corte nas porções inicial e final do alinhamento" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_20.png" alt="Corte nas porções inicial e final do alinhamento" align="center">
 </center>
 <br><br>
 Para a inspeção visual e edição ao longo de um alinhamento, observe principalmente se:
@@ -247,11 +247,11 @@ Para a inspeção visual e edição ao longo de um alinhamento, observe principa
 <b>Há bases que estão deslocadas, e uma região próxima à qual claramente elas deveriam estar alinhadas?</b> Nesse caso, desloque as bases e corrija o alinhamento. No exemplo a seguir, o gap existente nas sequências 15 a 20 provavelmente não existe, visto que nas sequências logo abaixo ou logo acima a região deslocada existe. Nesse caso, selecione as bases deslocadas e mova para a posição correta com a opção “Move selected block left” do menu superior:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_21.png" alt="Opção ~Move selected block left~ no MEGA 7" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_21.png" alt="Opção ~Move selected block left~ no MEGA 7" align="center">
 </center>
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_02_22.png" alt="Exemplo de bases deslocadas em um alinhamento" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_22.png" alt="Exemplo de bases deslocadas em um alinhamento" align="center">
 </center>
 <br><br>
 No contexto deste tutorial não iremos discutir exaustivamente todos os pontos do alinhamento que poderiam ou não ser editados. A edição dos alinhamentos exigirá um pouco de prática e tempo, e à medida que você trabalhar com frequência com as mesmas sequências, e olhar com atenção o alinhamento, este processo se tornará cada vez mais fácil e você terá mais confiança nas edições. Lembre-se: sempre é possível desfazer as mudanças (Ctrl + Z), ou exportar várias opções de edição, testá-las em sua análise filogenética e perceber as mudanças, ou mesmo não fazer nenhuma edição enquanto não sentir confiança o suficiente para isso.
@@ -281,5 +281,5 @@ Após inspecionar e estar satisfeito com sua edição, exporte o alinhamento no 
 <h2>Slides</h2>
 <br>
 <i>Em breve!</i>
-<! -- Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/slides/aula_01.pdf">aqui</a>! -->
+<! -- Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/slides/aula_02.pdf">aqui</a>! -->
 </div>
