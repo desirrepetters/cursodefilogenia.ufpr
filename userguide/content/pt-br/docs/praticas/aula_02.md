@@ -268,24 +268,15 @@ Após inspecionar e estar satisfeito com sua edição, exporte o alinhamento no 
 <br>
 <i>Em breve!</i>
 <br><br><br>
-<! -- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdGEIQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
--->
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
 <i>Em breve!</i>
 <br><br><br>
-<! -- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxBOlA5PZU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
--->
 <br><br>
 
 <h2>Slides</h2>
 <br>
 <i>Em breve!</i>
-<! -- 
-Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/slides/aula_02.pdf">aqui</a>! 
--->
 </div>
