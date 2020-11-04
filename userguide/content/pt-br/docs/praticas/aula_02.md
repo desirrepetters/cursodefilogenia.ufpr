@@ -21,7 +21,7 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Referencias.fasta">Sequências de referência (formato FASTA)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Outgroup.fasta">Sequência do outgroup (formato FASTA)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Todas.fasta">Arquivo FASTA com todas as sequências</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Table.pdf">Tabela das sequências de referência</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Tabela.pdf">Tabela das sequências de referência</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Alinhamento_MAFFT.fasta">Alinhamento bruto do MAFFT online (formato FASTA)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_02/Aula_02_Alinhamento_PhyloSuite_MAFFT.fasta">Alinhamento bruto do MAFFT no PhyloSuite (formato FASTA)</a></li>
 </ul>
