@@ -24,4 +24,15 @@ description: >
 <h2>Slides</h2>
 <br>
 Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/teoricas/slides/aula_04.pdf">aqui</a>!
+<br><br>
+
+<h2>Contato do Prof. Fabricius</h2>
+<br>
+Fornecido via imagem para evitar detecção por ferramentas automáticas de SPAM:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/teoricas/img/aula_04/email_fabricius.png" alt="E-mail do Prof. Fabricius Domingos" align="center">
+</center>
+<br><br>
+
 </div>
