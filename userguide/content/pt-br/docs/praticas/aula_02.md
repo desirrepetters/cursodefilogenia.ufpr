@@ -264,13 +264,13 @@ Após inspecionar e estar satisfeito com sua edição, exporte o alinhamento no 
 
 <br>
 <div align="center">
-<h2>Parte 01 - Obtenção de sequências no GenBank e alinhamento múltiplo (preparação e edição) </h2>
+<h2>Parte 01 - Obtenção de sequências no GenBank e alinhamento múltiplo (preparação no MAFFT online e MAFFT no PhyloSuite, e edição no MEGA)</h2>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCd0AiN3AqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br><br>
 <br><br>
 
-<h2>Parte 02 - Teste de Modelo Evolutivo e discussão de dados dos alunos</h2>
+<h2>Parte 02 - Testes de Modelo Evolutivo e discussão de dados dos alunos</h2>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZjZWFShccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br><br>
