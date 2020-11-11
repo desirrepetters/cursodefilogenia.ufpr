@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Após realizar a análise dos eletroferogramas da nossa sequência interesse e atestar sua qualidade e confiabilidade, podemos aprofundar nossas análises filogenéticas. Seja para identificar o indivíduo analisado ou entender como ele se relaciona à outras espécies próximas, precisamos de sequências de referência adicionais para comparação. Depois de definir o conjunto de sequências que serão utilizadas, é necessário construir o alinhamento que será submetido à análise filogenética.
 <br><br>
-Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI GenBank</a> e utilizaremos os softwares Notepad ++, MEGA (na versão MEGA7 ou MEGA X) e MAFFT (na versão <a href="https://mafft.cbrc.jp/alignment/server/">online</a> ou como plugin do PhyloSuite). Se você ainda não tem estes softwares utilizados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/">aqui</a>.
+Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI GenBank</a> e utilizaremos os softwares Notepad ++, MEGA (na versão MEGA7 ou MEGA X) e MAFFT (na versão <a href="https://mafft.cbrc.jp/alignment/server/">online</a> ou como plugin do PhyloSuite). Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
