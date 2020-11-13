@@ -175,6 +175,7 @@ Em alguns casos o programa pode retornar a mesma janela de erro que vimos ao pro
 
 ## Análise Filogenética de Inferência Bayesiana no MrBayes com o NGPhylogeny.fr
 
+<div align="justify">
 O servidor online do <a href="https://ngphylogeny.fr/tools/tool/281/form">MrBayes no NGPhylogeny.fr</a> apresenta funções similares ao plugin do MrBayes no PhyloSuite e pode ser configurado de forma bastante simples. A única desvantagem é que os campos de configuração não serão preenchidos de forma automática como no PhyloSuite. Nesse sentido, uma possibilidade é abrir o PhyloSuite como referência das opções enquanto realiza o preenchimento dos campos na página do servidor.
 <br><br>
 Inicialmente fazemos o upload do arquivo de alinhamento a ser utilizado (nesse caso, o arquivo “<b>Aula_03_Alinhamento_Corrigido.fasta</b>”) no campo “<i>Nexus/Fasta/Phylip input file</i>”. Os próximos campos precisam ser preenchidos como segue:
