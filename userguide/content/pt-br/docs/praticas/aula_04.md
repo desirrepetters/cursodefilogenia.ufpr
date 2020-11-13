@@ -139,14 +139,14 @@ Na janela seguinte poderemos confirmar se os parâmetros foram configurados auto
 <li><b>Alignment file:</b> aqui deve estar listado o nome do arquivo de alinhamento que será usado pela análise</li>
 <li><b>Outgroup: </b> aqui devemos selecionar o(s) outgroup(s) a ser utilizado, dentre os todos os indíviduos incluídos na análise. O MrBayes também suporta a inclusão de mais de um indivíduo como outgroup. Entre parênteses, o MrBayes mostra quantos indivíduos foram selecionados (no exemplo, apenas um, <i>Fusarium oxysporum</i>).</li>
 </ul>
-<br><br>
+<br>
 Dentro da seção “<i>Parameters</i>” o software configurará automaticamente os parâmetros de acordo com os resultados do ModelFinder. Caso você esteja trabalhando em uma pasta diferente ou o PhyloSuite não tenha configurado automaticamente, os campos devem ser configurados como segue:
 <br><br>
 <ul>
 <li><b>Models:</b> aqui, selecione o modelo evolutivo a ser utilizado (no exemplo, SYM).</li>
 <li><b>Rate Var.: </b> caso o modelo mais adequado inclua +G ou +I, escolha a opção correspondente.</li>
 </ul>
-<br><br>
+<br>
 Já na seção “<i>MCMC Settings</i>”, configuraremos parâmetros relacionados ao método de Markov-Chain Monte Carlo:
 <br><br>
 <ul>
