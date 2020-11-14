@@ -12,7 +12,7 @@ Para este tutorial, utilizaremos os plugin do ModelFinder e do PartitionFinder d
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_05/aula_05.zip">Link para pasta com todos os arquivos (formato zip) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_05/aula_05.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
