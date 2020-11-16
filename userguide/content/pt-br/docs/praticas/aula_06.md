@@ -1,6 +1,6 @@
 ---
-title: "Aula 06 - Concatenação e Teste de Modelo Evolutivo em alinhamento concatenado"
-linkTitle: "Aula 06 - Concatenação e Teste de Modelo Evolutivo em alinhamento concatenado"
+title: "Aula 06 - Análise Filogenética com Alinhamento Concatenado"
+linkTitle: "Aula 06 - Análise Filogenética com Alinhamento Concatenado"
 weight: 1
 description: >
   Softwares utilizados: IQ-TREE e MrBayes no PhyloSuite e versões online do IQ-TREE e MrBayes
@@ -23,12 +23,12 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_ModelFinder_Para_Configurar.nex">Arquivo do ModelFinder com modelo evolutivo para configuração da análise filogenética</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_Resultado_PartitionFinder.txt">Arquivo de saída do PartitionFinder com o melhor modelo evolutivo (formato TXT)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_PartitionFinder_Para_Configurar.nex">Arquivo do PartitionFinder com modelo evolutivo para configuração da análise filogenética</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_TUB_Outgroup.fasta">Arquivo de saída do IQ-Tree com a árvore (formato TREEFILE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_TUB_Todas.fasta">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_Tabela.pdf">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_EF_Alinhamento_MAFFT.fasta">Arquivo log de saída do MrBayes (formato LOG)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_TUB_Alinhamento_MAFFT.fasta">Arquivo de saída do MrBayes online com a árvore (formato NHX)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_EF_Alinhamento_Corrigido.fasta">Arquivo log de saída do MrBayes online (formato TXT)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_ArvoreEFTUB_IQTREE_PhyloSuite.treefile">Arquivo de saída do IQ-Tree com a árvore (formato TREEFILE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFUTB_IQTREE_Online.treefile">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_PhyloSuite.tre">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_PhyloSuite.log">Arquivo log de saída do MrBayes (formato LOG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_Online.nhx">Arquivo de saída do MrBayes online com a árvore (formato NHX)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.txt">Arquivo log de saída do MrBayes online (formato TXT)</a></li>
 </ul>
 </div>
 
