@@ -8,19 +8,19 @@ description: >
 <div align="justify">
 Agora que temos um alinhamento corrigido e determinamos o modelo evolutivo mais adequado a ser implementado, finalmente chegou a hora de realizar a análise filogenética e obter as tão desejadas árvores.
 <br><br>
-Para este tutorial, utilizaremos os plugin do IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, as opções são o NGPhylogeny.fr e o CIPRES.
+Para este tutorial, utilizaremos os plugin do IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique <a href="http://iqtree.cibiv.univie.ac.at/">aqui</a>. Já para utilizar o MrBayes online, as opções são o NGPhylogeny.fr e o CIPRES.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/aula_04.zip">Link para pasta com todos os arquivos (formato zip) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/aula_04.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
 <ul>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_03_Alinhamento_Corrigido.fasta">Alinhamento do MAFFT já editado (formato FASTA)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_03_Resultado_ModelFinder">Arquivo de teste modelo evolutivo do ModelFinder</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_IQTREE_PhyloSuite.iqtree">Arquivo de saída do IQ-Tree com a árvore (formato TREEFILE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_IQTREE_Online.iqtree">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_03_Resultado_ModelFinder.iqtree">Arquivo de teste modelo evolutivo do ModelFinder para configurar a análise (formato IQ-TREE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_IQTREE_PhyloSuite.treefile">Arquivo de saída do IQ-Tree com a árvore (formato TREEFILE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_IQTREE_Online.treefile">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_MrBayes_PhyloSuite.tre">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Log_MrBayes_PhyloSuite.log">Arquivo log de saída do MrBayes (formato LOG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_MrBayes_Online.nhx">Arquivo de saída do MrBayes online com a árvore (formato NHX)</a></li>
@@ -47,7 +47,7 @@ Na janela seguinte poderemos confirmar se os parâmetros foram configurados auto
 <br><br>
 <ul>
 <li><b>Alignment file:</b> aqui deve estar listado o nome do arquivo de alinhamento que será usado pela análise</li>
-<li><b>Seq. Type:</b> podemos manter em “Auto detect”, ou especificar o tipo de sequência que estamos utilizado, que neste caso é DNA.</li>
+<li><b>Seq. Type:</b> podemos manter em “Auto detect”, ou especificar o tipo de sequência que estamos utilizando, que neste caso é DNA.</li>
 <li><b>Outgroup:</b> aqui devemos selecionar o(s) outgroup(s) a ser utilizado, dentre os todos os indíviduos incluídos na análise. O IQ-TREE suporta a inclusão de mais de um indivíduo como outgroup. Entre parênteses, o IQ-TREE mostra quantos indivíduos foram selecionados (no exemplo, apenas um, <i>Fusarium oxysporum</i>).</li>
 </ul>
 <br><br>
