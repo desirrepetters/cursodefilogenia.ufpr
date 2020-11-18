@@ -3,7 +3,7 @@ title: "Aula 03 - Edição e Análise Inicial de Sequências de DNA"
 linkTitle: "Aula 03 - Edição e Análise Inicial de Sequências de DNA"
 weight: 4
 description: >
-  Encontro do dia 26 de Outubro com discussão sobre modelos evolutivos e diferentes métodos filogenéticos
+  Encontro do dia 26 de Outubro com discussão sobre uma visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos 
 ---
 
 <br>
