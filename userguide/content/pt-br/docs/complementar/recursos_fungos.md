@@ -1,6 +1,6 @@
 ---
-title: "Recursos para Identificação de Espécies em Fungos"
-linkTitle: "Recursos para Identificação de Espécies em Fungos"
+title: "Noções em Nomenclatura e Recursos para Identificação de Espécies em Fungos"
+linkTitle: "Noções em Nomenclatura e Recursos para Identificação de Espécies em Fungos"
 weight: 4
 description: >
   Alguns recursos úteis para identificação de espécies em fungos e melhor entendimento de questões de nomenclatura
@@ -71,3 +71,19 @@ Schoch et al. 2012. Nuclear ribosomal internal transcribed spacer (ITS) region a
 </div> 
 
 
+## Aula gravada: Novas regras para nomenclatura em fungos
+
+
+<div align="center">
+<h2>Parte 01</h2>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N_totfXeQ1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br><br><br>
+<br><br>
+
+<h2>Parte 02</h2>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ldUUSl4gm50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br><br><br>
+<br><br>
+</div>
