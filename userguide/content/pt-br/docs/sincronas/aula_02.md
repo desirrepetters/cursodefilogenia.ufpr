@@ -1,5 +1,5 @@
 ---
-title: "Aula 02 - Introdução ao Curso"
+title: "Aula 02 - Conceitos Básicos em Filogenia e Interpretação de Árvores"
 linkTitle: "Aula 02 - Conceitos Básicos em Filogenia e Interpretação de Árvores"
 weight: 4
 description: >
