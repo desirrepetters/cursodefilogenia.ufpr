@@ -12,7 +12,7 @@ Para este tutorial, utilizaremos o FigTree. Se você ainda não tem o FigTree in
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/aula_07.zip">Link para pasta com todos os arquivos (formato zip) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/aula_07.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
@@ -20,17 +20,15 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_IQTREE.treefile">Arquivo de saída do IQ-Tree com a árvore da região de EF (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_IQTREE.treefile">Arquivo de saída do IQ-Tree com a árvore do alinhamento concatenado (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_MrBayes.tre">Arquivo de saída do MrBayes com a árvore da região de EF (formato TRE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_ModelFinder_">Arquivo de saída do MrBayes com a árvore do alinhamento concatenado (formato TRE) (em breve!)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_05_Result">Arquivo de saída do MrBayes online com a árvore da região de EF (formato NHX) (em breve!)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_MrBayes.nhx">Arquivo de saída do MrBayes online com a árvore do alinhamento concatenado (formato NHX)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_MrBayes.tre">Arquivo de saída do MrBayes com a árvore do alinhamento concatenado (formato TRE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_IQTREE.svg">Arquivo SVG da árvore da região de EF feita no IQ-TREE (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_IQTREE.pdf">Arquivo PDF da árvore da região de EF feita no IQ-TREE (formato PDF)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_MrBayes.svg">Arquivo SVG da árvore da região de EF feita no MrBayes (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EF_MrBayes.pdf">Arquivo PDF da árvore da região de EF feita no MrBayes (formato PDF)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_IQTREE.svg">Arquivo SVG da árvore do alinhamento concatenado feita no IQ-TREE (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_IQTREE.pdf">Arquivo PDF da árvore do alinhamento concatenado feita no IQ-TREE (formato PDF)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Log_EFTU">Arquivo SVG da árvore do alinhamento concatenado feita no MrBayes (formato SVG) (em breve!)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Log_EFTUB">Arquivo PDF da árvore do alinhamento concatenado feita no MrBayes (formato PDF) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_MrBayes.svg">Arquivo SVG da árvore do alinhamento concatenado feita no MrBayes (formato SVG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Aula_07_Arvore_EFTUB_MrBayes.pdf">Arquivo PDF da árvore do alinhamento concatenado feita no MrBayes (formato PDF)</a></li>
 </ul>
 </div>
 
