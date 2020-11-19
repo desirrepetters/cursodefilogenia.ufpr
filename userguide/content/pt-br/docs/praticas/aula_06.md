@@ -27,8 +27,8 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFUTB_IQTREE_Online.treefile">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_PhyloSuite.tre">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_PhyloSuite.log">Arquivo log de saída do MrBayes (formato LOG)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_Online.nhx">Arquivo de saída do MrBayes online com a árvore (formato NHX)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.txt">Arquivo log de saída do MrBayes online (formato TXT)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_Online.nhx">Arquivo de saída do MrBayes online com a árvore (formato NHX) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.txt">Arquivo log de saída do MrBayes online (formato TXT) (em breve!)</a></li>
 </ul>
 </div>
 
