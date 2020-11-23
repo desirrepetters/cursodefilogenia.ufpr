@@ -12,7 +12,7 @@ Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do Phylo
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/aula_06.zip">Link para pasta com todos os arquivos (formato zip) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/aula_06.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
@@ -175,7 +175,7 @@ Em seguida, clique em “<i>Select Tool</i>” para selecionar o software a ser 
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_13.png" alt="Lista de softwares do CIPRES com destaque para o software MrBayes" align="center">
 </center>
 <br><br>
-Após selecionar o software, clique em “<i>Set parameters,/i>” para configurar os parâmetros da análise. Como o arquivo que foi obtido no PhyloSuite possuía o alinhamento e os comandos utilizados pelo MrBayes, marque a caixa de seleção “<i>My Data Contains a MrBayes Data Block (CHECK THIS OR MrBayes BLOCK ENTRIES WILL BE OVERWRITTEN!!!)</i>”, para que o CIPRES leve em conta os comandos presentes no arquivo e não seja necessário fazer todas as configurações manualmente na página do CIPRES. 
+Após selecionar o software, clique em “<i>Set parameters</i>” para configurar os parâmetros da análise. Como o arquivo que foi obtido no PhyloSuite possuía o alinhamento e os comandos utilizados pelo MrBayes, marque a caixa de seleção “<i>My Data Contains a MrBayes Data Block (CHECK THIS OR MrBayes BLOCK ENTRIES WILL BE OVERWRITTEN!!!)</i>”, para que o CIPRES leve em conta os comandos presentes no arquivo e não seja necessário fazer todas as configurações manualmente na página do CIPRES. 
 <br><br>
 Em seguida, informe o número de sub-análises e número de cadeias de Markov de forma semelhante ao que foi configurado no PhyloSuite nas opções “My MrBayes Block specifies nruns=” e “My MrBayes Block specifies nchains=”, respectivamente. Em seguida, informe o número máximo de horas computacionais em que a análise deve ser mantida em execução. Como o limite do CIPRES é 168, sugerimos preencher com este valor para garantir que haja tempo suficiente para a conclusão da análise, ou ela será cancelada antes do final. Além disso, caso a análise dure menos de 168 horas computacionais, o valor correto será contabilizado na cota de utilização gratuita de 1000 horas, então não há problemas em estabelecer um valor maior neste momento.  
 <br><br>
