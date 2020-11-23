@@ -8,11 +8,11 @@ description: >
 <div align="justify">
 Nesta atividade, incorporaremos mais uma região genômica à nossa análise filogenética inicial realizada na Aula 04, e avaliaremos a diferença de resolução observada para alguns clados.
 <br><br>
-Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do PhyloSuite. . Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, as opções são o NGPhylogeny.fr e o CIPRES
+Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do PhyloSuite. . Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, a principal opção é o <a href="http://www.phylo.org/">CIPRES</a>, visto que no momento o NGPhylogeny.fr é limitado à análises com apenas um gene/alinhamento.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/aula_06.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/aula_06.zip">Link para pasta com todos os arquivos (formato zip) (em breve!)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
@@ -27,8 +27,9 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFUTB_IQTREE_Online.treefile">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_PhyloSuite.tre">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_PhyloSuite.log">Arquivo log de saída do MrBayes (formato LOG)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_Online.nhx">Arquivo de saída do MrBayes online com a árvore (formato NHX) (em breve!)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.txt">Arquivo log de saída do MrBayes online (formato TXT) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arquivo_MrBayes_para_CIPRES.nex">Arquivo do PhyloSuite para configurar o MrBayes no CIPRES (formato NEX)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_Online.tre">Arquivo de saída do MrBayes online com a árvore (formato TRE)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.log">Arquivo log de saída do MrBayes online (formato LOG)</a></li>
 </ul>
 </div>
 
@@ -140,17 +141,83 @@ Em alguns casos o programa pode retornar a mesma janela de erro que vimos nas an
 <br><br>
 </div>
 
+## Análise Filogenética de Inferência Bayesiana com o MrBayes com o CIPRES
+
+<div align="justify">
+Visto que o NGPhylogeny.fr é limitado às análises com apenas um gene, utilizaremos o CIPRES para realizar a análise filogenética de inferência bayesiana em alinhamentos concatenados. A configuração é bastante simples, e o PhyloSuite pode ajudar neste processo. A única desvantagem é a limitação de utilizar apenas um outgroup, ao invés de múltiplos outgroups conforme permitido pelo PhyloSuite.
+<br><br>
+Antes de realizar a configuração no CIPRES, iremos baixar o arquivo necessário para a análise na janela de configuração do MrBayes no PhyloSuite. Podemos seguir todas as etapas de concatenação do alinhamento, teste de modelo evolutivo e configuração da análise do MrBayes, lembrando de especificar somente um outgroup. Por fim, ao invés de clicar para iniciar a análise em start, clicaremos em “<i>Show MrBayes Data Block</i>”:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_9.png" alt="Opção Show MrBayes Data Block na janela de configuração do MrBayes no PhyloSuite" align="center">
+</center>
+<br><br>
+Ao clicar nesta opção uma nova janela será aberta, apresentando um arquivo NEXUS que contém tanto o alinhamento quanto os comandos utilizados pelo MrBayes. Clique na opção “<i>Save to File</i>” para salvar o arquivo, ou copie todo o conteúdo da janela e salve em um novo arquivo no Notepad++ com as extensões “.NEX” ou “.BAY”.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_10.png" alt="Opção Save to File na janela da opção Show MrBayes Data Block no PhyloSuite" align="center">
+</center>
+<br><br>
+Em seguida, acesse o CIPRES e faça o upload deste arquivo na opção “<i>Data</i>” dentro da pasta de interesse (caso tenha dúvidas sobre este processo, confira instruções mais detalhadas aqui). Neste tutorial usaremos o arquivo “Aula_06_Arquivo_MrBayes_para_CIPRES.”. Após realizar o upload do arquivo, crie uma nova tarefa em “<i>Create New Task</i>”. Atribua um nome para a análise no campo “<i>Description</i>” e clique em “<i>Select Input Data</i>" para selecionar o arquivo de entrada:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_11.png" alt="Página de configuração de nova tarefa no CIPRES" align="center">
+</center>
+<br><br>
+Selecione o arquivo desejado (nesse caso, “<b>Aula_06_Arquivo_MrBayes_para_CIPRES.nex</b>”) e clique em “<i>Select Data</i>”):
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_12.png" alt="Opção Select Data para selecionar o arquivo a ser utilizado na nova tarefa no CIPRES" align="center">
+</center>
+<br><br>
+Em seguida, clique em “<i>Select Tool</i>” para selecionar o software a ser utilizado. Nesse exemplo, utilizaremos o MrBayes, então clique na opção “<i>MrBayes on XSEDE</i>”:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_13.png" alt="Lista de softwares do CIPRES com destaque para o software MrBayes" align="center">
+</center>
+<br><br>
+Após selecionar o software, clique em “<i>Set parameters,/i>” para configurar os parâmetros da análise. Como o arquivo que foi obtido no PhyloSuite possuía o alinhamento e os comandos utilizados pelo MrBayes, marque a caixa de seleção “<i>My Data Contains a MrBayes Data Block (CHECK THIS OR MrBayes BLOCK ENTRIES WILL BE OVERWRITTEN!!!)</i>”, para que o CIPRES leve em conta os comandos presentes no arquivo e não seja necessário fazer todas as configurações manualmente na página do CIPRES. 
+<br><br>
+Em seguida, informe o número de sub-análises e número de cadeias de Markov de forma semelhante ao que foi configurado no PhyloSuite nas opções “My MrBayes Block specifies nruns=” e “My MrBayes Block specifies nchains=”, respectivamente. Em seguida, informe o número máximo de horas computacionais em que a análise deve ser mantida em execução. Como o limite do CIPRES é 168, sugerimos preencher com este valor para garantir que haja tempo suficiente para a conclusão da análise, ou ela será cancelada antes do final. Além disso, caso a análise dure menos de 168 horas computacionais, o valor correto será contabilizado na cota de utilização gratuita de 1000 horas, então não há problemas em estabelecer um valor maior neste momento.  
+<br><br>
+Por fim, é possível optar por utilizar ou não o BEAGLE. Utilizar o BEAGLE pode acelerar em até 20% a execução das análises. Entretanto, para alguns grupos de difícil resolução, utilizar o BEAGLE pode levar ao surgimento de topologias anômalas na árvore final. O recomendado é utilizá-lo, e desabilitar esta opção somente caso as árvores resultantes estejam muito estranhas, apresentando problemas sérios na topologia (por exemplo, desaparecimento de grupos bem suportados na análise de máxima verossimilhança, ou agrupamentos muito diferentes de filogenias previamente publicadas disponíveis na literatura). Após configurar todas as opções, clique em “<i>Save Parameters</i>” para confirmar. O CIPRES mostrará uma notificação sobre o tempo computacional e o uso do BEAGLE, e basta clicar em “<i>OK</i>” para ambas:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_14.png" alt="Opções de configuração do MrBayes no CIPRES" align="center">
+</center>
+<br><br>
+Por fim, clique em “<i>Save and Run Task</i>” para prosseguir. O CIPRES novamente apresentará uma notificação informando que as análises podem ser demoradas e que atualizar constantemente a página não irá acelerar o processo e pode até corromper os dados. Basta clicar em “<i>OK</i>” para iniciar a análise:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_15.png" alt="Opções Save and Run Task para iniciar a análise no MrBayes no CIPRES" align="center">
+</center>
+<br><br>
+Após confirmar, seremos redirecionados para a página da lista de tarefas dentro da pasta. Podemos atualizar a página clicando em “<i>Refresh Tasks<i/>”. O campo “<i>Current CPU Hr Usage</i>” apresenta um cálculo provisório de horas computacionais que serão utilizadas caso a análise dure as 168 solicitadas nos vários processadores utilizados. Ao final da análise este valor será atualizado para o valor real (e provavelmente será bem inferior que 4032). 
+<br><br>
+Em “<i>Running Tasks</i>” podemos acompanhar quantas análises simultâneas estão em andamento (é possível rodar várias análises distintas ao mesmo tempo). Quando a caixa “<i>View Status</i>” mudar para “<i>View Output</i>”, a análise estará concluída. Além de acompanhar o progresso nessa página, o CIPRES enviará um aviso por e-mail quando a análise for terminada:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_16.png" alt="Aba de Tarefas no CIPRES com informações sobre o progresso da análise do MrBayes" align="center">
+</center>
+<br><br>
+Após terminar a análise, podemos clicar em “<i>View Output</i>” para baixar a árvore final e o arquivo LOG da análise. Independentemente da análise, o nome do arquivo da árvore será sempre “<b>input.nex.con.tre</b>”. Já o arquivo LOG será o “<b>log.txt</b>”. Clique em na opção “<i>Download</i>” para baixar ambos os arquivos para o computador.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_17.png" alt="Lista de arquivos de saída do MrBayes no CIPRES" align="center">
+</center>
+<br><br>
+O arquivo da árvore será interpretado e editado em um tutorial futuro com o FigTree. Entretanto, é necessário avaliar se as análises atingiram convergência de acordo com informação de “<i>Average standard deviation of split frequencies</i>”, de forma semelhante ao que foi feito ao utilizar o MrBayes no PhyloSuite. Para isso, abra o arquivo no Notepad ++ e utilize a ferramenta “<i>Localizar</i>” (Ctrl + F) e procure pelo número total de gerações utilizadas (nesse caso, 10000000). Na linha logo abaixo da segunda ocorrência deste valor no documento será possível encontrar o valor final de “<i>Average standard deviation of split frequencies</i>” para a análise. Neste caso podemos observar que o valor final foi de 0.009188, que é inferior a 0.01 e permitindo que a árvore seja utilizada:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_18.png" alt="Valor de Average standard deviation of split frequecies obtido na análise" align="center">
+</center>
+<br><br>
+</div>
 
 ## Aula gravada (16/11/2020)
 
 <br>
 <div align="center">
-<h2>Parte 01 - Em breve!</h2>
-<br>
-<br><br><br>
-<br><br>
-
-<h2>Parte 02 - Em breve!</h2>
+<h2>Em breve!</h2>
 <br>
 <br><br><br>
 <br><br>
