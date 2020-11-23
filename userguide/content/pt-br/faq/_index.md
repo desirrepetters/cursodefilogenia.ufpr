@@ -42,7 +42,7 @@ Se você participar de 75% ou mais das atividades, receberá um certificado de c
 ## Inscrições
 <p><p>
 <b>Até quando as inscrições estão abertas?</b><p>
-As incrições da Turma 02 estão abertas até o dia 23 de Novembro de 2020 (segunda-feira).
+As incrições da Turma 02 já foram encerradas, pois todas as vagas foram preenchidas.
 <p><p>
 
 <b>Há previsões de turmas futuras após a turma 02?</b><p>
