@@ -28,7 +28,7 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_IQTREE.svg">Arquivo SVG da árvore do alinhamento concatenado feita no IQ-TREE (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_IQTREE.pdf">Arquivo PDF da árvore do alinhamento concatenado feita no IQ-TREE (formato PDF)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_MrBayes.svg">Arquivo SVG da árvore do alinhamento concatenado feita no MrBayes (formato SVG)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Aula_07_Arvore_EFTUB_MrBayes.pdf">Arquivo PDF da árvore do alinhamento concatenado feita no MrBayes (formato PDF)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_07/Aula_07_Arvore_EFTUB_MrBayes.pdf">Arquivo PDF da árvore do alinhamento concatenado feita no MrBayes (formato PDF)</a></li>
 </ul>
 </div>
 
