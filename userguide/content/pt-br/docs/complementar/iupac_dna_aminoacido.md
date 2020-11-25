@@ -108,8 +108,8 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   <tr>
     <td>P<i>y</i>rimidina</td>
     <td>Y</td>
-	<td>✓</td>
 	<td> </td>
+	<td>✓</td>
 	<td> </td>
 	<td>✓</td>
   </tr>
