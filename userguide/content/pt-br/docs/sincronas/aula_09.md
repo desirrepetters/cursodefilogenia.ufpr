@@ -3,7 +3,7 @@ title: "Aula 09 - Discussão de dados dos alunos e solução de problemas"
 linkTitle: "Aula 09 - Discussão de dados dos alunos e solução de problemas
 weight: 4
 description: >
-  Encontro do dia 19 de Novembro com discussão de dados dos alunos e solução de problemas, e encerramento do curso
+  Encontro do dia 19 de Novembro com discussão de dados dos alunos, solução de problemas e encerramento do curso
 ---
 
 <br>
