@@ -14,12 +14,16 @@ description: >
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GSfxqkU0brs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
+Clique <a href="https://photos.app.goo.gl/K1FHZ2ETgqZvNVYK9">aqui</a> para fazer o download do vídeo.
+<br><br>
 
 <h2>Parte 02</h2>
 <br>
 <i>DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a5o6XEY65l0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+Clique <a href="https://photos.app.goo.gl/RrsjHfb2dnF1cJJ37">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 <h2>Slides</h2>
