@@ -14,12 +14,16 @@ description: >
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdGEIQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
+Clique <a href="https://photos.app.goo.gl/sebaMBchjjN6Rhzx9">aqui</a> para fazer o download do vídeo.
+<br><br>
 
 <h2>Parte 02</h2>
 <br>
 <i>Produção de sequência consenso e alguns eletroferogramas problemáticos</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxBOlA5PZU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+Clique <a href="https://photos.app.goo.gl/85ZngwDZFQVDGP1a7">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 <h2>Slides</h2>
