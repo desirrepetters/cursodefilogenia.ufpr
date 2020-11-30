@@ -7,15 +7,10 @@ date: 2020-11-30
 description: >
   Confira aqui o plano de curso com os links para as respectivas aulas!
 ---
-t01 {
-  width: 100%;
-  background-color: #f1f1c1;
-  border: 1px solid black;
-}
 
 <br>
 <div align="center">
-<table class="center" style="text-align:center;" id="t01";>
+<table class="center" style="text-align:center;">
   <tr>
     <th style="vertical-align:middle;"><strong>Aula</strong></th>
     <th style="vertical-align:middle;"><strong>Data e horário</strong></th>
