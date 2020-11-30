@@ -38,7 +38,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 06 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_02"><br.Aula prática com obtenção de sequências no GenBank, alinhamento múltiplo (preparação no MAFFT online e MAFFT no PhyloSuite, e edição no MEGA) e testes de modelos evolutivos<br></a></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_02"><br>Aula prática com obtenção de sequências no GenBank, alinhamento múltiplo (preparação no MAFFT online e MAFFT no PhyloSuite, e edição no MEGA) e testes de modelos evolutivos<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 07 (Síncrona)</td>
   <td style="vertical-align:middle;">04/12/2020 <br>(08:30 - 12:30)</td>
