@@ -26,7 +26,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 03 (Assíncrona)</td>
   <td style="vertical-align:middle;">-</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_01">Aula prática com visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos<br><br></a></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_01">Aula prática com visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 04 (Síncrona)</td>
   <td style="vertical-align:middle;">02/12/2020 <br>(13:30 - 17:30)</td>
