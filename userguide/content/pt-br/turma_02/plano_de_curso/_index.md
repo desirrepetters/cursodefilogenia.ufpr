@@ -16,13 +16,13 @@ description: >
     <th style="vertical-align:middle;"><strong>Data e horário</strong></th>
 	<th style="vertical-align:middle;"><strong>Conteúdo</strong></th>
   <tr>
-  <td>Aula 01 (Síncrona)</td>
-  <td>30/11/2020 <br>(13:30 - 17:30)</td>
-  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_01">Apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies</a></td>
+  <td style="vertical-align:middle;">Aula 01 (Síncrona)</td>
+  <td style="vertical-align:middle;">30/11/2020 <br>(13:30 - 17:30)</td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_01">Apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies</a></td>
   <tr>
-  <td>Aula 02 (Assíncrona)</td>
-  <td>-</td>
-  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_02">Aula teórica com conceitos básicos em filogenia e interpretação de árvores, DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger</a></td>
+  <td style="vertical-align:middle;">Aula 02 (Assíncrona)</td>
+  <td style="vertical-align:middle;">-</td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_02">Aula teórica com conceitos básicos em filogenia e interpretação de árvores, DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger</a></td>
   <tr>
   <td>Aula 03 (Assíncrona)</td>
   <td>-</td>
