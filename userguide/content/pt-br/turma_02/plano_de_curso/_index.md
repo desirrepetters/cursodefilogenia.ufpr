@@ -10,7 +10,7 @@ description: >
 
 <br>
 <div align="center">
-<table class="center" style="text-align:center;">
+<table class="center" style="text-align:center; vertical-align:middle;">
   <tr>
     <th style="vertical-align:middle;"><strong>Aula</strong></th>
     <th style="vertical-align:middle;" width="310"><strong>Data e horário</strong></th>
