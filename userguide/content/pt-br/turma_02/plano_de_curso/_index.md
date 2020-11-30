@@ -18,7 +18,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 01 (Síncrona)</td>
   <td style="vertical-align:middle;">30/11/2020 <br>(13:30 - 17:30)</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_01"><br>Apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies<br><br></a></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_01">Apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies<br><br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 02 (Assíncrona)</td>
   <td style="vertical-align:middle;">-<br><br></td>
