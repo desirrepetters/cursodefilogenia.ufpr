@@ -17,16 +17,16 @@ description: >
 	<th style="vertical-align:middle;"><strong>Conteúdo</strong></th>
   <tr>
   <td style="vertical-align:middle;">Aula 01 (Síncrona)</td>
-  <td style="vertical-align:middle;">30/11/2020 <br><br>(13:30 - 17:30)<br><br></td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_01">Apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies</a></td>
+  <td style="vertical-align:middle;">30/11/2020 <br>(13:30 - 17:30)</td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_01"><br>Apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies<br><br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 02 (Assíncrona)</td>
-  <td style="vertical-align:middle;">-</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_02">Aula teórica com conceitos básicos em filogenia e interpretação de árvores, DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger</a></td>
+  <td style="vertical-align:middle;">-<br><br></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_02"><br>Aula teórica com conceitos básicos em filogenia e interpretação de árvores, DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger<br><br></a></td>
   <tr>
   <td>Aula 03 (Assíncrona)</td>
   <td>-</td>
-  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_01">Aula prática com visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos</a></td>
+  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_01"><br>Aula prática com visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos<br><br></a></td>
   <tr>
   <td>Aula 04 (Síncrona)</td>
   <td>02/12/2020 <br>(13:30 - 17:30)</td>
