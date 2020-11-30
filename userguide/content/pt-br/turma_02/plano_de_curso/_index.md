@@ -7,7 +7,7 @@ date: 2020-11-30
 description: >
   Confira aqui o plano de curso com os links para as respectivas aulas!
 ---
-#t01 {
+t01 {
   width: 100%;
   background-color: #f1f1c1;
   border: 1px solid black;
