@@ -7,10 +7,15 @@ date: 2020-11-30
 description: >
   Confira aqui o plano de curso com os links para as respectivas aulas!
 ---
+#t01 {
+  width: 100%;
+  background-color: #f1f1c1;
+  border: 1px solid black;
+}
 
 <br>
 <div align="center">
-<table class="center" style="text-align:center;">
+<table class="center" style="text-align:center;" id="t01";>
   <tr>
     <th style="vertical-align:middle;"><strong>Aula</strong></th>
     <th style="vertical-align:middle;"><strong>Data e horário</strong></th>
@@ -24,17 +29,17 @@ description: >
   <td style="vertical-align:middle;">-<br><br></td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_02"><br>Aula teórica com conceitos básicos em filogenia e interpretação de árvores, DNA barcoding, genes utilizados em filogenia e sequenciamento Sanger<br><br></a></td>
   <tr>
-  <td>Aula 03 (Assíncrona)</td>
-  <td>-</td>
-  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_01"><br>Aula prática com visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos<br><br></a></td>
+  <td style="vertical-align:middle;">Aula 03 (Assíncrona)</td>
+  <td style="vertical-align:middle;">-</td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_01">Aula prática com visão geral do MEGA e primeiros passos da análise de um cromatograma, produção de sequência consenso e alguns eletroferogramas problemáticos<br><br></a></td>
   <tr>
-  <td>Aula 04 (Síncrona)</td>
-  <td>02/12/2020 <br>(13:30 - 17:30)</td>
-  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_02">Resolução de dúvidas sobre as aulas 02 e 03 (assíncronas) e início da discussão sobre os trabalhos individuais</a></td>
+  <td style="vertical-align:middle;">Aula 04 (Síncrona)</td>
+  <td style="vertical-align:middle;">02/12/2020 <br>(13:30 - 17:30)</td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_02"><br>Resolução de dúvidas sobre as aulas 02 e 03 (assíncronas) e início da discussão sobre os trabalhos individuais<br><br></a></td>
   <tr>
-  <td>Aula 05 (Assíncrona)</td>
-  <td>-</td>
-  <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_03">Aula teórica sobre modelos evolutivos e diferentes métodos filogenéticos</a></td>
+  <td style="vertical-align:middle;">Aula 05 (Assíncrona)</td>
+  <td style="vertical-align:middle;">-</td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_03">Aula teórica sobre modelos evolutivos e diferentes métodos filogenéticos</a></td>
   <tr>
   <td>Aula 06 (Assíncrona)</td>
   <td>-</td>
