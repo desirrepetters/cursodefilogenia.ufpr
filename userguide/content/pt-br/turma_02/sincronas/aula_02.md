@@ -13,7 +13,7 @@ description: >
 <i>Em breve!</i>
 <br><br><br>
 <br><br>
-Clique <a href="">aqui</a> para fazer o download do vídeo (em breve!).
+Clique <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/">aqui</a> para fazer o download do vídeo (em breve!).
 <br><br>
 
 <h2>Parte 02</h2>
@@ -21,7 +21,7 @@ Clique <a href="">aqui</a> para fazer o download do vídeo (em breve!).
 <i>Em breve!</i>
 <br><br><br>
 <br><br>
-Clique <a href="">aqui</a> para fazer o download do vídeo (em breve!).
+Clique <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/">aqui</a> para fazer o download do vídeo (em breve!).
 <br><br>
 
 </div>
