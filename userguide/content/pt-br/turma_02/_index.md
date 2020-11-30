@@ -17,6 +17,6 @@ Este material faz parte do “Curso de Sequências de DNA na Identificação de 
 ## Pronto para começar?
 
 <div align="justify">
-Que tal começar pelo <a href="https://cursodefilogeniaufpr.netlify.app/docs/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas">aulas práticas</a>? Ou que tal começar a estudar o <a href="https://cursodefilogeniaufpr.netlify.app/docs/teoricas">conteúdo teórico?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
+Que tal começar pelo <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas">aulas práticas</a>? Ou que tal começar a estudar o <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas">conteúdo teórico?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
 </div>
 
