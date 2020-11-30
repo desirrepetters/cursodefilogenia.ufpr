@@ -71,6 +71,7 @@ description: >
   <td>Aula 14 (Assíncrona)</td>
   <td>18/12/2020 <br>(08:30 - 12:30)</td>
   <td><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_07">Discussão dos trabalhos individuais e resolução de problemas, e finalização do curso</td>
+  </table>
 </div>
 
 	
