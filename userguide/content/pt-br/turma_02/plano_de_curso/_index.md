@@ -42,7 +42,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 07 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br>Aula prática com <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_03">testes de modelos evolutivos</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_03">Aula prática com testes de modelos evolutivos</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 08 (Síncrona)</td>
   <td style="vertical-align:middle;">04/12/2020 <br>(08:30 - 12:30)</td>
