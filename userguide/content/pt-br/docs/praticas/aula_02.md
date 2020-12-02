@@ -260,19 +260,13 @@ Após inspecionar e estar satisfeito com sua edição, exporte o alinhamento no 
 <br><br>
 </div>
 
-## Aula gravada (05/11/2020)
+## Aula em vídeo
 
 <br>
 <div align="center">
-<h2>Parte 01 - Obtenção de sequências no GenBank e alinhamento múltiplo (preparação no MAFFT online e MAFFT no PhyloSuite, e edição no MEGA)</h2>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dCd0AiN3AqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yz0njYN0oIw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br><br>
 <br><br>
-
-<h2>Parte 02 - Testes de Modelo Evolutivo e discussão de dados dos alunos</h2>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EZjZWFShccc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<br><br><br>
+Clique <a href="https://photos.app.goo.gl/pukRgyGobNrkH3Un7">aqui</a> para fazer o download do vídeo.
 <br><br>
 </div>
