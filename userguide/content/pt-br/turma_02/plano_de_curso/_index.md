@@ -66,7 +66,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 13 (Síncrona)</td>
   <td style="vertical-align:middle;">09/12/2020 <br>(13:30 - 17:30)</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_05"><br>Resolução de dúvidas sobre as aulas 10 e 11 (assíncronas) e continuação da discussão dos trabalhos individuais<br></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_05"><br>Resolução de dúvidas sobre as aulas 11 e 12 (assíncronas) e continuação da discussão dos trabalhos individuais<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 14 (Síncrona)</td>
   <td style="vertical-align:middle;">11/12/2020 <br>(08:30 - 12:30)</td>
