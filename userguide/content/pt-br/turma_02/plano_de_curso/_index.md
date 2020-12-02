@@ -38,37 +38,41 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 06 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br>Aulas práticas com <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_02">obtenção de sequências no GenBank, alinhamento múltiplo (preparação no MAFFT online e MAFFT no PhyloSuite, e edição no MEGA)</a> e <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_03">testes de modelos evolutivos</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_02">Aula prática com obtenção de sequências no GenBank, alinhamento múltiplo (preparação no MAFFT online e MAFFT no PhyloSuite, e edição no MEGA)</a><br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 07 (Síncrona)</td>
+  <td style="vertical-align:middle;">Aula 07 (Assíncrona)</td>
+  <td style="vertical-align:middle;">- - -</td>
+  <td style="vertical-align:middle;"><br>Aula prática com <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_03">testes de modelos evolutivos</a><br></td>
+  <tr>
+  <td style="vertical-align:middle;">Aula 08 (Síncrona)</td>
   <td style="vertical-align:middle;">04/12/2020 <br>(08:30 - 12:30)</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_03"><br>Resolução de dúvidas sobre as aulas 05 e 06 (assíncronas) e discussão dos trabalhos individuais<br></a></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_03"><br>Resolução de dúvidas sobre as aulas 05, 06 e 07 (assíncronas) e discussão dos trabalhos individuais<br></a></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 08 (Assíncrona)</td>
+  <td style="vertical-align:middle;">Aula 09 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
   <td style="vertical-align:middle;"><br>Aula teórica sobre conceitos de espécie, métodos coalescentes, taxonomia integrativa e delimitação de espécies com o Prof. Fabricius Domingos (Departamento de Zoologia - UFPR)<br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 09 (Síncrona)</td>
+  <td style="vertical-align:middle;">Aula 10 (Síncrona)</td>
   <td style="vertical-align:middle;">07/12/2020 <br>(13:30 - 17:30)</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_04"><br>Aula com o Prof. Fabricius Domingos para resolução de dúvidas sobre a aula 08 (assíncrona)<br><a></td>
-  <tr>
-  <td style="vertical-align:middle;">Aula 10 (Assíncrona)</td>
-  <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br>Aula prática com análise filogenética de Máxima Verossimilhança no IQ-TREE (PhyloSuite e online) e de Inferência Bayesiana no MrBayes (PhyloSuite e online)<br></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_04"><br>Aula com o Prof. Fabricius Domingos para resolução de dúvidas sobre a aula 09 (assíncrona)<br><a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 11 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
+  <td style="vertical-align:middle;"><br>Aula prática com análise filogenética de Máxima Verossimilhança no IQ-TREE (PhyloSuite e online) e de Inferência Bayesiana no MrBayes (PhyloSuite e online)<br></td>
+  <tr>
+  <td style="vertical-align:middle;">Aula 12 (Assíncrona)</td>
+  <td style="vertical-align:middle;">- - -</td>
   <td style="vertical-align:middle;"><br>Aula prática com concatenação de alinhamentos, teste de modelo evolutivo e analises filogenéticas de máxima verossimilhança e inferência bayesiana em alinhamentos concatenados e visualização e pré-edição de árvores filogenéticas<br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 12 (Síncrona)</td>
+  <td style="vertical-align:middle;">Aula 13 (Síncrona)</td>
   <td style="vertical-align:middle;">09/12/2020 <br>(13:30 - 17:30)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_05"><br>Resolução de dúvidas sobre as aulas 10 e 11 (assíncronas) e continuação da discussão dos trabalhos individuais<br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 13 (Síncrona)</td>
+  <td style="vertical-align:middle;">Aula 14 (Síncrona)</td>
   <td style="vertical-align:middle;">11/12/2020 <br>(08:30 - 12:30)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_06"><br>Discussão dos trabalhos individuais e resolução de problemas<br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 14 (Assíncrona)</td>
+  <td style="vertical-align:middle;">Aula 15 (Assíncrona)</td>
   <td style="vertical-align:middle;">18/12/2020 <br>(08:30 - 12:30)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_07"><br>Discussão dos trabalhos individuais e resolução de problemas, e finalização do curso<br><br></td>
   </table>
