@@ -50,7 +50,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 09 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br>Aula teórica sobre conceitos de espécie, métodos coalescentes, taxonomia integrativa e delimitação de espécies com o Prof. Fabricius Domingos (Departamento de Zoologia - UFPR)<br></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/teoricas/aula_04"><br>Aula teórica sobre conceitos de espécie, métodos coalescentes, taxonomia integrativa e delimitação de espécies com o Prof. Fabricius Domingos (Departamento de Zoologia - UFPR)<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 10 (Síncrona)</td>
   <td style="vertical-align:middle;">07/12/2020 <br>(13:30 - 17:30)</td>
