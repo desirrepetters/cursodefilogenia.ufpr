@@ -19,6 +19,7 @@ Em breve!
 <br>
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4OuspI8tI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<br><br><br>
+<br><br>
+Clique <a href="https://photos.app.goo.gl/GnrBCUS4dcHFW3pd6">aqui</a> para fazer o download do vídeo.
 <br><br>
 </div>
