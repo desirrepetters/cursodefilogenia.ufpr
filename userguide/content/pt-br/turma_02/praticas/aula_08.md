@@ -105,6 +105,7 @@ De forma geral, estas são as edições mais importantes a se fazer para melhora
 <br>
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TgdZRSBTdpE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<br><br><br>
+<br><br>
+Clique <a href="https://photos.app.goo.gl/sKeNARSjMUdkW7Wu6">aqui</a> para fazer o download do vídeo.
 <br><br>
 </div>
