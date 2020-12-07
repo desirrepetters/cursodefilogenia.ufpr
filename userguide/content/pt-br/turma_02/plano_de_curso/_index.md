@@ -66,11 +66,11 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 13 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_06">Análises filogenéticas de máxima verossimilhança e inferência bayesiana em alinhamentos concatenados e visualização e pré-edição de árvores filogenéticas</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_06">Aula prática com análises filogenéticas de máxima verossimilhança e inferência bayesiana em alinhamentos concatenados</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 14 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_07">Visualização e pré-edição de árvores filogenéticas</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_07">Aula prática com visualização e pré-edição de árvores filogenéticas</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 15 (Síncrona)</td>
   <td style="vertical-align:middle;">09/12/2020 <br>(13:30 - 17:30)</td>
