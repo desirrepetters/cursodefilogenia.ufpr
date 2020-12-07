@@ -126,17 +126,12 @@ Na pasta de resultados, procure pela pasta “<i>analysis</i>” e dentro dela, 
 <br><br>
 </div>
 
-## Aula gravada (16/11/2020)
+## Aula em vídeo
 
 <br>
 <div align="center">
-<h2>Parte 01 - Em breve!</h2>
-<br>
-<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YF2itEHw9YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br>
-
-<h2>Parte 02 - Em breve!</h2>
-<br>
-<br><br><br>
+Clique <a href="https://photos.app.goo.gl/Gf9ZbidBToiL7kzQ9">aqui</a> para fazer o download do vídeo.
 <br><br>
 </div>
