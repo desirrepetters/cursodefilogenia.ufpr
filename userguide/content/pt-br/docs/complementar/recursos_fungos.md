@@ -23,6 +23,7 @@ IMA Fungus 2, 105-112. DOI: 10.5598/imafungus.2011.02.01.14
 
 <div align="justify">
 Outras referências relacionadas a este tópico:
+<br><br>
 Wingfield et al. 2011. One fungus, one name promotes progressive plant pathology. <b>Molecular Plant Pathology</b> 13, 604-13. DOI: <a href"https://doi.org/10.1111/J.1364-3703.2011.00768.X">10.1111/J.1364-3703.2011.00768.X</a>. <b><a href="https://www.researchgate.net/profile/Lorenzo_Lombard/publication/51856897_One_fungus_one_name_promotes_progressive_plant_pathology/links/5ac6185aa6fdcc051dafeafd/One-fungus-one-name-promotes-progressive-plant-pathology.pdf">[PDF]</a></b>
 <br><br>
 </div>
