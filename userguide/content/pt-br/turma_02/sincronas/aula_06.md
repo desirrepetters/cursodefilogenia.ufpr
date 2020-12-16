@@ -14,7 +14,7 @@ description: >
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/578KRns0kYM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/QAVPnNMaPtsZYt2e6">aqui</a> para fazer o download do vídeo.
+Clique <a href="https://photos.app.goo.gl/xKLqXu8GdTPQay8VA">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 </div>
