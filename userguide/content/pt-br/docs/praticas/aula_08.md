@@ -8,11 +8,11 @@ description: >
 <div align="justify">
 Na atividade anterior pudemos perceber que o uso do FigTree é importante e necessário para incluir os valores de suporte na árvore e também pode auxiliar a realizar uma pré-edição e customização simples da imagem. Essa customização nos permite produzir imagens simples e razoáveis para interpretação e discussão de uma árvore, e podem atender bem às necessidades durante o período em que uma análise está sendo refinada e diversas árvores parciais são construídas. Entretanto, as limitações do FigTree não nos permitem produzir uma imagem final que atenda às exigências das publicações e apresentações científicas. Nessa atividade, vamos terminar a edição das árvores filogenéticas e preparar imagens com qualidade suficiente para compor uma publicação. 
 <br><br>
-Para este tutorial, utilizaremos o Inkscape. Se você ainda não tem o Inkscape instalado, pode encontrar instruções<a href="https://cursodefilogeniaufpr/docs/download/inkscape">aqui</a>.
+Para este tutorial, utilizaremos o Inkscape. Se você ainda não tem o Inkscape instalado, pode encontrar instruções <a href="https://cursodefilogeniaufpr/docs/download/inkscape">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/aula_08.zip">Link para pasta com todos os arquivos (formato zip) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/aula_08.zip">Link para pasta com todos os arquivos (formato zip)</a></li>
 <br>
 Para baixar os arquivos individualmente:
 <br><br>
@@ -21,8 +21,10 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EF_MrBayes.svg">Arquivo SVG da árvore da região de EF feita no MrBayes (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_IQTREE.svg">Arquivo SVG da árvore do alinhamento concatenado feita no IQ-TREE (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_MrBayes.svg">Arquivo SVG da árvore do alinhamento concatenado feita no MrBayes (formato SVG)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EF_Inkscape">Arquivo final da árvore da região EF editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato PNG) (em breve!)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EF_Inkscape.png">Arquivo final da árvore da região EF editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato PNG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EF_Inkscape.svg">Arquivo final da árvore da região EF editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_Inkscape.png">Arquivo final da árvore do alinhamento concatenado editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato PNG)</a></li>
+https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_Inkscape.svg">Arquivo final da árvore do alinhamento concatenado editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato SVG)</a></li>
 </ul>
 </div>
 
