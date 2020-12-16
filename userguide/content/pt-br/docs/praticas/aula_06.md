@@ -191,7 +191,7 @@ Por fim, clique em “<i>Save and Run Task</i>” para prosseguir. O CIPRES nova
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_15.png" alt="Opções Save and Run Task para iniciar a análise no MrBayes no CIPRES" align="center">
 </center>
 <br><br>
-Após confirmar, seremos redirecionados para a página da lista de tarefas dentro da pasta. Podemos atualizar a página clicando em “<i>Refresh Tasks<i/>”. O campo “<i>Current CPU Hr Usage</i>” apresenta um cálculo provisório de horas computacionais que serão utilizadas caso a análise dure as 168 solicitadas nos vários processadores utilizados. Ao final da análise este valor será atualizado para o valor real (e provavelmente será bem inferior que 4032). 
+Após confirmar, seremos redirecionados para a página da lista de tarefas dentro da pasta. Podemos atualizar a página clicando em “<i>Refresh Tasks</i>”. O campo “<i>Current CPU Hr Usage</i>” apresenta um cálculo provisório de horas computacionais que serão utilizadas caso a análise dure as 168 solicitadas nos vários processadores utilizados. Ao final da análise este valor será atualizado para o valor real (e provavelmente será bem inferior que 4032). 
 <br><br>
 Em “<i>Running Tasks</i>” podemos acompanhar quantas análises simultâneas estão em andamento (é possível rodar várias análises distintas ao mesmo tempo). Quando a caixa “<i>View Status</i>” mudar para “<i>View Output</i>”, a análise estará concluída. Além de acompanhar o progresso nessa página, o CIPRES enviará um aviso por e-mail quando a análise for terminada:
 <br><br>
