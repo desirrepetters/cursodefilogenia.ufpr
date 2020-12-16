@@ -24,7 +24,7 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EF_Inkscape.png">Arquivo final da árvore da região EF editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato PNG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EF_Inkscape.svg">Arquivo final da árvore da região EF editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato SVG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_Inkscape.png">Arquivo final da árvore do alinhamento concatenado editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato PNG)</a></li>
-https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_Inkscape.svg">Arquivo final da árvore do alinhamento concatenado editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato SVG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_08/Aula_08_Arvore_EFTUB_Inkscape.svg">Arquivo final da árvore do alinhamento concatenado editada no Inkscape, unindo as árvores de Máxima Verossimilhança e Inferência Bayesiana (formato SVG)</a></li>
 </ul>
 </div>
 
