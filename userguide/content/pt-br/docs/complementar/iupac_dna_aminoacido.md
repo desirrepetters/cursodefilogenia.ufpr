@@ -148,7 +148,7 @@ A notação IUPAC para ácidos nucleicos utiliza os caracteres G, C, A, e T do a
   </tr>
     <tr>
     <td>Qualquer base ("A<i>n</i>y")</td>
-    <td>B</td>
+    <td>N</td>
 	<td rowspan="1" style="vertical-align:middle;">4</td>
 	<td>✓</td>
 	<td>✓</td>
