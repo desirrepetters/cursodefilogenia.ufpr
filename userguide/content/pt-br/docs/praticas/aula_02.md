@@ -38,7 +38,7 @@ Especialmente tratando de microrganismos, é muito comum que ao observar caracte
 <br><br>
 O BLAST (<i>Basic Local Alignment Search Tool</i>) encontra regiões de similaridade entre sequências biológicas (como sequências de nucleotídeos ou proteínas). Ele pode ser utilizado de forma local e até para realizar alinhamentos entre um par de sequências, mas no nosso caso utilizaremos para buscar sequências semelhantes à nossa sequência consenso no banco de dados do NCBI (falaremos mais sobre ele depois) e tentar descobrir à que gênero o indivíduo da sequência consenso pertence, e assim, definir quais sequências de referência precisamos buscar nos bancos de dados. 
 <br><br>
-A primeira etapa é acessar diretamente a página do <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">BLAST</a> e escolher a opção “<a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome">Nucleotide BLAST</a>”, em que compararemos uma sequência de nucleotídeos contra um banco de dados de nucleotídeos:
+A primeira etapa é acessar diretamente a página do <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">BLAST</a> e escolher a opção “<a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome"><i>Nucleotide BLAST</i></a>”, em que compararemos uma sequência de nucleotídeos contra um banco de dados de nucleotídeos:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_1.png" alt="Página Inicial do BLAST apresentando as diferentes ferramentas: Nucleotide BLAST, tblastx, tblastn, Protein BLAST" align="center">
@@ -74,22 +74,22 @@ Na parte superior esquerda, são sumarizadas algumas informações sobre a busca
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_5.png" alt="Campo superior esquerdo dos resultados de blastn" align="center">
 </center>
 <br><br>
-Para nós, as informações mais relevantes estão presentes na seção seguinte: “Sequences producing significant alignments”, em que são listadas as sequências mais similares à sequência consenso que foram encontradas pelo BLASTn. Ao lado da lista de sequências, há algumas colunas com informações adicionais. Vamos discorrer brevemente sobre seu significado.
+Para nós, as informações mais relevantes estão presentes na seção seguinte: “<i>Sequences producing significant alignments</i>”, em que são listadas as sequências mais similares à sequência consenso que foram encontradas pelo BLASTn. Ao lado da lista de sequências, há algumas colunas com informações adicionais. Vamos discorrer brevemente sobre seu significado.
 <br><br>
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_6.png" alt="Campo ~Sequences producing significant alignments~ na página de resultados de blastn, com diversas sequências de Fusarium" align="center">
 </center>
 <br><br>
-Dentre as colunas descritivas, podemos ver duas colunas que se referem ao “score”. Este score depende do tamanho do alinhamento, do número de matches, mismatches, gaps e da matriz de comparação de sequências utilizada e é normalizado através de variáveis estatísticas. 
+Dentre as colunas descritivas, podemos ver duas colunas que se referem ao “<i>score</i>”. Este score depende do tamanho do alinhamento, do número de matches, mismatches, gaps e da matriz de comparação de sequências utilizada e é normalizado através de variáveis estatísticas. 
 <br><br>
 Como vimos na aula teórica, ao alinhar duas sequências há vários alinhamentos possíveis, dependendo da combinação de gaps, matches e mismatches existentes. Além disso, diferentes matrizes de substituição ou penalidades de gaps podem gerar diferentes scores. Resumidamente, o score se refere à qualidade geral daquele alinhamento entre as duas sequências, mas não deve ser interpretado no sentido de que a sequência analisada é mais similar às sequências de maior score.
 <br><br>
-“Query coverage” se refere à porcentagem da sequência que foi utilizada na busca está presente em cada um dos alinhamentos. Em muitos casos, a sequência que estamos analisando pode ser mais longa ou mais curta que as sequências dos bancos de dados, de modo que parte dela pode ficar de fora do alinhamento e reduzir a porcentagem de cobertura. 
+“<i>Query coverage</i>” se refere à porcentagem da sequência que foi utilizada na busca está presente em cada um dos alinhamentos. Em muitos casos, a sequência que estamos analisando pode ser mais longa ou mais curta que as sequências dos bancos de dados, de modo que parte dela pode ficar de fora do alinhamento e reduzir a porcentagem de cobertura. 
 <br><br>
 Já o E-value nos dá uma noção estatística sobre a qualidade do alinhamento entre as sequências: ele representa a quantidade de alinhamentos como scores iguais ou maiores ao score apresentado espera-se que ocorram ao acaso em uma base de dados de mesmo tamanho que a base de dados utilizada. Se o E-value é baixo, significa que é altamente improvável que um alinhamento de score igual aconteça ao acaso, sugerindo que de fato as sequências são similares. Já se o E-value é muito alto, significa que provavelmente as sequências não são similares, já que um alinhamento de mesmo score é altamente provável, e, portanto, pode ter acontecido por mera coincidência (e não tem real significado biológico). 
 <br><br>
-A coluna “Percentage of identity (Per. Ident)” se refere à porcentagem de similaridade entre as duas sequências alinhadas, exclusivamente para as regiões alinhadas (representadas na porcentagem de “Query coverage”. Isso significa que é possível que sequências diferentes apresentem a mesma porcentagem de cobertura, mas porcentagens de identidade diferente (uma é mais semelhante à sequência analisada do que a outra), ou uma sequência apresentam menor porcentagem de cobertura, mas porcentagem de identidade maior (provavelmente um pedaço da sequência ficou de fora do alinhamento pela diferença entre o comprimento da sequência analisada e a sequência no banco de dados, mas a porção que foi incluída no alinhamento tem maior similaridade do que a outra que apresenta maior porcentagem de cobertura).
+A coluna “<i>Percentage of identity (Per. Ident)</i>” se refere à porcentagem de similaridade entre as duas sequências alinhadas, exclusivamente para as regiões alinhadas (representadas na porcentagem de “<i>Query coverage</i>”. Isso significa que é possível que sequências diferentes apresentem a mesma porcentagem de cobertura, mas porcentagens de identidade diferente (uma é mais semelhante à sequência analisada do que a outra), ou uma sequência apresentam menor porcentagem de cobertura, mas porcentagem de identidade maior (provavelmente um pedaço da sequência ficou de fora do alinhamento pela diferença entre o comprimento da sequência analisada e a sequência no banco de dados, mas a porção que foi incluída no alinhamento tem maior similaridade do que a outra que apresenta maior porcentagem de cobertura).
 <br><br>
 E, por fim, a coluna Accession se refere ao código de acesso com que cada uma das sequências foi registrada ao ser depositada na base de dados, e que pode ser utilizado para buscar diretamente cada uma das sequências, bem como obter informações mais detalhadas sobre elas (tais como dados do indivíduo sequenciado, autores que realizaram o depósito da sequência, entre outras).
 <br><br>
@@ -110,7 +110,7 @@ O NCBI GenBank é a base de dados do National Center for Biotechnology Informati
 <br><br>
 Apesar da grande variedade de dados disponíveis no GenBank, no contexto do curso nosso foco será nas páginas e ferramentas destinadas à obtenção de sequências de DNA.
 <br><br>
-No topo página inicial do GenBank existe uma ferramenta de busca para encontrarmos os dados de interesse. Ao clicar na caixa de seleção suspensa, são listadas várias opções. Para sequências de DNA, escolheremos “Nucleotide”. Em seguida, digitamos os termos de interesse no campo em branco e clicamos em Search para pesquisar. Podemos procurar pelo nome dos organismos de interesse, por nomes de genes, ou também realizar combinações de palavras como nome do organismo e interesse e nomes de genes: 
+No topo página inicial do GenBank existe uma ferramenta de busca para encontrarmos os dados de interesse. Ao clicar na caixa de seleção suspensa, são listadas várias opções. Para sequências de DNA, escolheremos “<i>Nucleotide</i>”. Em seguida, digitamos os termos de interesse no campo em branco e clicamos em Search para pesquisar. Podemos procurar pelo nome dos organismos de interesse, por nomes de genes, ou também realizar combinações de palavras como nome do organismo e interesse e nomes de genes: 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_7.png" alt="Campo superior de buscas no NCBI GenBank com a opção ~Nucleotide~ selecionada e ~fusarium tef1~ como termo de busca" align="center">
@@ -122,9 +122,9 @@ Na próxima página podemos ver o número de resultados da nossa busca (neste ca
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_8.png" alt="Resultado da busca pelo termo ~fusarium tef1~no NCBI GenBank, com 7070 resultados no total e 354 páginas de resultados." align="center">
 </center>
 <br><br>
-Ao abrir o primeiro resultado, é possível descobrir qual é o código de acesso com o qual a sequência foi registrada (neste caso, MG183712.1), avaliar seu tamanho (714 bp), data em que foi depositada (15 de abril de 2018), qual a identificação segundo o depositante, quem são os autores e se a sequência faz parte de algum trabalho publicado ou não. Neste caso, a sequência consta como “Não publicada”.
+Ao abrir o primeiro resultado, é possível descobrir qual é o código de acesso com o qual a sequência foi registrada (neste caso, <b>MG183712.1</b>), avaliar seu tamanho (714 bp), data em que foi depositada (15 de abril de 2018), qual a identificação segundo o depositante, quem são os autores e se a sequência faz parte de algum trabalho publicado ou não. Neste caso, a sequência consta como “Não publicada”.
 <br><br>
-Para baixar a sequência há duas possibilidades. A primeira consiste em clicar em “Send to” na parte superior direita, selecionar “Complete record”, “File”, formato “FASTA” e “Create file” para fazer download da sequência no formato FASTA. 
+Para baixar a sequência há duas possibilidades. A primeira consiste em clicar em “<i>Send to</i>” na parte superior direita, selecionar “<i>Complete record</i>”, “<i>File</i>”, formato “<i>FASTA</i>” e “<i>Create file</i>” para fazer download da sequência no formato FASTA. 
 <br><br>
 <br><br>
 <center>
@@ -137,9 +137,9 @@ A segunda possibilidade é clicar em FASTA logo abaixo do código GenBank da seq
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_10.png" alt="Página da sequência de código MG183712.1 de Fusarium solani, em formato FASTA" align="center">
 </center>
 <br><br>
-Para organizar as sequências, seja baixando os arquivos ou copiando cada uma, nossa sugestão é criar um documento no Notepad ++, e editar os cabeçalhos para remover informações extras, caracteres especiais e espaços. Uma boa abordagem é manter os cabeçalhos das sequências sempre como “>[Gênero]_[epíteto específico]_[código do isolado]”, para facilitar a compatibilidade entre diferentes softwares. No caso do exemplo, editaríamos a sequência de “>MG183712.1 Fusarium solani strain FJAT-31354 TEF1 (TEF1) gene, partial cds” para “>Fusarium_solani_FJAT_31354”. É importante sempre usar underlines ao invés de espaços. 
+Para organizar as sequências, seja baixando os arquivos ou copiando cada uma, nossa sugestão é criar um documento no Notepad ++, e editar os cabeçalhos para remover informações extras, caracteres especiais e espaços. Uma boa abordagem é manter os cabeçalhos das sequências sempre como “>[Gênero]_[epíteto específico]_[código do isolado]”, para facilitar a compatibilidade entre diferentes softwares. No caso do exemplo, editaríamos a sequência de <b>“>MG183712.1 Fusarium solani strain FJAT-31354 TEF1 (TEF1) gene, partial cds”</b> para <b>“>Fusarium_solani_FJAT_31354”</b>. É importante sempre usar underlines ao invés de espaços. 
 <br><br>
-Como você já deve ter percebido pela quantidade de resultados que aparecem na busca, pelo status de “Unpublished” de muitas sequências, e pelo fato da identificação da sequência ser dependente do depositante (e sem curadoria posterior), muitas vezes buscar diretamente pelos genes ou nome dos organismos não é a estratégia mais fácil para filtrar e selecionar as sequências adequadas a serem incluídas na análise filogenética. 
+Como você já deve ter percebido pela quantidade de resultados que aparecem na busca, pelo status de “<i>Unpublished</i>” de muitas sequências, e pelo fato da identificação da sequência ser dependente do depositante (e sem curadoria posterior), muitas vezes buscar diretamente pelos genes ou nome dos organismos não é a estratégia mais fácil para filtrar e selecionar as sequências adequadas a serem incluídas na análise filogenética. 
 <br><br>
 Em geral, uma abordagem mais acertada é buscar por artigos ou outros bancos de dados que informem quais são as espécies aceitas, quais são as linhagens-tipo e os respectivos códigos GenBank para suas sequências, e aí utilizando estes códigos, fazer a busca e baixar as sequências conforme demonstramos anteriormente. 
 <br><br>
@@ -180,13 +180,13 @@ Usando o <a href="https://mafft.cbrc.jp/alignment/server/">MAFFT online</a>, no 
 <br><br>
 Em seguida, podemos configurar algumas opções referente ao arquivo de saída. Para evitar problemas de sequências em orientações opostas no meio do alinhamento, podemos selecionar a opção “<i>Adjust direction according to the first sequence</i>”, em que a orientação das sequências será ajustada para seguir a mesma orientação da primeira sequência do alinhamento. Também é possível pedir que o MAFFT ordene as sequências no arquivo de saída de acordo com a sua similaridade com a opção “<i>Aligned</i>” dentro de “<i>Output order</i>”. Ao selecionar essa opção, as sequências mais similares estarão mais próximas no arquivo final, o que é bastante conveniente para a inspeção visual do alinhamento.
 <br><br>
-Também é possível dar um nome à tarefa em “Job name” e inserir seu e-mail para ser notificado quando o alinhamento ficar pronto, visto que o procedimento pode ser demorado para arquivos muito grandes com muitas sequências longas.
+Também é possível dar um nome à tarefa em “<i>Job name</i>” e inserir seu e-mail para ser notificado quando o alinhamento ficar pronto, visto que o procedimento pode ser demorado para arquivos muito grandes com muitas sequências longas.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_13.png" alt="Opções para o alinhamento com o MAFFT online" align="center">
 </center>
 <br><br>
-O MAFFT também fornece algumas opções avançadas para otimização dos alinhamentos em caso de muitas sequências ou regiões problemáticas, e também a possibilidade de utilizar diferentes matrizes de substituição e alterar a penalidade de gaps. Para este exemplo, utilizaremos as opções já definidas por padrão e clicaremos em “Submit”.
+O MAFFT também fornece algumas opções avançadas para otimização dos alinhamentos em caso de muitas sequências ou regiões problemáticas, e também a possibilidade de utilizar diferentes matrizes de substituição e alterar a penalidade de gaps. Para este exemplo, utilizaremos as opções já definidas por padrão e clicaremos em “<i>Submit</i>”.
 <br><br>
 Ao finalizar o alinhamento, o MAFFT redireciona para uma página de resultados. É possível avaliar se havia sequências em orientação reversa no arquivo original na opção “<i>Open all plots</i>”. Se houverem somente linhas vermelhas nos gráficos, todas as sequências estavam em orientação direta (quando comparadas à primeira sequência do alinhamento). Se houver alguma linha azul, esta sequência estava em orientação reversa quando comparada à primeira sequência do alinhamento. Para baixar o alinhamento em formato FASTA, basta clicar em “<i>Fasta format</i>” no menu superior. Neste caso, salvaremos o alinhamento como “<b>Aula_02_Alinhamento_MAFFT.fasta</b>”.
 <br><br>
@@ -211,13 +211,13 @@ Em seguida, clique na opção “MAFFT” dentro do menu “Alignment:
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_16.png" alt="Opção MAFFT dentro do menu Alignment do PhyloSuite" align="center">
 </center>
 <br><br>
-Na janela de opções, escolha o arquivo com todas as sequências, modo de alinhamento “Normal”, estratégia “1. –auto” e Export Format “3. FASTA Format / Sorted” para exportar o arquivo final para o formato FASTA com as sequências ordenadas por similaridade. Em “<i>Additional parameters</i>” geralmente a opção “--adjustdirection” para ajustar a orientação das sequências para a mesma da primeira sequência já está selecionada, mas se não estiver, deve ser selecionada. As outras opções não precisam ser selecionadas. Em seguida, aperte em “Start” e acompanhe o processo por meio da barra de progresso:
+Na janela de opções, escolha o arquivo com todas as sequências, modo de alinhamento “<i>Normal</i>”, estratégia “<i>1. –auto</i>” e Export Format “<i>3. FASTA Format / Sorted</i>” para exportar o arquivo final para o formato FASTA com as sequências ordenadas por similaridade. Em “<i>Additional parameters</i>” geralmente a opção “--adjustdirection” para ajustar a orientação das sequências para a mesma da primeira sequência já está selecionada, mas se não estiver, deve ser selecionada. As outras opções não precisam ser selecionadas. Em seguida, aperte em “<i>Start</i>” e acompanhe o processo por meio da barra de progresso:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_17.png" alt="Janela de configurações do MAFFT dentro do PhyloSuite" align="center">
 </center>
 <br><br>
-Em alguns casos o programa pode retornar uma janela de erro, mas apesar disso, o alinhamento foi concluído. Para encontrar o arquivo de saída, basta acessar a pasta “GenBank file”, em seguida “files”, “mafft_results” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta estará o arquivo FASTA alinhado pelo MAFFT e um arquivo log da tarefa.
+Em alguns casos o programa pode retornar uma janela de erro, mas apesar disso, o alinhamento foi concluído. Para encontrar o arquivo de saída, basta acessar a pasta “<i>GenBank file</i>”, em seguida “<i>files</i>”, “<i>mafft_results</i>” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta estará o arquivo FASTA alinhado pelo MAFFT e um arquivo log da tarefa.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_18.png" alt="Possível bug inofensivo ao utilizar o MAFFT no PhyloSuite" align="center">
@@ -228,7 +228,7 @@ Em alguns casos o programa pode retornar uma janela de erro, mas apesar disso, o
 ## Inspeção visual e edição do alinhamento no MEGA
 
 <div align="justify">
-Para inspeção visual e edição, abriremos o alinhamento no software MEGA 7 ou MEGA X. Para abrir o alinhamento seleciona a opção “Edit/Build Aligment” dentro do menu “Align”. Escolha a opção “<i>Retrieve sequences from a file</i>", clique em OK e escolha o arquivo do alinhamento no seu computador (seja o produzido pelo MAFFT online ou pelo plugin do MAFFT no PhyloSuite) para abrir:
+Para inspeção visual e edição, abriremos o alinhamento no software MEGA 7 ou MEGA X. Para abrir o alinhamento seleciona a opção “<i>Edit/Build Aligment</i>” dentro do menu “<i>Align</i>”. Escolha a opção “<i>Retrieve sequences from a file</i>", clique em OK e escolha o arquivo do alinhamento no seu computador (seja o produzido pelo MAFFT online ou pelo plugin do MAFFT no PhyloSuite) para abrir:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_19.png" alt="Instruções para abrir um arquivo de alinhamento no MEGA" align="center">
@@ -244,7 +244,7 @@ Para a inspeção visual e edição ao longo de um alinhamento, observe principa
 <br><br>
 <b>Há um excesso de transversões?</b> Em geral, transições são mais prováveis e frequentes, de modo que isso deve se refletir no alinhamento. Se ao longo de um alinhamento você encontrar um excesso de transversões, avalie estas regiões com mais cuidado para ver se não seria possível incluir alguns gaps ou deslocar algumas bases para que se alinhem à outras.
 <br><br>
-<b>Há bases que estão deslocadas, e uma região próxima à qual claramente elas deveriam estar alinhadas?</b> Nesse caso, desloque as bases e corrija o alinhamento. No exemplo a seguir, o gap existente nas sequências 15 a 20 provavelmente não existe, visto que nas sequências logo abaixo ou logo acima a região deslocada existe. Nesse caso, selecione as bases deslocadas e mova para a posição correta com a opção “Move selected block left” do menu superior:
+<b>Há bases que estão deslocadas, e uma região próxima à qual claramente elas deveriam estar alinhadas?</b> Nesse caso, desloque as bases e corrija o alinhamento. No exemplo a seguir, o gap existente nas sequências 15 a 20 provavelmente não existe, visto que nas sequências logo abaixo ou logo acima a região deslocada existe. Nesse caso, selecione as bases deslocadas e mova para a posição correta com a opção “<i>Move selected block left</i>” do menu superior:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_21.png" alt="Opção ~Move selected block left~ no MEGA 7" align="center">
@@ -256,7 +256,7 @@ Para a inspeção visual e edição ao longo de um alinhamento, observe principa
 <br><br>
 No contexto deste tutorial não iremos discutir exaustivamente todos os pontos do alinhamento que poderiam ou não ser editados. A edição dos alinhamentos exigirá um pouco de prática e tempo, e à medida que você trabalhar com frequência com as mesmas sequências, e olhar com atenção o alinhamento, este processo se tornará cada vez mais fácil e você terá mais confiança nas edições. Lembre-se: sempre é possível desfazer as mudanças (Ctrl + Z), ou exportar várias opções de edição, testá-las em sua análise filogenética e perceber as mudanças, ou mesmo não fazer nenhuma edição enquanto não sentir confiança o suficiente para isso.
 <br><br>
-Após inspecionar e estar satisfeito com sua edição, exporte o alinhamento no formato FASTA. Dentro do menu superior “Data”, selecione a opção “FASTA format” dentro de “<i>Export alignment</i>”. Escolha a pasta do computador e o nome de sua preferência para salvar o arquivo. Na próxima atividade, faremos o teste de modelo evolutivo e produziremos nossas primeiras árvores filogenéticas.
+Após inspecionar e estar satisfeito com sua edição, exporte o alinhamento no formato FASTA. Dentro do menu superior “<i>Data</i>”, selecione a opção “<i>FASTA format</i>” dentro de “<i>Export alignment</i>”. Escolha a pasta do computador e o nome de sua preferência para salvar o arquivo. Na próxima atividade, faremos o teste de modelo evolutivo e produziremos nossas primeiras árvores filogenéticas.
 <br><br>
 </div>
 
