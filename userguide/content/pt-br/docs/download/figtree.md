@@ -1,7 +1,7 @@
 ---
 title: "Visualização e pré-edição de árvores filogenéticas: FigTree"
 linkTitle: "Visualização e pré-edição de árvores filogenéticas: FigTree"
-weight: 4
+weight: 5
 description: >
   Como instalar o software para a edição inicial das árvores filogenéticas
 ---

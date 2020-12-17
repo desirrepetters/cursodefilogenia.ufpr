@@ -1,7 +1,7 @@
 ---
 title: "Edição e preparação de árvores filogenéticas para publicação: Inkscape"
 linkTitle: "Edição e preparação de árvores filogenéticas para publicação: Inkscape"
-weight: 5
+weight: 6
 description: >
   Como instalar o software para transformar árvores simples em excelentes imagens para publicação
 ---
