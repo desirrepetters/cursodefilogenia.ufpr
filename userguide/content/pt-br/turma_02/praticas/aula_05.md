@@ -1,7 +1,7 @@
 ---
 title: "Aula 05 - Concatenação e Teste de Modelo Evolutivo em alinhamento concatenado"
 linkTitle: "Aula 05 - Concatenação e Teste de Modelo Evolutivo em alinhamento concatenado"
-weight: 1
+weight: 5
 description: >
   Softwares utilizados: ModelFinder e PartitionFinder no PhyloSuite
 ---
@@ -99,7 +99,7 @@ Na pasta de resultados, procure pelo arquivo “<b>PhyloSuite_ModelFinder</b>”
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_05/aula_05_7.png" alt="Resultado do teste de modelo evolutivo do alinhamento concatenado, visualizado no Notepad ++" align="center">
 </center>
 <br><br>
-Levando isto em consideração, percebemos que este foi o critério do PhyloSuite para informar GTR+F+I+G como o “BEST-FIT PARTITION MODEL” nas linhas 123 e 124 do exemplo. Se seguirmos com estes resultados para o IQ-TREE ou MrBayes, veremos que a opção automática do PhyloSuite irá sugerir analisar os dois alinhamentos sob o mesmo modelo evolutivo.
+Levando isto em consideração, percebemos que este foi o critério do PhyloSuite para informar GTR+F+I+G como o “<i>BEST-FIT PARTITION MODEL</i>” nas linhas 123 e 124 do exemplo. Se seguirmos com estes resultados para o IQ-TREE ou MrBayes, veremos que a opção automática do PhyloSuite irá sugerir analisar os dois alinhamentos sob o mesmo modelo evolutivo.
 <br><br>
 </div>
 
