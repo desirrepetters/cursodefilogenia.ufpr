@@ -1,7 +1,7 @@
 ---
 title: "Aula 07 - Visualização e pré-edição de árvores filogenéticas"
 linkTitle: "Aula 07 - Visualização e pré-edição de árvores filogenéticas"
-weight: 1
+weight: 7
 description: >
   Softwares utilizados: FigTree ou iTOL (online)
 ---
@@ -35,7 +35,7 @@ Para baixar os arquivos individualmente:
 ## Edição de árvores no FigTree
 
 <div align="justify">
-Ao abrir o FigTree, podemos abrir a árvore para pré-edição com a opção “Open” dentro do menu “File. Escolha o arquivo da árvore de interesse em seu computador e clique para abrir:
+Ao abrir o FigTree, podemos abrir a árvore para pré-edição com a opção “<i>Open</i>” dentro do menu “<i>File</i>". Escolha o arquivo da árvore de interesse em seu computador e clique para abrir:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_07/aula_07_1.png" alt="Opção Open dentro do menu File do FigTree" align="center">
@@ -106,7 +106,7 @@ Após abrir a árvore, é possível re-enraizar ao clicar no indivíduo que repr
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_07/aula_07_10.png" alt="Re-enraizamento da árvore no iTOL" align="center">
 </center>
 <br><br>
-Após re-enraizar a árvore, podemos fazer alguns ajustes na aparência do texto e na topologia, e incluir os valores de suporte. Na aba “Controls”, sub-aba “Basic”, podemos alterar:
+Após re-enraizar a árvore, podemos fazer alguns ajustes na aparência do texto e na topologia, e incluir os valores de suporte. Na aba “<i>Controls</i>”, sub-aba “<i>Basic</i>”, podemos alterar:
 <br><br>
 <ul>
 <li><b>Labels:</b> altera o posicionamento do nome dos indivíduos, que podem estar alinhados à direita (“<i>Aligned></i>”) ou próximos aos ramos (“<i>At tips</i>”).</li>
@@ -132,7 +132,7 @@ Por fim, para exportar a imagem para um arquivo SVG, ajuste o zoom para incluir 
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_07/aula_07_13.png" alt="Opções de ajuste de zoom no iTOL" align="center">
 </center>
 <br><br>
-Após realizar o ajuste, selecione “<i>SVG: Scalable Vector Graphics</i>” na opção “<i>Format</i>”, “<i>Export área</i>” como “<i>Screen</i>”, clique em “<i>Export</i>” e selecione a pasta de interesse para salvar o arquivo no computador:
+Após realizar o ajuste, selecione “<i>SVG: Scalable Vector Graphics</i>” na opção “<i>Format</i>”, “<i>Export area</i>” como “<i>Screen</i>”, clique em “<i>Export</i>” e selecione a pasta de interesse para salvar o arquivo no computador:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_07/aula_07_14.png" alt="Opções de exportar imagem no formato SVG dentro do iTOL" align="center">
@@ -151,3 +151,4 @@ Após realizar o ajuste, selecione “<i>SVG: Scalable Vector Graphics</i>” na
 Clique <a href="https://photos.app.goo.gl/PLPWLKSX9cM9MNKb7">aqui</a> para fazer o download do vídeo.
 <br><br>
 </div>
+
