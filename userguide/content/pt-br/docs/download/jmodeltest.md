@@ -13,9 +13,15 @@ Ao utilizar o jModelTest em suas publicações, inclua as seguintes citações:
 </div>
 
 ```
-Darriba D, Taboada GL, Doallo R, Posada D, 2012. jModelTest 2: more models, new heuristics and parallel computing. Nature Methods 9, 772. DOI: 10.1038/nmeth.2109
+Darriba D, Taboada GL, Doallo R, Posada D, 2012. 
+jModelTest 2: more models, new heuristics and parallel computing. 
+Nature Methods 9, 772. 
+DOI: 10.1038/nmeth.2109
 
-Guindon S, Gascuel O, 2003. A simple, fast and accurate method to estimate large phylogenies by maximum-likelihood". Systematic Biology 52, 696-704. DOI: 10.1080/10635150390235520
+Guindon S, Gascuel O, 2003. 
+A simple, fast and accurate method to estimate large phylogenies by maximum-likelihood. 
+Systematic Biology 52, 696-704. 
+DOI: 10.1080/10635150390235520
 ```
 
 
