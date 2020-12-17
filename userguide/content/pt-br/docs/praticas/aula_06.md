@@ -6,9 +6,9 @@ description: >
   Softwares utilizados: IQ-TREE e MrBayes no PhyloSuite e versões online do IQ-TREE e MrBayes
 ---
 <div align="justify">
-Nesta atividade, incorporaremos mais uma região genômica à nossa análise filogenética inicial realizada na Aula 04, e avaliaremos a diferença de resolução observada para alguns clados.
+Nesta atividade, incorporaremos mais uma região genômica à nossa análise filogenética inicial realizada na <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas/aula_04/">Aula 04</a>, e avaliaremos a diferença de resolução observada para alguns clados.
 <br><br>
-Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do PhyloSuite. . Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, a principal opção é o <a href="http://www.phylo.org/">CIPRES</a>, visto que no momento o NGPhylogeny.fr é limitado à análises com apenas um gene/alinhamento.
+Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, a principal opção é o <a href="http://www.phylo.org/">CIPRES</a>, visto que no momento o NGPhylogeny.fr é limitado à análises com apenas um gene/alinhamento.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
@@ -26,10 +26,10 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_IQTREE_PhyloSuite.treefile">Arquivo de saída do IQ-Tree com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFUTB_IQTREE_Online.treefile">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_PhyloSuite.tre">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_PhyloSuite.log">Arquivo log de saída do MrBayes (formato LOG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_PhyloSuite.txt">Arquivo log de saída do MrBayes (formato TXT)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arquivo_MrBayes_para_CIPRES.nex">Arquivo do PhyloSuite para configurar o MrBayes no CIPRES (formato NEX)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Arvore_EFTUB_MrBayes_Online.tre">Arquivo de saída do MrBayes online com a árvore (formato TRE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.log">Arquivo log de saída do MrBayes online (formato LOG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_06/Aula_06_Log_EFTUB_MrBayes_Online.txt">Arquivo log de saída do MrBayes online (formato TXT)</a></li>
 </ul>
 </div>
 
