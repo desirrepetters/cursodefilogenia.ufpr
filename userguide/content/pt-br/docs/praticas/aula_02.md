@@ -1,7 +1,7 @@
 ---
 title: "Aula 02 - Obtenção de Sequências no GenBank e Alinhamento Múltiplo"
 linkTitle: "Aula 02 - Obtenção de Sequências no GenBank e Alinhamento Múltiplo"
-weight: 1
+weight: 2
 description: >
   Softwares utilizados: MEGA7 ou MEGA X, Notepad ++ e PhyloSuite ou MAFFT online.
 ---
@@ -205,7 +205,7 @@ Também é possível produzir o alinhamento pelo plugin do MAFFT no PhyloSuite. 
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_15.png" alt="Janela de seleção do workplace no PhyloSuite" align="center">
 </center>
 <br><br>
-Em seguida, clique na opção “MAFFT” dentro do menu “Alignment:
+Em seguida, clique na opção “<i>MAFFT</i>” dentro do menu “<i>Alignment</i>":
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_16.png" alt="Opção MAFFT dentro do menu Alignment do PhyloSuite" align="center">
