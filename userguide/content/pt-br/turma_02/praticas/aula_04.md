@@ -1,7 +1,7 @@
 ---
 title: "Aula 04 - Análise Filogenética"
 linkTitle: "Aula 04 - Análise Filogenética"
-weight: 1
+weight: 4
 description: >
   Softwares utilizados: IQ-TREE e MrBayes no PhyloSuite e versões online do IQ-TREE e MrBayes.
 ---
@@ -22,7 +22,7 @@ Para baixar os arquivos individualmente:
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_IQTREE_PhyloSuite.treefile">Arquivo de saída do IQ-Tree com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_IQTREE_Online.treefile">Arquivo de saída do IQ-Tree online com a árvore (formato TREEFILE)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_MrBayes_PhyloSuite.tre">Arquivo de saída do MrBayes com a árvore (formato TRE)</a></li>
-<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Log_MrBayes_PhyloSuite.log">Arquivo log de saída do MrBayes (formato LOG)</a></li>
+<li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Log_MrBayes_PhyloSuite.txt">Arquivo log de saída do MrBayes (formato LOG)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Arvore_MrBayes_Online.nhx">Arquivo de saída do MrBayes online com a árvore (formato NHX)</a></li>
 <li><a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/example_files/aula_04/Aula_04_Log_MrBayes_Online.txt">Arquivo log de saída do MrBayes online (formato TXT)</a></li>
 </ul>
@@ -31,7 +31,7 @@ Para baixar os arquivos individualmente:
 ## Análise Filogenética de Máxima Verossimilhança com o IQ-TREE usando o plugin do PhyloSuite
 
 <div align="justify">
-Após abrir o PhyloSuite e definir sua pasta de trabalho, podemos iniciar a configuração da análise de máxima verossimilhança clicando na opção “IQ-TREE” dentro do menu “Phylogeny:
+Após abrir o PhyloSuite e definir sua pasta de trabalho, podemos iniciar a configuração da análise de máxima verossimilhança clicando na opção “<i>IQ-TREE</i>” dentro do menu “<i>Phylogeny</i>":
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_04/aula_04_1.png" alt="Opção do IQ-TREE no menu Phylogeny dentro do PhyloSuite" align="center">
@@ -47,7 +47,7 @@ Na janela seguinte poderemos confirmar se os parâmetros foram configurados auto
 <br><br>
 <ul>
 <li><b>Alignment file:</b> aqui deve estar listado o nome do arquivo de alinhamento que será usado pela análise</li>
-<li><b>Seq. Type:</b> podemos manter em “Auto detect”, ou especificar o tipo de sequência que estamos utilizando, que neste caso é DNA.</li>
+<li><b>Seq. Type:</b> podemos manter em “<i>Auto detect</i>”, ou especificar o tipo de sequência que estamos utilizando, que neste caso é DNA.</li>
 <li><b>Outgroup:</b> aqui devemos selecionar o(s) outgroup(s) a ser utilizado, dentre os todos os indíviduos incluídos na análise. O IQ-TREE suporta a inclusão de mais de um indivíduo como outgroup. Entre parênteses, o IQ-TREE mostra quantos indivíduos foram selecionados (no exemplo, apenas um, <i>Fusarium oxysporum</i>).</li>
 </ul>
 <br><br>
@@ -61,7 +61,7 @@ Dentro da seção “<i>Substitution Model Options</i>” o software configurar�
 Já na seção “<i>Branch Support Analysis</i>”, configuraremos parâmetros relacionados ao método de bootstrap para cálculo do suporte dos ramos:
 <br><br>
 <ul>
-<li><b>Bootstrap:</b> o IQ-TREE fornece uma “aproximação ultra-rápida de bootstrap” (<i>ultrafast bootstrap approximation, UFBoot</i>) para reduzir o tempo total de análise e as altas necessidades computacionais que existem no método tradicional de bootstrap não-paramétrico. É possível selecionar essa opção em “<i>Ultrafast</i>”. Caso deseje utilizar o bootstrap não-paramétrico, selecione “<i>Standard</i>”. Entretanto, optar por esta modalidade fará com que a análise seja extremamente mais demorada..</li>
+<li><b>Bootstrap:</b> o IQ-TREE fornece uma “aproximação ultra-rápida de bootstrap” (<i>ultrafast bootstrap approximation, UFBoot</i>) para reduzir o tempo total de análise e as altas necessidades computacionais que existem no método tradicional de bootstrap não-paramétrico. É possível selecionar essa opção em “<i>Ultrafast</i>”. Caso deseje utilizar o bootstrap não-paramétrico, selecione “<i>Standard</i>”. Entretanto, optar por esta modalidade fará com que a análise seja extremamente mais demorada.</li>
 <li><b>Num of bootstrap: </b> neste campo, informe quantas repetições de bootstrap devem ser realizadas. Sugere-se um mínimo de 1000, e neste exemplo usaremos 5000.</li>
 <li><b>Max. iter: </b> Número máximo de iterações a serem realizadas no método de bootstrap ultra-rápido. O padrão é 1000.</li>
 <li><b>Minimum cor. coefic.: </b> Valor mínimo para o coeficiente de correlação que indicará a convergência das análises de bootstrap ultrarápido. O padrão é 0.99.</li>
@@ -73,7 +73,7 @@ Ao usar o bootstrap ultrarápido, também recomenda-se realizar o teste de SH-aL
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_04/aula_04_3.png" alt="Janela de Configurações do IQ-TREE no PhyloSuite" align="center">
 </center>
 <br><br>
-Em alguns casos o programa pode retornar a mesma janela de erro que vimos ao produzir alinhamentos com o MAFFT e ao testar o modelo evolutivo com o ModelFinder, mas apesar disso, a análise filogenética de Máxima Verossimilhança foi concluída. Para encontrar o arquivo de saída, basta acessar a pasta “<i>GenBank file</i>”, em seguida “<i>files</i>”, “<i>IQTree_results</i>” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta teremos diversos arquivos, e árvore final com valores de suporte do UFBoot e do SH-aLRT estão no arquivo com extensão “.treefile”. No nosso exemplo, será o arquivo “<b>Aula_03_Alinhamento_Corrigido.treefile</b>”. Iremos avaliar, interpretar e editar este arquivo da árvore no tutorial seguinte com o FigTree.
+Em alguns casos o programa pode retornar a mesma janela de erro que vimos ao produzir alinhamentos com o MAFFT e ao testar o modelo evolutivo com o ModelFinder, mas apesar disso, a análise filogenética de Máxima Verossimilhança foi concluída. Para encontrar o arquivo de saída, basta acessar a pasta “<i>GenBank file</i>”, em seguida “<i>files</i>”, “<i>IQTree_results</i>” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta teremos diversos arquivos, e árvore final com valores de suporte do UFBoot e do SH-aLRT estão no arquivo com extensão “.treefile”. No nosso exemplo, será o arquivo “<b>Aula_03_Alinhamento_Corrigido.treefile</b>”. Iremos avaliar, interpretar e editar este arquivo da árvore em um tutorial futuro com o FigTree.
 <br><br>
 </div>
 
@@ -100,7 +100,7 @@ No bloco “<i>Branch Support Analysis</i>” também podemos escolher entre boo
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_04/aula_04_6.png" alt="Campo Branch Support Analysis no servidor online do IQ-TREE" align="center">
 </center>
 <br><br>
-O restante das opções pode ser mantido com as configurações padrão. Podemos adicionar nosso e-mail para recebermos uma notificação quando a análise for concluída e iniciar a análise em “Submit Job”:
+O restante das opções pode ser mantido com as configurações padrão. Podemos adicionar nosso e-mail para recebermos uma notificação quando a análise for concluída e iniciar a análise em “<i>Submit Job</i>”:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_04/aula_04_7.png" alt="Inclusão de e-mail e opção Submit Job no servidor online do IQ-TREE" align="center">
@@ -155,7 +155,7 @@ Já na seção “<i>MCMC Settings</i>”, configuraremos parâmetros relacionad
 <li><b>Number of runs:</b> Quantas análises serão realizadas simultaneamente e comparadas para definir se a convergência foi atingida. Aqui usaremos 2, mas pode ser utilizado um valor maior.</li>
 <li><b>Number of chains:</b> quantidade de cadeias de Markov independentes que serão testadas ao longo das gerações. Se o valor for 1, não serão utilizadas cadeias aquecidas (análise MCMC). Se for utilizado um valor maior que 1, o método MCMCMC será implementado, com cadeias aquecidas. Dentre o número total de cadeias (n), “n-1” serão cadeias quentes e 1 será fria. A cadeia fria é a “prioritária”, mas ao longo das gerações há troca de informações entre as cadeias para que a análise não estacione em uma topologia ótima local que não seja a topologia ótima global. Em geral, alinhamentos com 50 sequências ou mais tendem a necessitar do uso de cadeias aquecidas para serem resolvidos. Aqui usaremos 4 cadeias (3 quentes e 1 fria), mas alinhamentos mais complexos podem se beneficiar do uso de mais cadeias (6 ou 8 cadeias por exemplo). Entretanto, quanto maior o número de cadeias, mais demorada a análise.</li>
 <li><b>Contype:</b> este parâmetro especifica o tipo de árvore consenso que será produzida. contype especifica o tipo de árvore consenso. "<i>Halfcompat</i>" resulta numa árvore em que só serão mostrados grupos/clados que apresentem mais que 0.5 de suporte em probabilidade posterior. Quando o suporte é inferior, são mostradas politomias. "<i>Allcompat</i>" mostrará todos os grupos, independentemente do valor de probabilidade posterior, causando problemas de interpretação ao exibir grupos com valor de suporte muito baixo. Utilizaremos “<i>Halfcompat</i>”</li>
-<li><b>Conformat:</b> especifica o formato do arquivo da árvore, que será lido por outros softwares como o FigTree. "<i>Simple</i>" resulta numa árvore que pode ser lida por diversos programas diferentes. "<i>FigTree</i>" resulta numa árvore formatada para o FigTree. Utilizaremos “Simple” para maximizar a compatibilidade entre diferentes programas.</li>
+<li><b>Conformat:</b> especifica o formato do arquivo da árvore, que será lido por outros softwares como o FigTree. "<i>Simple</i>" resulta numa árvore que pode ser lida por diversos programas diferentes. "<i>FigTree</i>" resulta numa árvore formatada para o FigTree. Utilizaremos “<i>Simple</i>” para maximizar a compatibilidade entre diferentes programas.</li>
 <li><b>Burnin Fraction ou Burnin:</b> especifica quantas árvores iniciais serao descartadas para gerar a arvore consenso. No início da análise as cadeias tendem a divergir rapidamente, de modo que as primeiras árvores amostradas tendem a ser de péssima qualidade e com topologias distintas em relação às topologias observadas na fase estacionária, gerando ruídos no resultado final. Em geral 25 por cento do total de árvores amostradas como Burnin é um valor adequado adequado (0.25, especificado como valor relativo para o “<i>Burnin Fraction</i>”, mas também pode ser especificado como valor absoluto no campo “<i>Burnin</i>”). Há softwares (como o Tracer) que podem estimar valores de burnin mais específicos, se necessário.</li>
 </ul>
 <br><br>
@@ -163,13 +163,13 @@ Já na seção “<i>MCMC Settings</i>”, configuraremos parâmetros relacionad
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_04/aula_04_11.png" alt="Janela de configuração das opções do MrBayes no PhyloSuite" align="center">
 </center>
 <br><br>
-Por fim, clique em “Start” para iniciar a análise e acompanhe o processo pela barra de progresso. Diferentemente da análise de máxima verossimilhança, podemos verificar se as cadeias das duas análises (parâmetro “Number of runs”) atingiram convergência de acordo com o valor de “Average standard deviation of split frequencies”. Se o valor for igual ou inferior a 0.01, a convergência foi atingida e a análise não precisa ser continuada, mesmo que o número total de gerações ainda não tenha sido atingido: 
+Por fim, clique em “<i>Start</i>” para iniciar a análise e acompanhe o processo pela barra de progresso. Diferentemente da análise de máxima verossimilhança, podemos verificar se as cadeias das duas análises (parâmetro “<i>Number of runs</i>”) atingiram convergência de acordo com o valor de “<i>Average standard deviation of split frequencies</i>”. Se o valor for igual ou inferior a 0.01, a convergência foi atingida e a análise não precisa ser continuada, mesmo que o número total de gerações ainda não tenha sido atingido: 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_04/aula_04_12.png" alt="Valor de Average standard deviation of split frequencies inferior a 0.01" align="center">
 </center>
 <br><br>
-Em alguns casos o programa pode retornar a mesma janela de erro que vimos ao produzir alinhamentos com o MAFFT e ao testar o modelo evolutivo com o ModelFinder, mas apesar disso, a análise filogenética de Inferência Bayesiana foi concluída. Para encontrar o arquivo de saída, basta acessar a pasta “<i>GenBank file</i>”, em seguida “<i>files</i>”, “<i>MrBayes_results</i>” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta teremos diversos arquivos, e árvore consenso final estará no arquivo “<b>input.nex.con.tre</b>”, de extensão .TRE. O arquivo de registro da análise será o arquivo “log”. Iremos avaliar, interpretar e editar o arquivo da árvore no tutorial seguinte com o FigTree.
+Em alguns casos o programa pode retornar a mesma janela de erro que vimos ao produzir alinhamentos com o MAFFT e ao testar o modelo evolutivo com o ModelFinder, mas apesar disso, a análise filogenética de Inferência Bayesiana foi concluída. Para encontrar o arquivo de saída, basta acessar a pasta “<i>GenBank file</i>”, em seguida “<i>files</i>”, “<i>MrBayes_results</i>” e a pasta com a data e horário em você utilizou o software. Dentro desta pasta teremos diversos arquivos, e árvore consenso final estará no arquivo “<b>input.nex.con.tre</b>”, de extensão .TRE. O arquivo de registro da análise será o arquivo “<i>log</i>”. Iremos avaliar, interpretar e editar o arquivo da árvore no tutorial seguinte com o FigTree.
 <br><br>
 </div>
 
@@ -187,7 +187,7 @@ Inicialmente fazemos o upload do arquivo de alinhamento a ser utilizado (nesse c
 <li><b>Outgroup:</b> posição do outgroup no arquivo de alinhamento (no nosso exemplo, o isolado de <i>Fusarium oxysporum</i> é o 40ª sequência da lista, então podemos preencher este campo com 40). Outra possibilidade é preencher este campo com o nome da sequência do outgroup, nesse caso “<b>Fusarium_oxysporum_NRRL_22902</b>”, sem o símbolo de “>” que está presente em todos os cabeçalhos de sequências FASTA.</li>
 <li><b>Choose model:</b> modelo evolutivo a ser implementado (aqui usaremos SYM)</li>
 <li><b>Sample frequency:</b> informar a cada quantas gerações uma árvore deve ser amostrada para a geração da árvore consenso final. Este valor deve levar em consideração a quantidade de total de gerações (para não amostrar poucas ou muitas árvores). No exemplo usaremos 10.000</li>
-<li><b>Print frequency:</b> informar a cada quantas gerações o estado das cadeias será salvo no arquivo log para referência posterior. Também deve levar em consideração a quantidade total de gerações, mas como serve somente de referência, não precisa ser tão frequente quanto o “Sample frequency”. Aqui usaremos 100.000</li>
+<li><b>Print frequency:</b> informar a cada quantas gerações o estado das cadeias será salvo no arquivo log para referência posterior. Também deve levar em consideração a quantidade total de gerações, mas como serve somente de referência, não precisa ser tão frequente quanto o “<i>Sample frequency</i>”. Aqui usaremos 100.000</li>
 <li><b>Burn in fraction:</b> especifica quantas árvores iniciais serao descartadas para gerar a arvore consenso. Assim como no PhyloSuite, podemos estimar em 25%.</li>
 <li><b>Checkpoint frequency:</b> informar a cada quantas gerações um arquivo “checkpoint” será criado, que permitirá a retomada da análise a partir deste ponto de parada em caso de problemas. Podemos utilizar também 100.000</li>
 </ul>
