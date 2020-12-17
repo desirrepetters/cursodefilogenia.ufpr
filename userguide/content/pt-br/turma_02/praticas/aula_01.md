@@ -39,15 +39,15 @@ Um eletroferograma é um gráfico representativo do material que foi sequenciado
 <br><br>
 Neste guia, vamos avaliar alguns dos principais tipos eletroferogramas que podem ser encontrados, e quais atitudes tomar em relação à cada situação.
 <br><br>
-Para abrir um eletroferograma no MEGA, devemos utilizar a opção “View/Edit Sequencer Files (Trace)” dentro do menu “Align”. 
+Para abrir um eletroferograma no MEGA, devemos utilizar a opção “<i>View/Edit Sequencer Files (Trace)</i>” dentro do menu “<i>Align</i>”. 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_1.png" alt="Janela da Opção Edit/View Sequencer Files (Trace)" align="center">
 </center>
 <br><br>
-Procure em seu computador o Arquivo “<b>Aula_01_Exemplo_01F.abi</b>”, e clique em Abrir. Este é um típico exemplo de um eletroferograma de boa qualidade, em que não ocorreram problemas durante o preparo da amostra, e nem durante o processo de sequenciamento. Vamos agora discutir alguns dos principais detalhes a serem levados em consideração.
+Procure em seu computador o Arquivo “<b>Aula_01_Exemplo_01F.abi</b>”, e clique em "<i>Abrir</i>". Este é um típico exemplo de um eletroferograma de boa qualidade, em que não ocorreram problemas durante o preparo da amostra, e nem durante o processo de sequenciamento. Vamos agora discutir alguns dos principais detalhes a serem levados em consideração.
 <br><br>
-Em geral, no início e no final do eletroferograma podemos ver bases mal resolvidas, com picos largos, de altura e espaçamento irregular, sobrepostos ou até mesmo duplos. Apesar de ser um evento frequente e normal, a informação destas bases deve ser desconsiderada, pois não há como garantir sua confiabilidade e falta precisão. Dessa forma, a primeira etapa do processamento de uma sequência deve ser cortar estas regiões mal resolvidas das pontas. Para isso, devemos clicar na última base da região a ser desconsiderada no início da sequência (que no exemplo é uma base C perto da posição 20) e em seguida na opção “Mask upstream of the cursor”. Isso fará com que esta região seja marcada para ser desconsiderada posteriormente. Se tudo der certo, ela ficará sombreada em cinza, diferente do restante da sequência. Neste exemplo não precisaremos cortar a sequência na região final, mas caso fosse necessário, bastaria selecionar a primeira base a ser desconsiderada no final da sequência, e usar a opção “Mask downstream of the cursor”.
+Em geral, no início e no final do eletroferograma podemos ver bases mal resolvidas, com picos largos, de altura e espaçamento irregular, sobrepostos ou até mesmo duplos. Apesar de ser um evento frequente e normal, a informação destas bases deve ser desconsiderada, pois não há como garantir sua confiabilidade e falta precisão. Dessa forma, a primeira etapa do processamento de uma sequência deve ser cortar estas regiões mal resolvidas das pontas. Para isso, devemos clicar na última base da região a ser desconsiderada no início da sequência (que no exemplo é uma base C perto da posição 20) e em seguida na opção “<i>Mask upstream of the cursor</i>”. Isso fará com que esta região seja marcada para ser desconsiderada posteriormente. Se tudo der certo, ela ficará sombreada em cinza, diferente do restante da sequência. Neste exemplo não precisaremos cortar a sequência na região final, mas caso fosse necessário, bastaria selecionar a primeira base a ser desconsiderada no final da sequência, e usar a opção “<i>Mask downstream of the cursor</i>”.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_2.png" alt="Janela da Opção Mask upstream of the cursor" align="center">
@@ -55,13 +55,13 @@ Em geral, no início e no final do eletroferograma podemos ver bases mal resolvi
 <br><br>
 Após marcar as regiões de corte, precisamos avaliar o restante da sequência. Um bom cromatograma como o do exemplo apresenta bases regularmente espaçadas, de picos únicos e de alturas (intensidades) semelhantes. Neste momento de avaliação, é importante observar se a sequência na parte superior da tela corresponde aos picos que estão na parte inferior, pois em alguns momentos o software pode adicionar ou remover bases por engano, principalmente em regiões em que há bases repetidas. Se for necessário adicionar bases que foram removidas, podemos clicar na sequência e digitar a letra correspondente à base inexistente. Se for necessário remover, basta clicar na letra correspondente à base extra e deletar. Para facilitar essa visualização, o software utiliza cores diferentes para os picos de cada base: vermelho para timinas, azul para citosinas, verde para adeninas e preto para guaninas.
 <br><br>
-Se tudo estiver de acordo com a sequência, podemos transferi-la para outra janela do MEGA clicando na opção “Add unmasked sequence to Alignment Explorer” ou utilizando o atalho “Ctrl + A”:
+Se tudo estiver de acordo com a sequência, podemos transferi-la para outra janela do MEGA clicando na opção “<i>Add unmasked sequence to Alignment Explorer</i>” ou utilizando o atalho “<i>Ctrl + A</i>”:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_3.png" alt="Janela da Opção Add unmasked sequence to Alignment Explorer, apresentando eletroferograma de boa qualidade" align="center">
 </center>
 <br><br>
-Ao utilizarmos esta opção, a sequência é adicionada à aba de Exploração de Alinhamentos. A partir desta aba, podemos renomear a sequência para outro nome de interesse (em geral, a sequência tem um nome relacionado ao equipamento, que não corresponde ao nome da amostra). Neste caso, iremos renomear esta sequência de “46175” para “Exemplo_01F”, dando dois cliques sobre o nome dela e digitando o novo nome:
+Ao utilizarmos esta opção, a sequência é adicionada à aba de Exploração de Alinhamentos. A partir desta aba, podemos renomear a sequência para outro nome de interesse (em geral, a sequência tem um nome relacionado ao equipamento, que não corresponde ao nome da amostra). Neste caso, iremos renomear esta sequência de “<b>46175</b>” para “<b>Exemplo_01F</b>”, dando dois cliques sobre o nome dela e digitando o novo nome:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_4.png" alt="Instrução para Renomear as Sequências" align="center">
@@ -69,15 +69,15 @@ Ao utilizarmos esta opção, a sequência é adicionada à aba de Exploração d
 <br><br>
 A partir deste ponto, podemos fazer diferentes análises com esta sequência, desde submetê-la ao BLAST no NCBI GenBank, quanto alinhá-las à outras sequências. Neste momento, entretanto, vamos analisar outro arquivo. Você deve ter notado que o nome do arquivo contém a letra F no final, e que há outro arquivo com a letra R. “F” e “R” são abreviações comumente utilizadas para “Forward” e “Reverse”, que se referem à orientação direta ou reversa de uma sequência de DNA. Ao sequenciar um fragmento, é muito comum fazê-lo em ambas as direções, tanto para obter um fragmento final maior, quanto para obter maior confiabilidade ao observar a sobreposição de ambas as sequências, combinando as duas numa sequência consenso. 
 <br><br>
-Vamos então produzir uma sequência consenso para o “Exemplo_01”. Por hora, deixaremos de lado a primeira sequência que analisamos. Minimize a aba de exploração de alinhamentos, e volte para a tela inicial do MEGA, e clique novamente na opção “View/Edit Sequencer Files (Trace)” dentro do menu “Align”. Agora, procure em seu computador o Arquivo “<b>Aula_01_Exemplo_01R.abi</b>”, e clique em Abrir. Faremos os mesmos procedimentos de corte que foram feitos na sequência anterior (desta vez, na base G da posição 20), exportaremos para a aba de exploração de alinhamentos, e a renomearemos como “Exemplo_01R”. 
+Vamos então produzir uma sequência consenso para o “<b>Exemplo_01</b>”. Por hora, deixaremos de lado a primeira sequência que analisamos. Minimize a aba de exploração de alinhamentos, e volte para a tela inicial do MEGA, e clique novamente na opção “<i>View/Edit Sequencer Files (Trace)</i>” dentro do menu “<i>Align</i>”. Agora, procure em seu computador o Arquivo “<b>Aula_01_Exemplo_01R.abi</b>”, e clique em Abrir. Faremos os mesmos procedimentos de corte que foram feitos na sequência anterior (desta vez, na base G da posição 20), exportaremos para a aba de exploração de alinhamentos, e a renomearemos como “<b>Exemplo_01R</b>”. 
 <br><br>
-Para criar a sequência consenso final, precisamos encontrar as regiões de sobreposição entre as duas sequências, e ver quais regiões foram sequenciadas em ambas as fitas. Para isso, vamos alinhar as duas sequências com o MUSCLE, que é um software de alinhamento incluído dentro do MEGA. Como não estamos trabalhando com sequências de DNA codificante, selecionaremos a opção “Align DNA”:
+Para criar a sequência consenso final, precisamos encontrar as regiões de sobreposição entre as duas sequências, e ver quais regiões foram sequenciadas em ambas as fitas. Para isso, vamos alinhar as duas sequências com o MUSCLE, que é um software de alinhamento incluído dentro do MEGA. Como não estamos trabalhando com sequências de DNA codificante, selecionaremos a opção “<i>Align DNA</i>”:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_5.png" alt="Instruções para alinhamento das sequências com o MUSCLE" align="center">
 </center>
 <br><br>
-Em seguida, clique em OK para que o MUSCLE selecione as duas sequências disponíveis, e peça aceite os parâmetros sugeridos por padrão, clicando em “Compute”. O MUSCLE iniciará o alinhamento, que tende a ser rápido por se tratarem de apenas duas sequências. 
+Em seguida, clique em OK para que o MUSCLE selecione as duas sequências disponíveis, e peça aceite os parâmetros sugeridos por padrão, clicando em “<i>Compute</i>”. O MUSCLE iniciará o alinhamento, que tende a ser rápido por se tratarem de apenas duas sequências. 
 <br><br>
 Agora, vamos analisar o resultado. Observe que as sequências praticamente não estão alinhadas, com vários gaps (regiões presentes em apenas uma das sequências) e posições discordantes ao longo do alinhamento. As posições idênticas nas duas sequências são sinalizadas com asteriscos:
 <br><br>
@@ -85,17 +85,17 @@ Agora, vamos analisar o resultado. Observe que as sequências praticamente não 
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_6.png" alt="Instruções para alinhamento das sequências com o MUSCLE" align="center">
 </center>
 <br><br>
-Por que isto aconteceu, considerando que se tratam de duas sequências do mesmo organismo, e da mesma região genômica? A resposta está em um ponto já mencionado anteriormente: a orientação das fitas. Uma das sequências está na orientação direta, mas as outra está na orientação reversa, sendo reversamente complementar à fita direta. Para corrigir e produzir a sequência consenso, precisamos artificialmente inverter esta sequência, clicando sobre ela com o botão direito do mouse e em seguida em “Reverse complement”. Depois de inverter a sequência, repita o procedimento de alinhamento no MUSCLE e compare o resultado com o do alinhamento anterior. Desta vez, temos várias posições idênticas, e nas pontas temos regiões que estavam presentes em apenas uma das fitas. 
+Por que isto aconteceu, considerando que se tratam de duas sequências do mesmo organismo, e da mesma região genômica? A resposta está em um ponto já mencionado anteriormente: a orientação das fitas. Uma das sequências está na orientação direta, mas as outra está na orientação reversa, sendo reversamente complementar à fita direta. Para corrigir e produzir a sequência consenso, precisamos artificialmente inverter esta sequência, clicando sobre ela com o botão direito do mouse e em seguida em “<i>Reverse complement</i>”. Depois de inverter a sequência, repita o procedimento de alinhamento no MUSCLE e compare o resultado com o do alinhamento anterior. Desta vez, temos várias posições idênticas, e nas pontas temos regiões que estavam presentes em apenas uma das fitas. 
 <br><br>
 Para produzir a sequência consenso final, podemos adotar um critério mais conservador e utilizar apenas as regiões que apresentam sobreposição, deletando as pontas. Para excluir estas bases das pontas, basta selecioná-las e deletar. Entretanto, dependendo da qualidade do sequenciamento, podemos optar por não excluir estas bases e utilizá-las mesmo assim, quando o eletroferograma apresentava uma boa qualidade. 
 <br><br>
-Para isso, teremos que copiar a informação extra de uma das fitas para a outra. Sugerimos selecionar e copiar a sequência da fita direta para a fita reversa, selecionando a região que está presente apenas na fita direta, e colar na fita reversa. Em seguida, delete a sequência da fita direta, clicando sobre ela e selecionando “Delete”.
+Para isso, teremos que copiar a informação extra de uma das fitas para a outra. Sugerimos selecionar e copiar a sequência da fita direta para a fita reversa, selecionando a região que está presente apenas na fita direta, e colar na fita reversa. Em seguida, delete a sequência da fita direta, clicando sobre ela e selecionando “<i>Delete</i>”.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_7.png" alt="Instruções para deletar sequência extra durante a criação da consenso" align="center">
 </center>
 <br><br>
-Agora é hora de exportar a sequência consenso final para um arquivo .FASTA que será utilizado em análises futuras. Para isso, renomeie a sequência para “Exemplo_01” e dentro do menu superior “Data”, selecione a opção “FASTA format” dentro de “Export alignment”. Escolha a pasta do computador e o nome de sua preferência para salvar o arquivo. 
+Agora é hora de exportar a sequência consenso final para um arquivo .FASTA que será utilizado em análises futuras. Para isso, renomeie a sequência para “<b>Exemplo_01</b>” e dentro do menu superior “<i>Data</i>”, selecione a opção “<i>FASTA format</i>” dentro de “<i>Export alignment</i>”. Escolha a pasta do computador e o nome de sua preferência para salvar o arquivo. 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_8.png" alt="Instruções para exportar a sequência no formato .FASTA" align="center">
@@ -106,7 +106,7 @@ Agora é hora de exportar a sequência consenso final para um arquivo .FASTA que
 ## Que outros tipos de eletroferograma posso encontrar?
 
 <div align="justify">
-Procure em seu computador o Arquivo “<b>Aula_01_Exemplo_02.abi</b>”, e clique em Abrir. Observe que neste caso, apesar de muitos dos picos estarem regularmente espaçados, há diversos picos duplos ao longo da sequência. 
+Procure em seu computador o Arquivo “<b>Aula_01_Exemplo_02.abi</b>”, e clique em "<i>Abrir</i>". Observe que neste caso, apesar de muitos dos picos estarem regularmente espaçados, há diversos picos duplos ao longo da sequência. 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_9.png" alt="Eletroferograma com Picos Duplos" align="center">
@@ -128,7 +128,7 @@ Para o próximo exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exemp
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_10.png" alt="Eletroferograma com Queda Repentina do Sinal" align="center">
 </center>
 <br><br>
-Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exemplo_04.abi</b>”, e clique em Abrir. Este é um dos piores resultados que podem ser encontrados, e em que obrigatoriamente deve-se repetir a reação de sequenciamento. A ausência de sinal num eletroferograma pode ter diversos motivos, desde falhas no equipamento e na corrida, bem como perda da amostra durante os procedimentos de purificação. Nesses casos, costuma-se observar alguns poucos picos altos no início do eletroferograma, que correspondem aos dideoxinucleotídeos que não foram incorporados durante a reação.
+Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exemplo_04.abi</b>”, e clique em "<i>Abrir</i>". Este é um dos piores resultados que podem ser encontrados, e em que obrigatoriamente deve-se repetir a reação de sequenciamento. A ausência de sinal num eletroferograma pode ter diversos motivos, desde falhas no equipamento e na corrida, bem como perda da amostra durante os procedimentos de purificação. Nesses casos, costuma-se observar alguns poucos picos altos no início do eletroferograma, que correspondem aos dideoxinucleotídeos que não foram incorporados durante a reação.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_01/aula_01_11.png" alt="Eletroferograma sem nenhum pico" align="center">
@@ -137,23 +137,15 @@ Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exempl
 
 </div>
 
-## Aula gravada (26/10/2020)
+## Aula em vídeo
 
 <br>
 <div align="center">
-<h2>Parte 01</h2>
-<br>
-<i>Visão geral do MEGA e primeiros passos da análise de um cromatograma</i>
-<br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdGEIQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeN0ePRtjVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br>
-
-<h2>Parte 02</h2>
-<br>
-<i>Produção de sequência consenso e alguns eletroferogramas problemáticos</i>
-<br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxBOlA5PZU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Clique <a href="https://photos.app.goo.gl/3LBgHgLsCDLef2TU8">aqui</a> para fazer o download do vídeo.
 <br><br>
+</div>
 
 <h2>Slides</h2>
 <br>

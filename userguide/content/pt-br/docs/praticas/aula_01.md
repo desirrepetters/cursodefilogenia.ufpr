@@ -137,23 +137,15 @@ Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exempl
 
 </div>
 
-## Aula gravada (26/10/2020)
+## Aula em vídeo
 
 <br>
 <div align="center">
-<h2>Parte 01</h2>
-<br>
-<i>Visão geral do MEGA e primeiros passos da análise de um cromatograma</i>
-<br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdGEIQxDr1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeN0ePRtjVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br>
-
-<h2>Parte 02</h2>
-<br>
-<i>Produção de sequência consenso e alguns eletroferogramas problemáticos</i>
-<br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxBOlA5PZU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Clique <a href="https://photos.app.goo.gl/3LBgHgLsCDLef2TU8">aqui</a> para fazer o download do vídeo.
 <br><br>
+</div>
 
 <h2>Slides</h2>
 <br>
