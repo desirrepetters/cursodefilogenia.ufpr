@@ -1,14 +1,14 @@
 ---
 title: "Aula 03 - Teste de Modelos Evolutivos"
 linkTitle: "Aula 03 - Teste de Modelos Evolutivos"
-weight: 1
+weight: 3
 description: >
   Softwares utilizados: ModelFinder no PhyloSuite ou jModelTest
 ---
 <div align="justify">
 Com o nosso alinhamento devidamente inspecionado e corrigido, a próxima etapa é descobrir qual o modelo evolutivo mais se ajusta ao nosso alinhamento, para que possamos implementá-lo em nossa análise filogenética. 
 <br><br>
-Para este tutorial, utilizaremos o plugin do ModelFinder dentro do PhyloSuite, e como possibilidade extra, podemos utilizar o jModelTest (em sua versão instalada ou no portal CIPRES). Se você ainda não tem o PhyloSuite instalado com os plugins do ModelFinder e do IQ-TREE configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Caso prefira utilizar o jModelTest, pode encontrar instruções de instalação <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/jmodeltest">aqui</a>.
+Para este tutorial, utilizaremos o plugin do ModelFinder dentro do PhyloSuite, e como possibilidade extra, podemos utilizar o jModelTest (em sua versão instalada ou no portal <a href="https://www.phylo.org/">CIPRES</a>). Se você ainda não tem o PhyloSuite instalado com os plugins do ModelFinder e do IQ-TREE configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Caso prefira utilizar o jModelTest, pode encontrar instruções de instalação <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/jmodeltest">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
@@ -70,7 +70,7 @@ Há duas etapas distintas para determinar o modelo evolutivo mais adequado. Prim
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_03/aula_03_6.png" alt="Opção "Compute likelihood scores" no menu Analysis do jModelTest" align="center">
 </center>
 <br><br>
-Em seguida, vamos configurar os parâmetros necessários. Na opção “<i>Number of substitution schemes</i>” selecione “3”. Esta opção irá testar apenas os modelos que podem ser implementados no MrBayes: isso será importante para simplificar o arquivo de saída e não testar uma extensa lista de modelos que nem podem ser utilizados. No campo “Rate variation” selecione as opções “+I” e “G” para incluir as taxas de variação entre sítios de uma sequência: “+I” para levar em consideração a proporção de sítios invariáveis e “+G” para a distribuição gamma. Em “<i>Base tree search</i>”, a opção NNI fará uma estimativa mais rápida, e a opção SPR será mais lenta. O restante dos campos pode ser mantido sem modificações:
+Em seguida, vamos configurar os parâmetros necessários. Na opção “<i>Number of substitution schemes</i>” selecione “3”. Esta opção irá testar apenas os modelos que podem ser implementados no MrBayes: isso será importante para simplificar o arquivo de saída e não testar uma extensa lista de modelos que nem podem ser utilizados. No campo “<i>Rate variation</i>” selecione as opções “+I” e “G” para incluir as taxas de variação entre sítios de uma sequência: “+I” para levar em consideração a proporção de sítios invariáveis e “+G” para a distribuição gamma. Em “<i>Base tree search</i>”, a opção NNI fará uma estimativa mais rápida, e a opção SPR será mais lenta. O restante dos campos pode ser mantido sem modificações:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_03/aula_03_7.png" alt="Opções para configuração do jModelTest" align="center">
@@ -100,14 +100,13 @@ Para exibir a tabela com os resultados, clique na opção “<i>Show results tab
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_03/aula_03_11.png" alt="Opção Show results table no menu Results do jModelTest" align="center">
 </center>
 <br><br>
-Na janela “Results”, escolha o critério de interesse (nesse caso, vamos escolher AICc), e para ordenar a tabela de acordo com o melhor critério, clique em “AICc” no cabeçalho (ou em “BIC” caso escolha o critério BIC). O modelo evolutivo mais adequado estará destacado em vermelho (com valor de deltaAICc igual a 0.0), e, neste caso, é o GTR +I +G.
+Na janela “<i>Results</i>”, escolha o critério de interesse (nesse caso, vamos escolher AICc), e para ordenar a tabela de acordo com o melhor critério, clique em “<I>AICc</i>” no cabeçalho (ou em “<i>BIC</i>” caso escolha o critério BIC). O modelo evolutivo mais adequado estará destacado em vermelho (com valor de deltaAICc igual a 0.0), e, neste caso, é o GTR +I +G.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_03/aula_03_12.png" alt="Janela com os melhores modelos evolutivos para o critério AICc, com destaque para o modelo GTR+I+G em vermelho" align="center">
 </center>
 <br><br>
 </div>
-
 
 ## Aula em vídeo
 
@@ -118,4 +117,3 @@ Na janela “Results”, escolha o critério de interesse (nesse caso, vamos esc
 Clique <a href="https://photos.app.goo.gl/8KZEPZ4SfGgkcQrY9">aqui</a> para fazer o download do vídeo.
 <br><br>
 </div>
-
