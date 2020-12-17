@@ -1,7 +1,7 @@
 ---
 title: "Aula 06 - Análise Filogenética com Alinhamento Concatenado"
 linkTitle: "Aula 06 - Análise Filogenética com Alinhamento Concatenado"
-weight: 1
+weight: 6
 description: >
   Softwares utilizados: IQ-TREE e MrBayes no PhyloSuite e versões online do IQ-TREE e MrBayes
 ---
@@ -40,7 +40,7 @@ Após realizar o teste de modelo evolutivo tanto com o ModelFinder quanto com o 
 <br><br>
 <ul>
 <li><b>Alignment file:</b> aqui deve estar listado o nome do arquivo de alinhamento concatenado que será usado pela análise, no formato FASTA. No exemplo, é o arquivo “<b>Aula_05_Alinhamento_Concatenado.fas</b>”</li>
-<li><b>Seq. Type:</b> podemos manter em “Auto detect”, ou especificar o tipo de sequência que estamos utilizando, que neste caso é DNA.</li>
+<li><b>Seq. Type:</b> podemos manter em “<i>Auto detect</i>”, ou especificar o tipo de sequência que estamos utilizando, que neste caso é DNA.</li>
 <li><b>Partition mode:</b> aqui devemos selecionar o arquivo produzido pelo ModelFinder ou pelo PartitionFinder que informa como o alinhamento concatenado deve ser ou não particionado. Caso você tenha optado pelos resultados do ModelFinder, o arquivo será “<b>Aula_05_Alinhamento_Concatenado_fas_mrbayes.best_scheme.nex</b>”. Já se você tiver optado pelo resultado do PartitionFinder, o arquivo será “<b>IQ_partition.nex</b>”.</li>
 <li><b>Outgroup:</b> aqui devemos selecionar o(s) outgroup(s) a ser utilizado, dentre os todos os indíviduos incluídos na análise. O IQ-TREE suporta a inclusão de mais de um indivíduo como outgroup. Entre parênteses, o IQ-TREE mostra quantos indivíduos foram selecionados (no exemplo, apenas um, <i>Fusarium oxysporum</i>).</li>
 </ul>
@@ -109,7 +109,7 @@ Após realizar o teste de modelo evolutivo tanto com o ModelFinder quanto com o 
 <br>
 Dentro da seção “<i>Parameters</i>” o software configurará automaticamente os parâmetros de acordo com os resultados do ModelFinder ou do PartitionFinder. O PhyloSuite terá feito a configuração automática corretamente caso todos os campos como “<i>Models</i>” ou “<i>Rate Var</i>” estejam acinzentados e sem possibilidade de modificação, e a opção “Partition Models” esteja colorida. Caso a opção “<i>Partition Models</i>” esteja acinzentada, clique sobre ela para ativar a configuração. 
 <br><br>
-Já na seção “MCMC Settings”, configuraremos parâmetros relacionados ao método de Markov-Chain Monte Carlo:
+Já na seção “<i>MCMC Settings</i>”, configuraremos parâmetros relacionados ao método de Markov-Chain Monte Carlo:
 <br><br>
 <ul>
 <li><b>Generations:</b> número total de gerações da análise em que novos estados para as cadeias são propostos e aceitos/rejeitados.  O número necessário varia de acordo com o alinhamento analisado e muitas vezes necessitará otimização. Ao final da análise saberemos se utilizamos uma quantidade adequada se as cadeias atingirem a convergência. Neste exemplo, usaremos 10.000.000.</li>
@@ -117,7 +117,7 @@ Já na seção “MCMC Settings”, configuraremos parâmetros relacionados ao m
 <li><b>Number of runs:</b> Quantas análises serão realizadas simultaneamente e comparadas para definir se a convergência foi atingida. Aqui usaremos 2, mas pode ser utilizado um valor maior.</li>
 <li><b>Number of chains:</b> quantidade de cadeias de Markov independentes que serão testadas ao longo das gerações. Se o valor for 1, não serão utilizadas cadeias aquecidas (análise MCMC). Se for utilizado um valor maior que 1, o método MCMCMC será implementado, com cadeias aquecidas. Dentre o número total de cadeias (n), “n-1” serão cadeias quentes e 1 será fria. A cadeia fria é a “prioritária”, mas ao longo das gerações há troca de informações entre as cadeias para que a análise não estacione em uma topologia ótima local que não seja a topologia ótima global. Em geral, alinhamentos com 50 sequências ou mais tendem a necessitar do uso de cadeias aquecidas para serem resolvidos. Aqui usaremos 4 cadeias (3 quentes e 1 fria), mas alinhamentos mais complexos podem se beneficiar do uso de mais cadeias (6 ou 8 cadeias por exemplo). Entretanto, quanto maior o número de cadeias, mais demorada a análise.</li>
 <li><b>Contype:</b> este parâmetro especifica o tipo de árvore consenso que será produzida. contype especifica o tipo de árvore consenso. "<i>Halfcompat</i>" resulta numa árvore em que só serão mostrados grupos/clados que apresentem mais que 0.5 de suporte em probabilidade posterior. Quando o suporte é inferior, são mostradas politomias. "<i>Allcompat</i>" mostrará todos os grupos, independentemente do valor de probabilidade posterior, causando problemas de interpretação ao exibir grupos com valor de suporte muito baixo. Utilizaremos “<i>Halfcompat</i>”</li>
-<li><b>Conformat:</b> especifica o formato do arquivo da árvore, que será lido por outros softwares como o FigTree. "<i>Simple</i>" resulta numa árvore que pode ser lida por diversos programas diferentes. "<i>FigTree</i>" resulta numa árvore formatada para o FigTree. Utilizaremos “Simple” para maximizar a compatibilidade entre diferentes programas.</li>
+<li><b>Conformat:</b> especifica o formato do arquivo da árvore, que será lido por outros softwares como o FigTree. "<i>Simple</i>" resulta numa árvore que pode ser lida por diversos programas diferentes. "<i>FigTree</i>" resulta numa árvore formatada para o FigTree. Utilizaremos “<i>Simple</i>” para maximizar a compatibilidade entre diferentes programas.</li>
 <li><b>Burnin Fraction ou Burnin:</b> especifica quantas árvores iniciais serao descartadas para gerar a arvore consenso. No início da análise as cadeias tendem a divergir rapidamente, de modo que as primeiras árvores amostradas tendem a ser de péssima qualidade e com topologias distintas em relação às topologias observadas na fase estacionária, gerando ruídos no resultado final. Em geral 25 por cento do total de árvores amostradas como Burnin é um valor adequado adequado (0.25, especificado como valor relativo para o “<i>Burnin Fraction</i>”, mas também pode ser especificado como valor absoluto no campo “<i>Burnin</i>”). Há softwares (como o Tracer) que podem estimar valores de burnin mais específicos, se necessário.</li>
 </ul>
 <br><br>
@@ -131,7 +131,7 @@ Ao clicarmos na opção “<i>Show MrBayes Data Block</i>” podemos conferir se
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_7.png" alt="Bloco de configuração do modelo evolutivo dentro do script do MrBayes no PhyloSuite" align="center">
 </center>
 <br><br>
-Por fim, clique em “<i>Start</i>” para iniciar a análise e acompanhe o processo pela barra de progresso. Diferentemente da análise de máxima verossimilhança, podemos verificar se as cadeias das duas análises (parâmetro “<i>Number of runs</i>”) atingiram convergência de acordo com o valor de “Average standard deviation of split frequencies”. Se o valor for igual ou inferior a 0.01, a convergência foi atingida e a análise não precisa ser continuada, mesmo que o número total de gerações ainda não tenha sido atingido: 
+Por fim, clique em “<i>Start</i>” para iniciar a análise e acompanhe o processo pela barra de progresso. Diferentemente da análise de máxima verossimilhança, podemos verificar se as cadeias das duas análises (parâmetro “<i>Number of runs</i>”) atingiram convergência de acordo com o valor de “<i>Average standard deviation of split frequencies</i>”. Se o valor for igual ou inferior a 0.01, a convergência foi atingida e a análise não precisa ser continuada, mesmo que o número total de gerações ainda não tenha sido atingido: 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_8.png" alt="Valor de Average standard deviation of split frequencies inferior a 0.01" align="center">
@@ -144,9 +144,9 @@ Em alguns casos o programa pode retornar a mesma janela de erro que vimos nas an
 ## Análise Filogenética de Inferência Bayesiana com o MrBayes com o CIPRES
 
 <div align="justify">
-Visto que o NGPhylogeny.fr é limitado às análises com apenas um gene, utilizaremos o CIPRES para realizar a análise filogenética de inferência bayesiana em alinhamentos concatenados. A configuração é bastante simples, e o PhyloSuite pode ajudar neste processo. A única desvantagem é a limitação de utilizar apenas um outgroup, ao invés de múltiplos outgroups conforme permitido pelo PhyloSuite.
+Visto que o NGPhylogeny.fr é limitado às análises com apenas um gene, utilizaremos o <a href="http://www.phylo.org/">CIPRES</a> para realizar a análise filogenética de inferência bayesiana em alinhamentos concatenados. A configuração é bastante simples, e o PhyloSuite pode ajudar neste processo. A única desvantagem é a limitação de utilizar apenas um outgroup, ao invés de múltiplos outgroups conforme permitido pelo PhyloSuite.
 <br><br>
-Antes de realizar a configuração no CIPRES, iremos baixar o arquivo necessário para a análise na janela de configuração do MrBayes no PhyloSuite. Podemos seguir todas as etapas de concatenação do alinhamento, teste de modelo evolutivo e configuração da análise do MrBayes, lembrando de especificar somente um outgroup. Por fim, ao invés de clicar para iniciar a análise em start, clicaremos em “<i>Show MrBayes Data Block</i>”:
+Antes de realizar a configuração no <a href="http://www.phylo.org/">CIPRES</a>, iremos baixar o arquivo necessário para a análise na janela de configuração do MrBayes no PhyloSuite. Podemos seguir todas as etapas de concatenação do alinhamento, teste de modelo evolutivo e configuração da análise do MrBayes, lembrando de especificar somente um outgroup. Por fim, ao invés de clicar para iniciar a análise em start, clicaremos em “<i>Show MrBayes Data Block</i>”:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_9.png" alt="Opção Show MrBayes Data Block na janela de configuração do MrBayes no PhyloSuite" align="center">
@@ -158,7 +158,7 @@ Ao clicar nesta opção uma nova janela será aberta, apresentando um arquivo NE
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_10.png" alt="Opção Save to File na janela da opção Show MrBayes Data Block no PhyloSuite" align="center">
 </center>
 <br><br>
-Em seguida, acesse o CIPRES e faça o upload deste arquivo na opção “<i>Data</i>” dentro da pasta de interesse (caso tenha dúvidas sobre este processo, confira instruções mais detalhadas aqui). Neste tutorial usaremos o arquivo “Aula_06_Arquivo_MrBayes_para_CIPRES.”. Após realizar o upload do arquivo, crie uma nova tarefa em “<i>Create New Task</i>”. Atribua um nome para a análise no campo “<i>Description</i>” e clique em “<i>Select Input Data</i>" para selecionar o arquivo de entrada:
+Em seguida, acesse o CIPRES e faça o upload deste arquivo na opção “<i>Data</i>” dentro da pasta de interesse (caso tenha dúvidas sobre este processo, confira instruções mais detalhadas <a href="https://cursodefilogeniaufpr.netlify.app/docs/cadastros/cipres">aqui</a>). Neste tutorial usaremos o arquivo “<b>Aula_06_Arquivo_MrBayes_para_CIPRES</b>.nex”. Após realizar o upload do arquivo, crie uma nova tarefa em “<i>Create New Task</i>”. Atribua um nome para a análise no campo “<i>Description</i>” e clique em “<i>Select Input Data</i>" para selecionar o arquivo de entrada:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_11.png" alt="Página de configuração de nova tarefa no CIPRES" align="center">
@@ -177,7 +177,7 @@ Em seguida, clique em “<i>Select Tool</i>” para selecionar o software a ser 
 <br><br>
 Após selecionar o software, clique em “<i>Set parameters</i>” para configurar os parâmetros da análise. Como o arquivo que foi obtido no PhyloSuite possuía o alinhamento e os comandos utilizados pelo MrBayes, marque a caixa de seleção “<i>My Data Contains a MrBayes Data Block (CHECK THIS OR MrBayes BLOCK ENTRIES WILL BE OVERWRITTEN!!!)</i>”, para que o CIPRES leve em conta os comandos presentes no arquivo e não seja necessário fazer todas as configurações manualmente na página do CIPRES. 
 <br><br>
-Em seguida, informe o número de sub-análises e número de cadeias de Markov de forma semelhante ao que foi configurado no PhyloSuite nas opções “My MrBayes Block specifies nruns=” e “My MrBayes Block specifies nchains=”, respectivamente. Em seguida, informe o número máximo de horas computacionais em que a análise deve ser mantida em execução. Como o limite do CIPRES é 168, sugerimos preencher com este valor para garantir que haja tempo suficiente para a conclusão da análise, ou ela será cancelada antes do final. Além disso, caso a análise dure menos de 168 horas computacionais, o valor correto será contabilizado na cota de utilização gratuita de 1000 horas, então não há problemas em estabelecer um valor maior neste momento.  
+Em seguida, informe o número de sub-análises e número de cadeias de Markov de forma semelhante ao que foi configurado no PhyloSuite nas opções “<i>My MrBayes Block specifies nruns=</i>” e “<i>My MrBayes Block specifies nchains=</i>”, respectivamente. Em seguida, informe o número máximo de horas computacionais em que a análise deve ser mantida em execução. Como o limite do CIPRES é 168, sugerimos preencher com este valor para garantir que haja tempo suficiente para a conclusão da análise, ou ela será cancelada antes do final. Além disso, caso a análise dure menos de 168 horas computacionais, o valor correto será contabilizado na cota de utilização gratuita de 1000 horas, então não há problemas em estabelecer um valor maior neste momento.  
 <br><br>
 Por fim, é possível optar por utilizar ou não o BEAGLE. Utilizar o BEAGLE pode acelerar em até 20% a execução das análises. Entretanto, para alguns grupos de difícil resolução, utilizar o BEAGLE pode levar ao surgimento de topologias anômalas na árvore final. O recomendado é utilizá-lo, e desabilitar esta opção somente caso as árvores resultantes estejam muito estranhas, apresentando problemas sérios na topologia (por exemplo, desaparecimento de grupos bem suportados na análise de máxima verossimilhança, ou agrupamentos muito diferentes de filogenias previamente publicadas disponíveis na literatura). Após configurar todas as opções, clique em “<i>Save Parameters</i>” para confirmar. O CIPRES mostrará uma notificação sobre o tempo computacional e o uso do BEAGLE, e basta clicar em “<i>OK</i>” para ambas:
 <br><br>
