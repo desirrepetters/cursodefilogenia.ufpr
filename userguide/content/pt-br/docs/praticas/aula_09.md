@@ -1,7 +1,7 @@
 ---
 title: "Aula 09 - Depósito de alinhamentos e árvores no TreeBASE"
 linkTitle: "Aula 09 - Depósito de alinhamentos e árvores no TreeBASE"
-weight: 1
+weight: 9
 description: >
   Softwares utilizados: Notepad ++ e TreeBASE (online)
 ---
