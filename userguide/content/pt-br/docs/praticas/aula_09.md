@@ -214,10 +214,42 @@ Se os arquivos tiverem sido reconhecidos e vinculados, a configuração do depó
 
 ## Obtendo alinhamentos e árvores no TreeBASE
 
-<br>
-<div align="center">
-Em breve!
-<br><br><br>
+<div align="justify">
+Visto que o TreeBASE é um repositório de alinhamentos e árvores filogenéticas, além de enviarmos os nossos próprios dados, também é possível fazer buscas e obter acesso aos dados presentes em artigos de outros pesquisadores. Esse recurso é bastante útil para obter alinhamentos e árvores de referência que podem vir a servir como base para nossas próprias análises.
+<br><br>
+Para começar a pesquisa, clique na opção “<i>Search Data</i>” na página inicial do TreeBASE:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_09/aula_09_28.png" alt="Opção Search Data na página inicial TreeBASE" align="center">
+</center>
+<br><br>
+Na página de busca será possível procurar por estudos completos (“<i>Studies</i>”), alinhamentos ou matrizes (“<i>Matrices</i>”), árvores (“<i>Trees</i>”), espécies de organismos (“<i>Taxa</i>”) ou por topologias de árvores (“<i>Tree Topologies</i>”). Também é possível alterar o tipo de busca na caixa de seleção, optando por ID do estudo (“<i>Study ID</i>” ou “<i>Legacy Study ID</i>”), autores (“<i>Author</i>”), título (“<i>Title</i>”), palavras do resumo (“<i>Abstract</i>”), citação (“<i>Entire citation</i>”), presença da palavra em qualquer lugar do texto (“<i>All text</i>”) ou pelo Digital Object Identifier/DOI do artigo (“<i>DOI</i>”). Dentre todas, “<i>All text</i>” é a opção mais flexível. 
+<br><br>
+Para iniciarmos nossa busca, digite o termo “<b>fusarium</b>” na caixa de pesquisa, selecione a opção “<i>All text</i>” e clique em “<i>Search</i>”:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_09/aula_09_29.png" alt="Opções de busca no TreeBASE" align="center">
+</center>
+<br><br>
+Na página seguinte podemos observar que a busca retornou 92 depósitos de diferentes estudos. No cabeçalho da tabela é possível filtrar e ordenar os dados de acordo com a ID do estudo, ordem alfabética de autores (“<i>Authors</i>”), título (“<i>Title</i>”) e revista em que o trabalho foi publicado (“<i>Journal/Publisher</i>”), e também em ordem cronológica de ano. Clique duas vezes em “<i>Year</i>” para ordenar os resultados dos mais recentes para os mais antigos. É importante ter em mente que visto que nem todas as revistas exigem o depósito no TreeBASE antes de uma publicação, não encontraremos dados referentes a todos os artigos já publicados que estejam relacionados à filogenia de <i>Fusarium</i>.
+<br><br>
+Dentre os resultados disponíveis, iremos baixar os dados do estudo intitulado “<b>Epitypification of <i>Fusarium oxysporum</i> – clearing the taxonomic chaos</b>” clicando na ID de número <b>S23815</b>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_09/aula_09_29.png" alt="Lista de resultados obtidos com a busca do termo fusarium, com destaque para o estudo S23815" align="center">
+</center>
+<br><br>
+Na página do estudo, podemos verificar informações sobre o estado do trabalho, que neste caso está publicado, bem como a citação, lista de autores e e-mails para contato. Para acessar os arquivos, devemos utilizar as abas na área superior. Em “<i>Taxa</i>” encontraremos a lista de espécies que foram avaliadas no estudo. Já em “<i>Matrices</i>", é possível obter os alinhamentos produzidos no estudo, enquanto em “<i>Trees</i>” será possível realizar o download das árvores. Em ambas as abas “<i>Matrices</i>” e “<i>Trees</i>” poderemos fazer o download dos arquivos no formato “<i>NexML</i>”, “<i>Reconstructed Nexus</i>” ou obter o arquivo original que os autores enviaram ao TreeBASE na opção “<i>Download Original File</i>”:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_09/aula_09_30.png" alt="Opções de download de arquivos no depósito S23815 no TreeBASE" align="center">
+</center>
+<br><br>
+Por fim, na aba “<i>Analyses</i>” é possível obter mais informações sobre as análises realizadas no estudo, e identificar quais árvores foram obtidas a partir de quais alinhamentos. Neste exemplo, em “<i>Input data</i>” está listado o alinhamento de entrada, em “<i>Analysis step</i>” está a informação de que foi realizada uma análise filogenética de Inferência Bayesiana, e em “<i>Output data</i>" está listada a árvore obtida:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_09/aula_09_31.png" alt="Aba Analyses do depósito S23815 no TreeBASE" align="center">
+</center>
 <br><br>
 </div>
 
