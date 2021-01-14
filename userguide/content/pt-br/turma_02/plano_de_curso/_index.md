@@ -81,14 +81,9 @@ description: >
   <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_06"><br>Discussão dos trabalhos individuais e resolução de problemas<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 16 (Síncrona)</td>
-  <td style="vertical-align:middle;">17/12/2020 <br>(08:30 - 12:30)</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_07"><br>Discussão dos trabalhos individuais e resolução de problemas, e finalização do curso<br><br></td>
-  </table>
-  <tr>
-  <td style="vertical-align:middle;">Aula 17 (Síncrona)</td>
   <td style="vertical-align:middle;">18/12/2020 <br>(08:30 - 12:30)</td>
-  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_07"><br>Aula prática com o Prof. Fabricius Domingos<br><br></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogeniaufpr.netlify.app/turma_02/sincronas/aula_07"><br>Aula prática com o Prof. Fabricius Domingos, discussão dos trabalhos individuais e resolução de problemas, e finalização do curso<br><br></td>
   </table>
-</div>
+  </div>
 
 	
