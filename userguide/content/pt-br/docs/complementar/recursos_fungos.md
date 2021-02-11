@@ -114,6 +114,27 @@ Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleioc
 </table> 
 </div>
 
+## CBS Symposium: One Fungus = Which Name?
+
+<br>
+<div align="center">
+<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLF8BF8F71D5A3AEDC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br><br>
+</div>
+
+## The Second International Workshop on Ascomycete Systematics
+
+<br>
+<div align="center">
+<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLoZQYCH0oOJ6sA5l7VHAsN3fZgaGLpFiL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br><br>
+<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLoZQYCH0oOJ4xowIWFse2k8j7dq-GIv34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br><br>
+<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLoZQYCH0oOJ4BXsYab4HVNmEHG2uG89aB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br><br>
+</div>
+
+
 
 ## Aula gravada: Novas regras para nomenclatura em fungos
 
