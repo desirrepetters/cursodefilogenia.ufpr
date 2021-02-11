@@ -101,22 +101,22 @@ Os gêneros disponíveis podem ser consultados nas publicações abaixo:
 	<th><strong>Referência</strong></th>
   <tr>
     <td><br>The Genera of Fungi - G1 (<i>Bartalinia, Chaetospermum, Coniella, Crinitospora,<br> Eleutheromyces, Kellermania, Mastigosporium, Mycotribulus</i>)<br><br></td>
-    <td>Crous et al. 2014. The Genera of Fungi:<br> fixing the application of type species of generic names. <br><b>IMA Fungus</b> 5, 141-160. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2014.05.01.14">10.5598/imafungus.2014.05.01.14</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107892/pdf/ima-5-1-141.pdf">[PDF]</a></b></td>
+    <td>Crous et al. 2014. The Genera of Fungi:<br> fixing the application of type species of generic names. <br><b>IMA Fungus</b> 5, 141-160. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2014.05.01.14">10.5598/imafungus.2014.05.01.14</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107892/pdf/ima-5-1-141.pdf">[PDF]</a></b><br></td>
   </tr> 
   <tr>
     <td>The Genera of Fungi - G2 (<i>Allantophomopsis, Latorua, Macrodiplodiopsis,<br> Macrohilum, Milospium, Protostegia, Pyricularia, Robillarda, Rotula, Septoriella, Torula, Wojnowicia</i>)<br><br></td>
-    <td>Crous et al. 2015. The Genera of Fungi -<br> fixing the application of the type species of generic names - <br>G 2: <i>Allantophomopsis, Latorua, Macrodiplodiopsis, <br>Macrohilum, Milospium, Protostegia, Pyricularia, Robillarda, Rotula, Septoriella, Torula, and Wojnowicia</i>, <b>IMA Fungus</b> 6, 163-198. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2015.06.01.11">10.5598/imafungus.2015.06.01.11</a>. <a href="https://imafungus.biomedcentral.com/track/pdf/10.5598/imafungus.2015.06.01.11.pdf"><b>[PDF]</b></a></td>
+    <td>Crous et al. 2015. The Genera of Fungi -<br> fixing the application of the type species of generic names - <br>G 2: <i>Allantophomopsis, Latorua, Macrodiplodiopsis, <br>Macrohilum, Milospium, Protostegia, Pyricularia, Robillarda, Rotula, Septoriella, Torula, and Wojnowicia</i>. <br><b>IMA Fungus</b> 6, 163-198. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2015.06.01.11">10.5598/imafungus.2015.06.01.11</a>. <a href="https://imafungus.biomedcentral.com/track/pdf/10.5598/imafungus.2015.06.01.11.pdf"><b>[PDF]</b></a><br></td>
   <tr>
     <td>The Genera of Fungi - G3 (<i>Aleurocystis, Blastacervulus, Clypeophysalospora, Licrostroma,<br> Neohendersonia, Spumatoria)<br></i></td>
-    <td>Giraldo et al. 2017. The Genera of Fungi—G3: <br><i>Aleurocystis, Blastacervulus, Clypeophysalospora,<br> Licrostroma, Neohendersonia and Spumatoria.</i> <br><b>Mycological Progress</b> 16, 325-348. <br>DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a>. <a href="https://link.springer.com/content/pdf/10.1007/s11557-017-1270-8.pdf"><b>[PDF]</b></a></td>
+    <td>Giraldo et al. 2017. The Genera of Fungi—G3: <br><i>Aleurocystis, Blastacervulus, Clypeophysalospora,<br> Licrostroma, Neohendersonia and Spumatoria.</i> <br><b>Mycological Progress</b> 16, 325-348. <br>DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a>. <a href="https://link.springer.com/content/pdf/10.1007/s11557-017-1270-8.pdf"><b>[PDF]</b></a><br></td>
   </tr>
   <tr>
     <td>The Genera of Fungi - G4 (<i>Camarosporium, Dothiora)<br></i></td>
-    <td>Crous & Groenewald, 2017. The Genera of Fungi – G 4: <br><i>Camarosporium</i> and <i>Dothiora</i>. <b>IMA Fungus</b> 8, 131-152. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2017.08.01.10">10.5598/imafungus.2017.08.01.10</a>. <a href="https://imafungus.biomedcentral.com/track/pdf/10.5598/imafungus.2017.08.01.10.pdf"><b>[PDF]</b></a></td>
+    <td>Crous & Groenewald, 2017. The Genera of Fungi – G 4: <br><i>Camarosporium</i> and <i>Dothiora</i>. <b>IMA Fungus</b> 8, 131-152. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2017.08.01.10">10.5598/imafungus.2017.08.01.10</a>. <a href="https://imafungus.biomedcentral.com/track/pdf/10.5598/imafungus.2017.08.01.10.pdf"><b>[PDF]</b></a><br></td>
   </tr>
   <tr>
     <td>The Genera of Fungi - G5 (<i>Arthrinium, Ceratosphaeria, Dimerosporiopsis, Hormodochis,<br> Lecanostictopsis, Lembosina, Neomelanconium, Phragmotrichum,<br> Pseudomelanconium, Rutola, Trullula)<br></i></td>
-    <td>Crouus et al. 2020. The Genera of Fungi – G5: <br><i>Arthrinium, Ceratosphaeria, Dimerosporiopsis,<br> Hormodochis, Lecanostictopsis, Lembosina, <br.Neomelanconium, Phragmotrichum, Pseudomelanconium, Rutola, and Trullula.</i> <br><b>FUSE - Fungal Systematics and Evolution</b> 7, 77-98. <br>DOI: <a href="https://doi.org/10.3114/fuse.2020.05.04">10.3114/fuse.2020.05.04</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250017/pdf/fuse-2020-5-4.pdf"><b>[PDF]</b></a></td>
+    <td>Crous et al. 2020. The Genera of Fungi – G5: <br><i>Arthrinium, Ceratosphaeria, Dimerosporiopsis,<br> Hormodochis, Lecanostictopsis, Lembosina, <br.Neomelanconium, Phragmotrichum, Pseudomelanconium, Rutola, and Trullula.</i> <br><b>FUSE - Fungal Systematics and Evolution</b> 7, 77-98. <br>DOI: <a href="https://doi.org/10.3114/fuse.2020.05.04">10.3114/fuse.2020.05.04</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250017/pdf/fuse-2020-5-4.pdf"><b>[PDF]</b></a><br></td>
   </tr>
 </table> 
 </div>
