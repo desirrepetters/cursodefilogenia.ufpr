@@ -101,7 +101,7 @@ Os gêneros disponíveis podem ser consultados nas publicações abaixo:
 	<th><strong>Referência</strong></th>
   <tr>
     <td><br>The Genera of Fungi - G1 (<i>Bartalinia, Chaetospermum, Coniella, Crinitospora,<br> Eleutheromyces, Kellermania, Mastigosporium, Mycotribulus</i>)<br><br></td>
-    <td>Crous et al. 2014. The Genera of Fungi: fixing the application of type species of generic names. <b>IMA Fungus</b> 5, 141-160. DOI: <a href="https://doi.org/10.5598/imafungus.2014.05.01.14">10.5598/imafungus.2014.05.01.14</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107892/pdf/ima-5-1-141.pdf">[PDF]</a></b></td>
+    <td>Crous et al. 2014. The Genera of Fungi: fixing the application of type species of generic names. <b>IMA Fungus</b> 5, 141-160. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2014.05.01.14">10.5598/imafungus.2014.05.01.14</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107892/pdf/ima-5-1-141.pdf">[PDF]</a></b></td>
   </tr> 
   <tr>
     <td>The Genera of Fungi - G2 (<i>Allantophomopsis, Latorua, Macrodiplodiopsis,<br> Macrohilum, Milospium, Protostegia, Pyricularia, Robillarda, Rotula, Septoriella, Torula, Wojnowicia</i>)<br><br></td>
@@ -160,7 +160,7 @@ Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleioc
     <th><strong>Espécie</strong></th>
 	<th><strong>Website</strong></th>
   <tr>
-    <td><br><i>Aspergillus e Penicillium</i><br><br></td>
+    <td><br><i>Aspergillus e <br>Penicillium</i><br><br></td>
     <td><a href="https://www.aspergilluspenicillium.org">https://www.aspergilluspenicillium.org</a></td>
   </tr> 
   </table> 
