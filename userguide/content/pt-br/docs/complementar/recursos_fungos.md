@@ -86,10 +86,47 @@ anytime soon. <b>IMA Fungus</b> 9, 177-183. DOI: <a href"https://doi.org/10.5598
 Vu et al. 2019. Large-scale generation and analysis of filamentous fungal DNA barcodes boots coverage for kingdom fungi and reveals thresholds for fungal species and higher taxon delimitation. <b>Studies in Mycology</b> 92, 1-20. DOI: <a href"https://doi.org/10.1016/j.simyco.2018.05.001">10.1016/j.simyco.2018.05.001</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020082/pdf/main.pdf">[PDF]</a></b>
 </div> 
 
+## Genera of Fungi (GoF)
+
+<div align="justify">
+O projeto Genera of Fungi (GoF) (Gêneros de Fungos) consiste em uma série de publicações com o objetivo de sequenciar, revisar, recoletar e estabelecer descrições estáveis e designar espécie e linhagem tipo para gêneros de fungos que obtiveram um status de "nome protegido" após o fim da dupla nomenclatura de fungos. Em cada publicação, alguns gêneros são revisados, fornecendo uma descrição morfológica, informação sobre patogenicidade e distribuição geográfica, hospedeiros e sintomas, e espécies e linhagens tipo são designadas, para estabelecer uma descrição bem definida para cada gênero. Diferentemente do GOPHY, esta série foca apenas na descrição genérica, sem estabelecer listas de todas as espécies que são aceitas dentro de cada gênero. 
+<br><br>
+Os gêneros disponíveis podem ser consultados no <a href="https://www.plantpathogen.org/">site oficial do GOPHY</a>, e nas publicações abaixo:
+<br><br>
+</div>
+<div align="center">
+<table>
+  <tr>
+    <th><strong>GoF e Gêneros abordados</strong></th>
+	<th><strong>Referência</strong></th>
+  <tr>
+    <td><br>The Genera of Fungi - G1 (<i>Bartalinia, Chaetospermum, Coniella, Crinitospora,<br> Eleutheromyces, Kellermania, Mastigosporium, Mycotribulus</i>)<br><br></td>
+    <td>Crous et al. 2014. The Genera of Fungi: fixing the application of type species of generic names. <b>IMA Fungus</b> 5, 141-160. DOI: <a href="https://doi.org/10.5598/imafungus.2014.05.01.14">10.5598/imafungus.2014.05.01.14</a>. <b><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107892/pdf/ima-5-1-141.pdf">[PDF]</a></b></td>
+  </tr> 
+  <tr>
+    <td>The Genera of Fungi - G2 (<i>Allantophomopsis, Latorua, Macrodiplodiopsis,<br> Macrohilum, Milospium, Protostegia, Pyricularia, Robillarda, Rotula, Septoriella, Torula, Wojnowicia</i>)<br><br></td>
+    <td>Crous et al. 2015. The Genera of Fungi - fixing the application of the type species of generic names - G 2: <i>Allantophomopsis, Latorua, Macrodiplodiopsis, Macrohilum, Milospium, Protostegia, Pyricularia, Robillarda, Rotula, Septoriella, Torula, and Wojnowicia</i>, <b>IMA Fungus</b> 6, 163-198. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2015.06.01.11">10.5598/imafungus.2015.06.01.11</a>. <a href="https://imafungus.biomedcentral.com/track/pdf/10.5598/imafungus.2015.06.01.11.pdf"><b>[PDF]</b></a></td>
+  <tr>
+    <td>The Genera of Fungi - G3 (<i>Aleurocystis, Blastacervulus, Clypeophysalospora, Licrostroma,<br> Neohendersonia, Spumatoria)<br></i></td>
+    <td>Giraldo et al. 2017. The Genera of Fungi—G3: <i>Aleurocystis, Blastacervulus, Clypeophysalospora, Licrostroma, Neohendersonia and Spumatoria.</i> <b>Mycological Progress</b> 16, 325-348. <br>DOI: <a href="https://doi.org/10.1016/j.simyco.2019.05.001">10.1016/j.simyco.2019.05.001</a>. <a href="https://link.springer.com/content/pdf/10.1007/s11557-017-1270-8.pdf"><b>[PDF]</b></a></td>
+  </tr>
+  <tr>
+    <td>The Genera of Fungi - G4 (<i>Camarosporium, Dothiora)<br></i></td>
+    <td>Crous & Groenewald, 2017. The Genera of Fungi – G 4: <i>Camarosporium</i> and <i>Dothiora</i>. <b>IMA Fungus</b> 8, 131-152. <br>DOI: <a href="https://doi.org/10.5598/imafungus.2017.08.01.10">10.5598/imafungus.2017.08.01.10</a>. <a href="https://imafungus.biomedcentral.com/track/pdf/10.5598/imafungus.2017.08.01.10.pdf"><b>[PDF]</b></a></td>
+  </tr>
+  <tr>
+    <td>The Genera of Fungi - G5 (<i>Arthrinium, Ceratosphaeria, Dimerosporiopsis, Hormodochis,<br> Lecanostictopsis, Lembosina, Neomelanconium, Phragmotrichum,<br> Pseudomelanconium, Rutola, Trullula)<br></i></td>
+    <td>Crouus et al. 2020. The Genera of Fungi – G5: <i>Arthrinium, Ceratosphaeria, Dimerosporiopsis, Hormodochis, Lecanostictopsis, Lembosina, Neomelanconium, Phragmotrichum, Pseudomelanconium, Rutola, and Trullula</i> <b>FUSE - Fungaç Systematics and Evolution</b> 7, 77-98. <br>DOI: <a href="https://doi.org/10.3114/fuse.2020.05.04">10.3114/fuse.2020.05.04</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250017/pdf/fuse-2020-5-4.pdf"><b>[PDF]</b></a></td>
+  </tr>
+</table> 
+</div>
+
+
+
 ## Genera of Phytopathogenic Fungi (GOPHY)
 
 <div align="justify">
-Genera of Phytopathogenic Fungi (GOPHY) ("Gêneros de Fungos Fitopatogênicos") consiste em uma série de publicações na revista "Studies in Micology" que tem como objetivo criar uma plataforma estável para a taxonomia de fungos fitopatogênicos. Em cada publicação, alguns gêneros são revisados, fornecendo uma descrição morfológica, informação sobre patogenicidade, distribuição geográfica, hospedeiros e sintomas, bem como listas com as espécies que são reconhecidas e aceitas e acesso às sequências de DNA que podem ser utilizadas para sua identificação.
+Genera of Phytopathogenic Fungi (GOPHY) ("Gêneros de Fungos Fitopatogênicos") consiste em uma série de publicações na revista "Studies in Micology" que tem como objetivo criar uma plataforma estável para a identificação e taxonomia de fungos fitopatogênicos. Em cada publicação, alguns gêneros são revisados, fornecendo uma descrição morfológica, informação sobre patogenicidade, distribuição geográfica, hospedeiros e sintomas, bem como listas com as espécies que são reconhecidas e aceitas dentro de cada gênero, com acesso às sequências de DNA que podem ser utilizadas para sua identificação.
 <br><br>
 Os gêneros disponíveis podem ser consultados no <a href="https://www.plantpathogen.org/">site oficial do GOPHY</a>, e nas publicações abaixo:
 <br><br>
@@ -114,6 +151,20 @@ Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleioc
 </table> 
 </div>
 
+## Recursos para outras espécies
+
+<div align="center">
+<table>
+  <tr>
+    <th><strong>Espécie</strong></th>
+	<th><strong>Website</strong></th>
+  <tr>
+    <td><br><i>Aspergillus e Penicillium</i>)<br><br></td>
+    <td><a href="https://www.aspergilluspenicillium.org">https://www.aspergilluspenicillium.org</a>.</td>
+  </tr> 
+  </table> 
+</div>
+
 ## CBS Symposium: One Fungus = Which Name?
 
 <br>
@@ -133,7 +184,6 @@ Coniella, Curvularia, Monilinia,<br> Neofabraea, Neofusicoccum, Pilidium, Pleioc
 <iframe width="560" height="315" src="https://youtube.com/embed/playlist?list=PLoZQYCH0oOJ4BXsYab4HVNmEHG2uG89aB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br>
 </div>
-
 
 
 ## Aula gravada: Novas regras para nomenclatura em fungos
