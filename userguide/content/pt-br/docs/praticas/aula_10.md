@@ -255,6 +255,7 @@ Por fim, no campo “<i>Nucleotide sequences</i>” é possível colar as sequê
 </center>
 <br><br>
 Na aba seguinte (“<i>Submission Set/Batch</i>”) o BankIt fornece algumas opções para agrupar sequências (quando duas ou mais sequências estão sendo submetidas):
+<br><br>
 <ul>
 <li><b>Pop set (Population study):</b> as sequências pertencem ao mesmo gene, de diferentes indivíduos de uma mesma espécie</li>
 <li><b>Phy set (Phylogenetic study):</b> as sequências pertencem ao mesmo gene, de diferentes indivíduos e de espécies distintas</li>
@@ -262,7 +263,6 @@ Na aba seguinte (“<i>Submission Set/Batch</i>”) o BankIt fornece algumas op�
 <li><b>Env set (Environmental study):</b> as sequências foram obtidas ao sequenciar o mesmo gene a partir de uma população de organismos não identificados ou desconhecidos (muito comum em estudos de metagenômica)</li>
 <li><b>Batch:</b> sequências não relacionadas, que não pertencem ao mesmo gene, mas podem fazer parte de um mesmo estudo ou do mesmo organismo</li>
 </ul>
-<br><br>
 Neste exemplo, como são várias sequências do gene EF de diferentes isolados de <i>Fusarium awaxy</i>, iremos selecionar a opção “<i>Pop set</i>” e clicar em “<i>Continue</i>” para prosseguir:
 <br><br>
 <center>
