@@ -62,10 +62,10 @@ Após concluir o cadastro, retorne para a tela de login e utilize seus dados par
 
 ## Depositando sequências no GenBank via Submission Portal
 
-<div align="center">
+<div align="justify">
 O “Submission Portal” é um sistema unificado para diversos tipos de submissão, tais como sequências de RNA ribossomal (rRNA), rRNA-ITS, COX1 mitocondrial, vírus Influenza, Norovirus, Dengue ou SARS-CoV-2. Para estes tipos de sequências, o sistema é capaz de realizar o depósito de forma bastante automatizada, sem que seja necessário que o usuário forneça um arquivo de anotação da sequência. Dessa forma, o processo de depósito é bastante simplificado.
 <br><br>
-Ao acessar o “<i>Submission Portal</i>”, clique em “<i>New submission</i>” para começar o depósito, e certifique-se de que realmente vai depositar as sequências que o sistema é capaz de processar. Do contrário, <a href="">siga as instruções para depósito no BankIt</a>.
+Ao acessar o “<i>Submission Portal</i>”, clique em “<i>New submission</i>” para começar o depósito, e certifique-se de que realmente vai depositar as sequências que o sistema é capaz de processar. Do contrário, <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas/aula_10/#depositando-sequências-no-genbank-via-bankit">siga as instruções para depósito no BankIt</a>.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_10/aula_10_5.png" alt="Opção New submission na página inicial do Submission Portal" align="center">
@@ -199,7 +199,7 @@ Em geral as sequências enviadas recebem seus códigos em até dois úteis, salv
 
 ## Depositando sequências no GenBank via BankIt
 
-<div align="center">
+<div align="justify">
 Caso as sequências não estejam na lista de sequências que podem ser processadas pelo Submission Portal, deveremos fazer uma submissão pelo BankIt, clicando na opção “<i>Sequence data not listed above (through BankIt)</i>” e em “<i>Start</i>” para começar:
 <br><br>
 <center>
