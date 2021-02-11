@@ -147,7 +147,9 @@ Clique <a href="https://photos.app.goo.gl/3LBgHgLsCDLef2TU8">aqui</a> para fazer
 <br><br>
 </div>
 
-<h2>Slides</h2>
+## Slides
+
+<div align="center">
 <br>
 Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/slides/aula_01.pdf">aqui</a>!
 </div>

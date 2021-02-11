@@ -6,8 +6,6 @@ description: >
   Softwares utilizados: Notepad ++, Microsoft Excel (ou outro editor de planilhas e tabelas), NCBI GenBank e Augustus (online)
 ---
 
-## Tutorial
-
 <div align="justify">
 Na atividade anterior discutimos a importância de depositar os dados que compõem e dão suporte às nossas análises, com uma demonstração como depositar alinhamentos e árvores no TreeBASE. Em muitos casos, quando trabalhamos apenas com sequências já disponíveis na literatura, apenas depositar estes dois tipos de dados já é suficiente no contexto de uma publicação. Entretanto, caso nosso estudo tenha gerado sequências originais e incluído estas sequências nas análises, também é necessário disponibilizá-las à comunidade científica por meio de um depósito no GenBank. 
 <br><br>
