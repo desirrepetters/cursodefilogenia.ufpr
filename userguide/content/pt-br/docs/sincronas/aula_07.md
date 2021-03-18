@@ -1,6 +1,6 @@
 ---
-title: "Aula 07 - Obtenção de Sequências no GenBank e Alinhamento Múltiplo"
-linkTitle: "Aula 07 - Obtenção de Sequências no GenBank e Alinhamento Múltiplo"
+title: "Aula 07 - Análise filogenética de Máxima Verossimilhança e Inferência Bayesiana"
+linkTitle: "Aula 07 - Análise filogenética de Máxima Verossimilhança e Inferência Bayesiana"
 weight: 4
 description: >
   Encontro do dia 12 de Novembro com discussão de dados dos alunos e solução de problemas, e prática em análise filogenética de Máxima Verossimilhança no IQ-TREE (PhyloSuite e online) e de Inferência Bayesiana no MrBayes (PhyloSuite e online)

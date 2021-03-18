@@ -3,7 +3,7 @@ title: "Aula 06 - Resolução de dúvidas e discussão de trabalhos individuais"
 linkTitle: "Aula 06 - Resolução de dúvidas e discussão de trabalhos individuais"
 weight: 4
 description: >
-  Encontro do dia 11 de Dezembro com resolução de dúvidas sobre as aulas 11, 12, 13 e 14 (assíncronas) e continuação da discussão sobre os trabalhos individuais
+  Encontro do dia 11 de Dezembro com resolução de dúvidas e continuação da discussão sobre os trabalhos individuais
 ---
 
 <br>

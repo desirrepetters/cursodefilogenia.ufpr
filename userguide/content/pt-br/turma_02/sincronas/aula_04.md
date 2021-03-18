@@ -3,7 +3,7 @@ title: "Aula 04 - Resolução de dúvidas com Prof. Fabricius Domingos"
 linkTitle: "Aula 04 - Resolução de dúvidas com Prof. Fabricius Domingos"
 weight: 4
 description: >
-  Encontro do dia 07 de Dezembro com o Prof. Fabricius Domingos para resolução de dúvidas sobre a aula 08 (assíncrona)
+  Encontro do dia 07 de Dezembro com o Prof. Fabricius Domingos para resolução de dúvidas sobre a aula 09 (assíncrona)
 ---
 
 <br>
